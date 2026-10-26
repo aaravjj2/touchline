@@ -4,7 +4,7 @@ Manage a football club, play its matches and revisit your decisions in a browser
 
 Vanilla JavaScript and Three.js. Keyboard and touch play, club careers, natural-position drafting, recorded replays and local save recovery. No account or paid AI service is required. Live AI is disabled.
 
-[Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.mp4) · [Download playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-playable.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.srt)
+[Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.mp4) · [Download playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.1/touchline-3.18-preview.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.srt)
 
 ## Try it locally
 

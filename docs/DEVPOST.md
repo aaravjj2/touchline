@@ -40,7 +40,8 @@ The public edition uses original/code-generated presentation and generated playe
 
 - [Play the public browser build](https://touchline-beta-ten.vercel.app/)
 - [Public source and setup](https://github.com/aaravjj2/touchline)
-- [Playable ZIP, walkthrough and captions](https://github.com/aaravjj2/touchline/releases/tag/v3.17.0-preview.3)
+- [Current playable ZIP](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.1/touchline-3.18-preview.zip)
+- [Earlier 3.17 walkthrough and captions](https://github.com/aaravjj2/touchline/releases/tag/v3.17.0-preview.3)
 - [Demo details](DEMO.md)
 - [Verification scope](VERIFICATION.md)
 
