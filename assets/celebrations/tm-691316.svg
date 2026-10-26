@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 230" role="img">
+  <style>@media (prefers-reduced-motion: reduce){animate,animateTransform{display:none}}</style>
+  <rect width="280" height="230" fill="#141c24"/>
+  <rect y="168" width="280" height="62" fill="#1c3a2e"/>
+  <text x="16" y="24" fill="#8ea0b0" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.2">CELEBRATION · NOT A LIKENESS</text>
+  <text x="16" y="55" fill="#f6f3ec" font-family="Impact,sans-serif" font-size="22">Luis Henrique</text>
+  
+  <g transform="translate(132 40)">
+    <g id="motion-107326" transform="rotate(0 48 90)">
+      
+      <g id="motion-107328" transform="translate(0 -8)">
+        
+        <g transform="translate(34 78)"><g id="motion-107330" transform="rotate(-8)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#24507a"/></g></g>
+        <g transform="translate(62 78)"><g id="motion-107332" transform="rotate(8)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#24507a"/></g></g>
+        <path d="M28 52 h40 l6 30 H22 Z" fill="#3673d9"/>
+        <path d="M40 52 h16 l-3 10 H43 Z" fill="#000" opacity=".2"/>
+        <g transform="translate(30 56)"><g id="motion-107334" transform="rotate(-58)"><path d="M0 0 V28" stroke="#3673d9" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="3.2" fill="#ad7453"/></g></g>
+        <g transform="translate(66 56)"><g id="motion-107336" transform="rotate(58)"><path d="M0 0 V28" stroke="#3673d9" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="3.2" fill="#ad7453"/></g></g>
+        <rect x="44" y="40" width="8" height="14" rx="3" fill="#ad7453"/>
+        <circle cx="48" cy="28" r="16" fill="#ad7453"/>
+        <path d="M34 24 Q48 8 62 24 Q48 18 34 24" fill="#15171c"/>
+        <circle cx="42" cy="30" r="1.5" fill="#2a211c"/><circle cx="54" cy="30" r="1.5" fill="#2a211c"/>
+      </g>
+    </g>
+  </g>
+  <text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="1" id="motion-107318">Arms wide</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-107320">Jump</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-107322">Slide</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-107324">Point</text>
+<style>@keyframes track-107319{0%{opacity:1}25%{opacity:0}50%{opacity:0}75%{opacity:0}100%{opacity:1}}@keyframes track-107321{0%{opacity:0}25%{opacity:1}50%{opacity:0}75%{opacity:0}100%{opacity:0}}@keyframes track-107323{0%{opacity:0}25%{opacity:0}50%{opacity:1}75%{opacity:0}100%{opacity:0}}@keyframes track-107325{0%{opacity:0}25%{opacity:0}50%{opacity:0}75%{opacity:1}100%{opacity:0}}@keyframes track-107327{0%{transform:rotate(0deg)}25%{transform:rotate(-6deg)}50%{transform:rotate(38deg)}75%{transform:rotate(6deg)}100%{transform:rotate(0deg)}}@keyframes track-107329{0%{transform:translate(0px,-8px)}25%{transform:translate(0px,-18px)}50%{transform:translate(0px,12px)}75%{transform:translate(0px,-4px)}100%{transform:translate(0px,-8px)}}@keyframes track-107331{0%{transform:rotate(-8deg)}25%{transform:rotate(-10deg)}50%{transform:rotate(8deg)}75%{transform:rotate(4deg)}100%{transform:rotate(-8deg)}}@keyframes track-107333{0%{transform:rotate(8deg)}25%{transform:rotate(10deg)}50%{transform:rotate(-16deg)}75%{transform:rotate(-8deg)}100%{transform:rotate(8deg)}}@keyframes track-107335{0%{transform:rotate(-58deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(-64deg)}75%{transform:rotate(14deg)}100%{transform:rotate(-58deg)}}@keyframes track-107337{0%{transform:rotate(58deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(18deg)}75%{transform:rotate(-96deg)}100%{transform:rotate(58deg)}}@media(prefers-reduced-motion:no-preference){#motion-107318{animation:track-107319 4s steps(1,end) infinite both}#motion-107320{animation:track-107321 4s steps(1,end) infinite both}#motion-107322{animation:track-107323 4s steps(1,end) infinite both}#motion-107324{animation:track-107325 4s steps(1,end) infinite both}#motion-107326{animation:track-107327 4s linear infinite both}#motion-107328{animation:track-107329 4s linear infinite both}#motion-107330{animation:track-107331 4s linear infinite both}#motion-107332{animation:track-107333 4s linear infinite both}#motion-107334{animation:track-107335 4s linear infinite both}#motion-107336{animation:track-107337 4s linear infinite both}}</style></svg>

@@ -1,0 +1,485 @@
+{
+  "meta": {
+    "version": 1,
+    "checked": "2026-10-21",
+    "snapshot": "2026-07-06",
+    "source": "https://github.com/dcaribou/transfermarkt-datasets",
+    "license": "CC0-1.0",
+    "fx": {
+      "base": "EUR",
+      "quote": "GBP",
+      "rate": 0.84028,
+      "date": "2026-10-20",
+      "source": "https://api.frankfurter.dev/v1/2026-10-20?base=EUR&symbols=GBP",
+      "provider": "ECB reference via Frankfurter"
+    },
+    "coverage": {
+      "total": 647,
+      "matched": 571,
+      "marketValues": 549,
+      "contracts": 543,
+      "reportedWages": 8,
+      "unmatched": 76,
+      "ambiguous": 0
+    }
+  },
+  "unmatched": [
+    {
+      "id": "sandbox-eng-p577285",
+      "name": "George Hemmings",
+      "club": "Aston Villa",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p571380",
+      "name": "Luka Lynch",
+      "club": "Aston Villa",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p245719",
+      "name": "Taylor Harwood-Bellis",
+      "club": "Aston Villa",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p508395",
+      "name": "Yehor Yarmoliuk",
+      "club": "Brentford",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p613804",
+      "name": "El Hadji Malick Diouf",
+      "club": "Brentford",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p451490",
+      "name": "João Pedro Loureiro da Costa",
+      "club": "Brighton & Hove Albion",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p454490",
+      "name": "Michael Svoboda",
+      "club": "Brighton & Hove Albion",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p471551",
+      "name": "Femi Azeez",
+      "club": "Brighton & Hove Albion",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p661016",
+      "name": "Younes Ibrahim",
+      "club": "Brighton & Hove Albion",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p636846",
+      "name": "Mahdi Nicoll-Jazuli",
+      "club": "Chelsea",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p110690",
+      "name": "Ben Wilson",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p461102",
+      "name": "Bobby Thomas",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p436761",
+      "name": "Liam Kitching",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p451284",
+      "name": "Milan van Ewijk",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p465390",
+      "name": "Kaine Kesler-Hayden",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p80178",
+      "name": "Jake Bidwell",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p220583",
+      "name": "Luke Woolfenden",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p577411",
+      "name": "Miguel Brau",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p480457",
+      "name": "Jack Rudoni",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p168144",
+      "name": "Matt Grimes",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p501459",
+      "name": "Tatsuhiro Sakamoto",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p241293",
+      "name": "Ephron Mason-Clark",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p439668",
+      "name": "Josh Eccles",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p226965",
+      "name": "Victor Torp",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p684268",
+      "name": "George Shepherd",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p492498",
+      "name": "Raphael Borges Rodrigues",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p218997",
+      "name": "Ellis Simms",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p549653",
+      "name": "Norman Bassette",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p196100",
+      "name": "Gustavo Hamer",
+      "club": "Coventry City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p244860",
+      "name": "Hayden Hackney",
+      "club": "Everton",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p486385",
+      "name": "Norberto Bercique Gomes Betuncal",
+      "club": "Everton",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p616069",
+      "name": "Macaulay Zepa",
+      "club": "Fulham",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p167825",
+      "name": "Dillon Phillips",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p494950",
+      "name": "Harvey Cartwright",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p444307",
+      "name": "Thimothée Lo-Tutala",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p501902",
+      "name": "Charlie Hughes",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p193278",
+      "name": "Lewie Coyle",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p433590",
+      "name": "Cody Drameh",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p232351",
+      "name": "Ryan Giles",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p449428",
+      "name": "Matty Jacob",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p540324",
+      "name": "Mohamed Belloumi",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p101282",
+      "name": "Matt Crooks",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p243413",
+      "name": "Regan Slater",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p465525",
+      "name": "Eliot Matazo",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p553783",
+      "name": "Óscar Zambrano",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p169432",
+      "name": "Oli McBurnie",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p213292",
+      "name": "David Akintola",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p470294",
+      "name": "Darko Gyabi",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p534392",
+      "name": "Mason Burstow",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p462635",
+      "name": "Joe Gelhardt",
+      "club": "Hull City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p108813",
+      "name": "Christian Walton",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p112520",
+      "name": "Alex Palmer",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p50093",
+      "name": "David Button",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p183015",
+      "name": "Cédric Kipré",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p455084",
+      "name": "Leif Davis",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p449429",
+      "name": "Jacob Greaves",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p222018",
+      "name": "Ben Johnson",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p176420",
+      "name": "Darnell Furlong",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p241117",
+      "name": "Azor Matusiwa",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p149929",
+      "name": "Wes Burns",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p443261",
+      "name": "Jack Clarke",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p481624",
+      "name": "Jaden Philogene",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p147675",
+      "name": "Chuba Akpom",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p524180",
+      "name": "Cameron Humphreys",
+      "club": "Ipswich Town",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p649208",
+      "name": "Jeremy Monga",
+      "club": "Manchester City",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p577974",
+      "name": "Harry Amass",
+      "club": "Manchester United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p490881",
+      "name": "Toby Collyer",
+      "club": "Manchester United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p554578",
+      "name": "Ewen Jaouen",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p665243",
+      "name": "Mason Miley",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p578512",
+      "name": "Miodrag Pivas",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p601767",
+      "name": "Vakhtang Salia",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p655585",
+      "name": "Michael Mills",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p671875",
+      "name": "Kyran Thompson",
+      "club": "Newcastle United",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p510281",
+      "name": "Sávio Moreira de Oliveira",
+      "club": "Tottenham Hotspur",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p661313",
+      "name": "Juan Angulo",
+      "club": "Sunderland",
+      "candidates": []
+    },
+    {
+      "id": "sandbox-eng-p604211",
+      "name": "Tymur Tutierov",
+      "club": "Sunderland",
+      "candidates": []
+    }
+  ],
+  "ambiguous": []
+}

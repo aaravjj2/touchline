@@ -1,0 +1,21 @@
+{
+  "environment": "Playwright headless Chromium, desktop viewport, 4x playback; not physical-phone certification",
+  "half": {
+    "direct": "false",
+    "simulationMs": "0.10",
+    "frameWorkMs": "2.10",
+    "frameP95": "33.40",
+    "frameSamples": "906",
+    "slowFrames": "0",
+    "measurementSeconds": "29.7"
+  },
+  "full": {
+    "direct": "false",
+    "simulationMs": "0.10",
+    "frameWorkMs": "2.20",
+    "frameP95": "33.40",
+    "frameSamples": "1832",
+    "slowFrames": "0",
+    "measurementSeconds": "60.5"
+  }
+}

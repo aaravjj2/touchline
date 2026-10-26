@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 600" fill="none">
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#13273e"/><stop offset="1" stop-color="#253f51"/></linearGradient><linearGradient id="turf" x2="0" y2="1"><stop stop-color="#284e47"/><stop offset="1" stop-color="#102b30"/></linearGradient><pattern id="crowd" width="18" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.8" fill="#abc8bc" opacity=".4"/><circle cx="12" cy="10" r="2" fill="#6b9b9b" opacity=".4"/></pattern><radialGradient id="glow"><stop stop-color="#ecfff3" stop-opacity=".5"/><stop offset="1" stop-color="#baf1e6" stop-opacity="0"/></radialGradient></defs>
+ <path fill="url(#sky)" d="M0 0h1400v600H0z"/><ellipse cx="1120" cy="80" rx="260" ry="160" fill="url(#glow)"/>
+ <path d="M0 210 700 275l700-65v150L700 420 0 360z" fill="#0c202c"/><path d="M0 228 700 293l700-65v100l-700 65L0 328z" fill="url(#crowd)"/>
+ <path d="m0 285 700 65 700-65M0 328l700 65 700-65M0 228l700 65 700-65" stroke="#7ba7b6" stroke-opacity=".45" stroke-width="4"/>
+ <path d="M0 172 700 237l700-65M0 175v40l700 65 700-65v-40" stroke="#6e929f" stroke-opacity=".4" stroke-width="6"/><path d="m0 173 350 20 350 45 350-45 350-20" stroke="#c5e6e1" stroke-opacity=".4"/>
+ <path d="M0 390 700 416l700-26v210H0z" fill="url(#turf)"/>
+ <path d="m70 600 245-204m100 204 135-192m280 192-12-184m360 184-178-197" stroke="#74a39c" stroke-width="80" opacity=".06"/>
+ <path d="m80 580 310-162h620l310 162H80Zm620-162v162" stroke="#c9e3cd" stroke-opacity=".38" stroke-width="2"/><ellipse cx="700" cy="480" rx="100" ry="27" stroke="#c9e3cd" stroke-opacity=".3" stroke-width="2"/>
+ <path d="m566 418-14 36h296l-14-36M640 417l-5 13h130l-5-13M660 416v-22h80v22m-80-22 7-8h66l7 8m-73-8v29m11-28v28m11-28v28m11-28v28m11-28v28m11-28v28m11-28v28" stroke="#d3e6e0" stroke-opacity=".4"/>
+ <path d="M180 226V57m1040 169V57" stroke="#587887" stroke-width="5"/><path d="M142 60h76m964 0h76" stroke="#e6f6ea" stroke-width="9" stroke-dasharray="7 4"/>
+ <path d="m155 65-95 310 260 6L204 65m990 0-110 310 260 6-100-316" fill="#e2fff0" opacity=".025"/>
+ <circle cx="690" cy="490" r="3" fill="#e5eee6" opacity=".6"/><path d="M0 600h1400" stroke="#7ba6a0" stroke-opacity=".2"/>
+</svg>

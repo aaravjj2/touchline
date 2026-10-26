@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "checked": "2026-10-21",
+  "backgroundClubs": [{"id": "sco:celtic", "name": "Celtic", "source": "https://www.chelseafc.com/en/news/article/shumaira-mheuka-signs-new-chelsea-contract-and-joins-celtic-on-loan"}],
+  "players": {
+    "p576620": {
+      "birthDate": "2008-01-25",
+      "birthDateSource": "https://www.manutd.com/en/teams/men-u19s/bendito-mantato"
+    },
+    "p567119": {
+      "birthDate": "2007-10-20",
+      "birthDateSource": "https://www.chelseafc.com/en/teams/profile/shumaira-mheuka",
+      "registeredClub": "sco:celtic",
+      "registrationSource": "https://www.chelseafc.com/en/news/article/shumaira-mheuka-signs-new-chelsea-contract-and-joins-celtic-on-loan",
+      "registrationNote": "On loan for the 2026–27 campaign. Exact return date still requires verification; no precise date is invented.",
+      "registrationStatus": "loan-out"
+    }
+  }
+}

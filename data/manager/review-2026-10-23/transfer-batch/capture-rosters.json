@@ -1,0 +1,78 @@
+{
+  "capturedAt": "2026-10-23T19:11:05.663Z",
+  "scope": "Public-page capture only; HTTP success and hashes do not verify football facts.",
+  "sources": [
+    {
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/en-US/football/first-team/players",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 707219,
+      "sha256": "8d78ff722800639339e71caac1a3eb98d15f325e8eb01a4d08b21f4d435c9695",
+      "file": "001.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/players",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 358627,
+      "sha256": "8f7a1b37310599d1b2164f53875e7bcb84e17084ce8c1926c076504a43378160",
+      "file": "002.html"
+    },
+    {
+      "url": "https://www.premierleague.com/en/clubs/3/arsenal/squad?se=418",
+      "status": 200,
+      "finalUrl": "https://www.premierleague.com/en/clubs/3/arsenal/squad?se=418",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 90538,
+      "sha256": "9a3a85a8879711609a26b95c4617950f4a0526e2f744eeaf191536791ed966d6",
+      "file": "003.html"
+    },
+    {
+      "url": "https://www.premierleague.com/en/news/4680854/arsenal-sign-tzolis-from-club-brugge",
+      "status": 200,
+      "finalUrl": "https://www.premierleague.com/en/news/4680854/arsenal-sign-tzolis-from-club-brugge",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 87556,
+      "sha256": "620459009aa084b64d028a940404261c40804df2316f5588a24a71044c1a7675",
+      "file": "004.html"
+    },
+    {
+      "url": "https://www.premierleague.com/en/news/4682480/five-reasons-why-arsenal-have-signed-bruno-guimaraes",
+      "status": 200,
+      "finalUrl": "https://www.premierleague.com/en/news/4682480/five-reasons-why-arsenal-have-signed-bruno-guimaraes",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 113434,
+      "sha256": "894d801841d9f2a5c212fce78d709cbb3190ad4f43bf80fcfe1140ac94c1ce7b",
+      "file": "005.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-diomande-06-08-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-diomande-06-08-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 482178,
+      "sha256": "243a0bc0957ca45469b721d7628cc7d3a8034a75602a38057464cc8b95322ca4",
+      "file": "006.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-carlos-espi-30-07-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-carlos-espi-30-07-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 483176,
+      "sha256": "07e1c652d0b63cd14e041562b758d77f043fa89e48e33b375fd9f49fb47bdf32",
+      "file": "007.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-bernardo-silva-17-06-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-bernardo-silva-17-06-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 482231,
+      "sha256": "467f91efc64ad520e3b960d8d27bbd277faec8ef1e3945e294f270aca3468599",
+      "file": "008.html"
+    }
+  ]
+}

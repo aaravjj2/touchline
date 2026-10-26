@@ -1,0 +1,105 @@
+{
+  "capturedAt": "2026-10-24T07:15:22.713Z",
+  "scope": "Public-page capture only; HTTP success and hashes do not verify football facts.",
+  "sources": [
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-bara-until-2030",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-bara-until-2030",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 318160,
+      "sha256": "f6ed2ecd34bda5b8305f83bceffc4405462bbf87462fe59b2e4d570be2dff9da",
+      "file": "001.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4208572/-2030/featured",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4208572/-2030/featured",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 318145,
+      "sha256": "7661b32eeb1768ba925b863ce6dadd1cc9d29bf7c531cc201ab4be8597c70ae7",
+      "file": "002.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4274403/",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4274403/",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 338433,
+      "sha256": "bf9647f0882500778c38e995b9054aa48a0a6d12a4cceb65d75bc8b07ed3c0ab",
+      "file": "003.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 343150,
+      "sha256": "491949407b853c175923d7bbbcd266a29a84952079d519f93d7360e89e6edccf",
+      "file": "004.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 315943,
+      "sha256": "427ef3c61d465c07475182358fac7120b7fb08c94e66798066ac2bcb15fe4680",
+      "file": "005.html"
+    },
+    {
+      "url": "https://penyes.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029/amp",
+      "status": 200,
+      "finalUrl": "https://penyes.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029/amp",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 27642,
+      "sha256": "195f1cd79068bf72f74752d1ecdbd8f8bfcbe3b47fcee31c94de8d263254a18f",
+      "file": "006.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia/featured",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia/featured",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 318010,
+      "sha256": "193a48a0e04088e8ae4bfb5fd68813c5d807f93c7eb47ce214e0c3431eb054d7",
+      "file": "007.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/news/4291787/joan-garcia-signs-contract-with-fc-barcelona/amp",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/news/4291787/joan-garcia-signs-contract-with-fc-barcelona/amp",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 26540,
+      "sha256": "26e5968190dea940f216991b151fd05a35d16b89862f572bf3167d4b2c1663ea",
+      "file": "008.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 334143,
+      "sha256": "57576f83a36bf0d85c653bfd8ff93461bddffd6f03331da638f1453262afbb47",
+      "file": "009.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/news/4414653/agreement-to-extend-eric-garcias-contract-until-30-june-2031",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/news/4414653/agreement-to-extend-eric-garcias-contract-until-30-june-2031",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 316746,
+      "sha256": "d18814cb5456bc876ff956506d31aa82a96cff5d211b65837de691b4fbb738e5",
+      "file": "010.html"
+    },
+    {
+      "url": "https://agrupaciojugadors.fcbarcelona.com/en/news/4203222/agreement-to-renew-gerard-martins-contract/amp",
+      "status": 200,
+      "finalUrl": "https://agrupaciojugadors.fcbarcelona.com/en/news/4203222/agreement-to-renew-gerard-martins-contract/amp",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 26994,
+      "sha256": "707edd6b358f27e6dfb6cefe8488257b448a1157baf94aec1357d735a6cd8bac",
+      "file": "011.html"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+ "checked":"2026-10-23",
+ "scope":"Manually reviewed opening-day candidate corrections. Registration remains unverified unless formal cutoff evidence is available. No runtime career migration.",
+ "moves":[
+  {"id":"super-barcelona-250082664","from":"super-barcelona","to":"english-eng-15","date":"2026-08-18","source":"https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernndez","note":"Barcelona transfer announced 18 August, after cutoff. Restore Manchester City as the provisional opening club; formal cutoff registration remains unverified."},
+  {"id":"super-barcelona-gabrieljesus","from":"super-barcelona","to":"english-eng-1","date":"2026-09-01","source":"https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona","note":"Barcelona's 1 September announcement identifies Arsenal as the selling club. Restore Arsenal as provisional opening club; do not apply Barcelona's later contract."},
+  {"id":"world-sandbox-eng-p199798","from":"english-eng-1","to":"english-eng-2","date":"2026-08-21","source":"https://www.premierleague.com/en/news/4536241/what-happens-when-you-have-four-players-from-one-club-in-your-fpl-squad","note":"Official 21 August league article describes the Villa-to-Arsenal move and outstanding regulatory processes. Restore Villa provisionally; no exact registration completion inferred."}
+ ],
+ "exclusions":[
+  {"id":"super-barcelona-dominiklivakovic","date":"2026-08-27","source":"https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player","note":"Barcelona's 27 August transfer from Fenerbahce is after cutoff. Retain record outside playable clubs; earlier Dinamo/Girona loans require separate dated reconstruction."},
+  {"id":"world-sandbox-eng-p208706","date":"2026-08-08","source":"https://www.premierleague.com/en/news/4687385/the-briefing-rices-message-to-guimaraes-mourinho-latest-bellingham-watches-arsenal","note":"The league's 10 August report dates the move to the weekend and embeds Arsenal's 8 August announcement. The league's 8 August signing analysis corroborates it. Newcastle is outside the selected twenty; preserve an external research record, not an Arsenal opening registration."}
+ ],
+ "ownership":[
+  {"id":"super-real-madrid-ibrahimakonate","date":"2026-06-18","contract":"2030-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-konate-18-06-2026"},
+  {"id":"super-real-madrid-marccucurella","date":"2026-06-15","contract":"2032-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-cucurella-15-06-2026"},
+  {"id":"super-real-madrid-denzeldumfries","date":"2026-07-05","contract":"2030-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-dumfries-05-07-2026"},
+  {"id":"super-real-madrid-bernardosilva","date":"2026-06-17","contract":"2028-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-bernardo-silva-17-06-2026"},
+  {"id":"super-real-madrid-yandiomande","date":"2026-08-06","contract":"2033-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-diomande-06-08-2026"},
+  {"id":"super-real-madrid-carlosespi","date":"2026-07-30","contract":"2031-06-30","source":"https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-carlos-espi-30-07-2026"},
+  {"id":"super-barcelona-anthonygordon","date":"2026-05-29","expiryPublication":{"value":"2031","precision":"year"},"source":"https://www.fcbarcelona.com/en/football/first-team/news/4511134/anthony-gordon-becomes-an-fc-barcelona-player"},
+  {"id":"super-barcelona-karimadeyemi","date":"2026-07-23","expiryPublication":{"value":"2031-06","precision":"month"},"source":"https://penyes.fcbarcelona.com/en/news/4542575/karim-adeyemi-im-here-to-win-titles/amp"},
+  {"id":"world-sandbox-eng-p439509","date":"2026-07-23","source":"https://www.premierleague.com/en/news/4680854/arsenal-sign-tzolis-from-club-brugge"}
+ ],
+ "positions":[
+  {"id":"super-barcelona-karimadeyemi","date":"2026-07-23","value":["LW","RW","ST"],"source":"https://www.fcbarcelona.com/en/news/4541406/fc-barcelona-sign-karim-adeyemi","note":"Official signing biography explicitly describes both wings and centre-forward; the presentation confirms experience in all three forward roles. This is player-specific eligibility, not a rule for all wingers."}
+ ],
+ "unresolved":[
+  {"id":"super-barcelona-joaocancelo","sources":["https://www.fcbarcelona.com/en/news/4433680/joao-cancelo-becomes-an-fc-barcelona-player","https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029"],"note":"13 January loan is described as until season end; 20 August permanent signing is after cutoff. Keep candidate registration unverified pending exact loan expiry/return/registration evidence; do not infer continuous August ownership from the permanent signing."},
+  {"id":"super-barcelona-xaviespart","sources":["https://www.fcbarcelona.com/en/football/first-team/news/4566445/xavi-espart-first-team-squad-member-with-the-number-12-jersey"],"note":"27 August senior promotion does not exclude eligibility as a youth at cutoff. Do not delete on promotion date alone."},
+  {"id":"super-barcelona-gerardmartin","sources":["https://www.fcbarcelona.com/en/football/first-team/players/111861/gerard-martin"],"note":"Candidate CB and historical left-back descriptions need position-specific cutoff review; broad defender text is insufficient."}
+ ]
+}

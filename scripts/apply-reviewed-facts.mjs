@@ -1,0 +1,10 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {resolve} from 'node:path';
+import {applyReviewedFacts} from './lib/apply-reviewed-facts.mjs';
+const [candidateFile,reviewFile,batchFile,output]=process.argv.slice(2);
+if(!output)throw Error('Usage: node scripts/apply-reviewed-facts.mjs CANDIDATE REVIEWS BATCH NEW_DIRECTORY');
+const read=async file=>JSON.parse(await readFile(file,'utf8'));
+const result=applyReviewedFacts(await read(candidateFile),await read(reviewFile),await read(batchFile));
+await mkdir(output,{recursive:false});
+for(const [name,value] of Object.entries(result))await writeFile(resolve(output,name+'.json'),JSON.stringify(value,null,2)+'\n',{flag:'wx'});
+console.log(JSON.stringify({output:resolve(output),accepted:result.queue.queue.filter(f=>f.state==='accepted').length,issues:result.queue.audit.errors.length,reviewErrors:result.queue.errors.length,ready:result.queue.ready,sourceHash:result.queue.sourceHash},null,2));

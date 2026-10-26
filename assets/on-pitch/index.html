@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Touchline on the pitch</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <canvas id="view"></canvas>
+  <header>
+    <p class="eyebrow">On the pitch</p>
+    <h1 id="score">0 – 0</h1>
+    <p id="clock">4:00</p>
+    <div id="meter" hidden><span id="meter-fill"></span></div>
+  </header>
+  <canvas id="radar" width="180" height="116" aria-label="Pitch radar"></canvas>
+  <p id="call" hidden></p>
+  <p id="banner" hidden></p>
+  <section id="sheet" hidden>
+    <h2>Full time</h2>
+    <table>
+      <thead><tr><th></th><th>Home</th><th>Away</th></tr></thead>
+      <tbody id="sheet-rows"></tbody>
+    </table>
+  </section>
+  <footer>
+    <div>
+      <p id="who">Zane Brooks · FWD</p>
+      <div class="bar" id="stamina" aria-label="Stamina"><span id="stamina-fill"></span></div>
+      <p id="who-away" hidden></p>
+    </div>
+    <p class="keys" id="keys">W A S D move · Shift sprint · J pass and run · K through ball · hold L to shoot · C slide · Tab joins the pass</p>
+  </footer>
+  <button id="again" type="button" hidden>Play again</button>
+  <section id="gate">
+    <p class="eyebrow">You on the ball</p>
+    <h2>Five a side, on the pitch</h2>
+    <p>Pick a card to choose who you control. A friend on this keyboard can take the other five. First to three, or four minutes, with a pause at half-time. This match is not part of the manager career.</p>
+    <div class="cards" id="cards">
+      <button type="button" data-player="Ellis Ward" aria-label="Control Ellis Ward"><img src="../cards/founder-0.svg" alt="Ellis Ward, goalkeeper"></button>
+      <button type="button" data-player="Theo Marsh" aria-label="Control Theo Marsh"><img src="../cards/founder-2.svg" alt="Theo Marsh, defender"></button>
+      <button type="button" data-player="Luca Fenwick" aria-label="Control Luca Fenwick"><img src="../cards/founder-3.svg" alt="Luca Fenwick, defender"></button>
+      <button type="button" data-player="Jonah Reed" aria-label="Control Jonah Reed"><img src="../cards/founder-8.svg" alt="Jonah Reed, midfielder"></button>
+      <button type="button" class="you" data-player="Zane Brooks" aria-label="Control Zane Brooks"><img src="../cards/founder-14.svg" alt="Zane Brooks, the player you control"></button>
+    </div>
+    <div class="actions">
+      <button id="start" type="button">Kick off</button>
+      <button id="friend" type="button" aria-pressed="false">Friend on this keyboard</button>
+    </div>
+  </section>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+import {incidentCareer,careerAvailability,availabilityText,availabilityFixture} from './career-availability.js';
+import {legend} from './legends.js';
+import {escapeHtml as esc} from './ui-kit.js';
+export function availabilityPanel(c){
+ if(!incidentCareer(c))return '';const fixture=availabilityFixture(c),rows=c.xi.concat(c.bench).map(id=>({id,reason:careerAvailability(c,id,fixture)})).filter(p=>p.reason),team=c.competition.teams.find(t=>t.id==='user');
+ return `<details class="card mgr-card" ${rows.length?'open':''}><summary>Squad availability · ${rows.length} unavailable for the next ${fixture.competition==='cup'?'cup':'league'} fixture</summary>${rows.map(p=>`<p><strong>${esc(legend(p.id).name)}</strong> · ${esc(availabilityText(p.reason))}</p>`).join('')||'<p>No injuries or suspensions prevent selection.</p>'}${team.missingPositions?.length?`<p class="manager-contract-alert">Missing natural-position cover: ${esc(team.missingPositions.join(', '))}. Match preparation uses ${team.xi.length} available players; those slots stay empty.</p>`:''}${team.emergencyKeeper?`<p class="manager-contract-alert">${esc(legend(team.emergencyKeeper).name)} is the emergency goalkeeper. Keeping ability is reduced.</p>`:''}<p>Unavailable players are excluded from match squads and appearance promises. A bye does not serve a ban. Injury return dates are game estimates; players become selectable on that date.</p></details>`;
+}

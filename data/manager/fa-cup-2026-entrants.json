@@ -1,0 +1,3735 @@
+{
+  "version": 1,
+  "season": "2026–27",
+  "checked": "2026-10-21",
+  "source": "https://www.thefa.com/-/media/thefacom-new/files/competitions/2026-27/accepted-exemptions-and-prize-fund/020726/the-emirates-fa-cup---list-of-clubs-accepted.ashx?la=en",
+  "exemptionsSource": "https://www.thefa.com/-/media/thefacom-new/files/competitions/2026-27/accepted-exemptions-and-prize-fund/the-emirates-fa-cup---list-of-exemptions.ashx?la=en",
+  "status": "verified-entrants-and-entry-rounds-only",
+  "coverage": "All 743 accepted clubs and official exemptions. Strengths, squads, scheduling and tie rules are separate release gates.",
+  "entryCounts": {
+    "extra-preliminary": 438,
+    "third-proper": 44,
+    "first-proper": 48,
+    "fourth-qualifying": 24,
+    "second-qualifying": 48,
+    "first-qualifying": 88,
+    "preliminary": 53
+  },
+  "clubs": [
+    {
+      "id": "fa-2026:0",
+      "name": "1874 Northwich FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:1",
+      "name": "Abbey Hey FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:2",
+      "name": "Abbey Hulton United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:3",
+      "name": "Abbey Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:4",
+      "name": "Abingdon United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:5",
+      "name": "Accrington Stanley FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:6",
+      "name": "AFC Bournemouth",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:7",
+      "name": "AFC Croydon Athletic",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:8",
+      "name": "AFC Fylde",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:9",
+      "name": "AFC Greenwich Borough",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:10",
+      "name": "AFC Liverpool",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:11",
+      "name": "AFC Mansfield",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:12",
+      "name": "AFC Portchester",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:13",
+      "name": "AFC Rushden & Diamonds",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:14",
+      "name": "AFC Stoneham",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:15",
+      "name": "AFC Sudbury",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:16",
+      "name": "AFC Telford United",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:17",
+      "name": "AFC Totton",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:18",
+      "name": "AFC Varndeanians",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:19",
+      "name": "AFC Welwyn",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:20",
+      "name": "AFC Whyteleafe",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:21",
+      "name": "AFC Wimbledon",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:22",
+      "name": "AFC Wolverhampton City",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:23",
+      "name": "Albion Sports FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:24",
+      "name": "Aldershot Town FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:25",
+      "name": "Alfreton Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:26",
+      "name": "Alton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:27",
+      "name": "Altrincham FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:28",
+      "name": "Alvechurch FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:29",
+      "name": "Amersham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:30",
+      "name": "Andover New Street FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:31",
+      "name": "Anstey Nomads FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:32",
+      "name": "Ardley United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:33",
+      "name": "Arlesey Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:34",
+      "name": "Arsenal FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:35",
+      "name": "Ascot United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:36",
+      "name": "Ashby Ivanhoe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:37",
+      "name": "Ashford Town (Middx) FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:38",
+      "name": "Ashford United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:39",
+      "name": "Ashington FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:40",
+      "name": "Ashton United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:41",
+      "name": "Aston Villa FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:42",
+      "name": "Atherstone Town CFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:43",
+      "name": "Atherton Collieries FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:44",
+      "name": "Atherton LR FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:45",
+      "name": "Aveley FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:46",
+      "name": "Avro FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:47",
+      "name": "Aylesbury United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:48",
+      "name": "Aylesbury Vale Dynamos FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:49",
+      "name": "Aylestone Park FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:50",
+      "name": "Badshot Lea FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:51",
+      "name": "Baffins Milton Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:52",
+      "name": "Baldock Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:53",
+      "name": "Balham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:54",
+      "name": "Bamber Bridge FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:55",
+      "name": "Banbury United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:56",
+      "name": "Barking FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:57",
+      "name": "Barnet FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:58",
+      "name": "Barnoldswick Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:59",
+      "name": "Barnsley FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:60",
+      "name": "Barnstaple Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:61",
+      "name": "Barrow AFC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:62",
+      "name": "Barton Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:63",
+      "name": "Barton Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:64",
+      "name": "Barwell FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:65",
+      "name": "Basford United FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:66",
+      "name": "Bashley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:67",
+      "name": "Basildon United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:68",
+      "name": "Basingstoke Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:69",
+      "name": "Bath City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:70",
+      "name": "Beaconsfield Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:71",
+      "name": "Bearsted FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:72",
+      "name": "Beckenham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:73",
+      "name": "Bedfont FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:74",
+      "name": "Bedfont Sports Club FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:75",
+      "name": "Bedford Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:76",
+      "name": "Bedworth United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:77",
+      "name": "Belper Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:78",
+      "name": "Belper United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:79",
+      "name": "Bemerton Heath Harlequins FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:80",
+      "name": "Benfleet FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:81",
+      "name": "Berkhamsted FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:82",
+      "name": "Beverley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:83",
+      "name": "Bexhill United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:84",
+      "name": "Bideford AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:85",
+      "name": "Biggleswade FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:86",
+      "name": "Biggleswade Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:87",
+      "name": "Biggleswade United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:88",
+      "name": "Billericay Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:89",
+      "name": "Billingshurst FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:90",
+      "name": "Binfield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:91",
+      "name": "Birmingham City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:92",
+      "name": "Birtley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:93",
+      "name": "Bishop Auckland FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:94",
+      "name": "Bishop's Cleeve FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:95",
+      "name": "Bishop's Stortford FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:96",
+      "name": "Blackburn Rovers FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:97",
+      "name": "Blackpool FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:98",
+      "name": "Blackstones AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:99",
+      "name": "Blyth Spartans AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:100",
+      "name": "Blyth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:101",
+      "name": "Bognor Regis Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:102",
+      "name": "Boldmere St Michaels FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:103",
+      "name": "Bolton Wanderers FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:104",
+      "name": "Bootle FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:105",
+      "name": "Boreham Wood FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:106",
+      "name": "Boro Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:107",
+      "name": "Boston Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:108",
+      "name": "Boston United FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:109",
+      "name": "Bottesford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:110",
+      "name": "Bourne Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:111",
+      "name": "Bournemouth Poppies FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:112",
+      "name": "Bovey Tracey FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:113",
+      "name": "Bowers & Pitsea FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:114",
+      "name": "Brackley Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:115",
+      "name": "Bracknell Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:116",
+      "name": "Bradford (Park Avenue) FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:117",
+      "name": "Bradford City FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:118",
+      "name": "Bradford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:119",
+      "name": "Braintree Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:120",
+      "name": "Brantham Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:121",
+      "name": "Brentford FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:122",
+      "name": "Brentwood Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:123",
+      "name": "Bridgwater United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:124",
+      "name": "Bridlington Town AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:125",
+      "name": "Brightlingsea Regent FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:126",
+      "name": "Brighton & Hove Albion FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:127",
+      "name": "Brislington FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:128",
+      "name": "Bristol City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:129",
+      "name": "Bristol Manor Farm FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:130",
+      "name": "Bristol Rovers FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:131",
+      "name": "Brixham AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:132",
+      "name": "Broadbridge Heath FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:133",
+      "name": "Broadfields United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:134",
+      "name": "Brockenhurst FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:135",
+      "name": "Brocton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:136",
+      "name": "Bromley FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:137",
+      "name": "Bromsgrove Sporting FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:138",
+      "name": "Buckhurst Hill FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:139",
+      "name": "Buckland Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:140",
+      "name": "Burgess Hill Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:141",
+      "name": "Burnham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:142",
+      "name": "Burnley FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:143",
+      "name": "Burscough FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:144",
+      "name": "Burton Albion FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:145",
+      "name": "Bury FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:146",
+      "name": "Bury Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:147",
+      "name": "Buxton FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:148",
+      "name": "Camberley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:149",
+      "name": "Cambridge City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:150",
+      "name": "Cambridge United FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:151",
+      "name": "Campion AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:152",
+      "name": "Canvey Island FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:153",
+      "name": "Cardiff City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:154",
+      "name": "Carlisle City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:155",
+      "name": "Carlisle United AFC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:156",
+      "name": "Carlton Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:157",
+      "name": "Carshalton Athletic FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:158",
+      "name": "Chadderton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:159",
+      "name": "Charlton Athletic FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:160",
+      "name": "Charnock Richard FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:161",
+      "name": "Chasetown FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:162",
+      "name": "Chatham Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:163",
+      "name": "Cheadle Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:164",
+      "name": "Chelmsford City FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:165",
+      "name": "Chelsea FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:166",
+      "name": "Cheltenham Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:167",
+      "name": "Chertsey Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:168",
+      "name": "Chesham United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:169",
+      "name": "Cheshunt FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:170",
+      "name": "Chester FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:171",
+      "name": "Chesterfield FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:172",
+      "name": "Chichester City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:173",
+      "name": "Chippenham Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:174",
+      "name": "Chipstead FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:175",
+      "name": "Chislehurst Glebe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:176",
+      "name": "Chorley FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:177",
+      "name": "Christchurch FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:178",
+      "name": "Cinderford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:179",
+      "name": "Cirencester Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:180",
+      "name": "Clapton Community FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:181",
+      "name": "Clay Cross Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:182",
+      "name": "Cleethorpes Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:183",
+      "name": "Clevedon Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:184",
+      "name": "Clitheroe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:185",
+      "name": "Cobham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:186",
+      "name": "Cockfosters FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:187",
+      "name": "Colchester United FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:188",
+      "name": "Coleshill Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:189",
+      "name": "Colney Heath FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:190",
+      "name": "Concord Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:191",
+      "name": "Congleton Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:192",
+      "name": "Consett AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:193",
+      "name": "Corby Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:194",
+      "name": "Corinthian Casuals FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:195",
+      "name": "Corinthian FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:196",
+      "name": "Cornard United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:197",
+      "name": "Corsham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:198",
+      "name": "Coton Green FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:199",
+      "name": "Coventry City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:200",
+      "name": "Coventry Sphinx FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:201",
+      "name": "Coventry United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:202",
+      "name": "Cowes Sports FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:203",
+      "name": "Crawley Down Gatwick FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:204",
+      "name": "Crawley Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:205",
+      "name": "Cray Valley (PM) FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:206",
+      "name": "Cray Wanderers FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:207",
+      "name": "Crewe Alexandra FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:208",
+      "name": "Cribbs FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:209",
+      "name": "Crook Town AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:210",
+      "name": "Crowborough Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:211",
+      "name": "Crystal Palace FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:212",
+      "name": "Curzon Ashton FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:213",
+      "name": "Dagenham & Redbridge FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:214",
+      "name": "Darlaston Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:215",
+      "name": "Darlington FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:216",
+      "name": "Dartford FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:217",
+      "name": "Daventry Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:218",
+      "name": "Deal Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:219",
+      "name": "Dearne & District FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:220",
+      "name": "Deeping Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:221",
+      "name": "Derby County FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:222",
+      "name": "Dereham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:223",
+      "name": "Desborough Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:224",
+      "name": "Devizes Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:225",
+      "name": "Didcot Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:226",
+      "name": "Doncaster Rovers FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:227",
+      "name": "Dorchester Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:228",
+      "name": "Dorking Wanderers FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:229",
+      "name": "Dover Athletic FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:230",
+      "name": "Downham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:231",
+      "name": "Downton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:232",
+      "name": "Droitwich Spa FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:233",
+      "name": "Droylsden FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:234",
+      "name": "Dudley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:235",
+      "name": "Dulwich Hamlet FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:236",
+      "name": "Dunstable FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:237",
+      "name": "Dunston FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:238",
+      "name": "Easington Colliery FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:239",
+      "name": "Easington Sports FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:240",
+      "name": "East Cowes Victoria Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:241",
+      "name": "East Grinstead Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:242",
+      "name": "Eastbourne Borough FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:243",
+      "name": "Eastbourne Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:244",
+      "name": "Eastbourne United AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:245",
+      "name": "Eastleigh FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:246",
+      "name": "Eastwood Community FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:247",
+      "name": "Ebbsfleet United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:248",
+      "name": "Egham Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:249",
+      "name": "Ely City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:250",
+      "name": "Emley AFC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:251",
+      "name": "Enfield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:252",
+      "name": "Enfield Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:253",
+      "name": "Epsom & Ewell FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:254",
+      "name": "Erith & Belvedere FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:255",
+      "name": "Erith Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:256",
+      "name": "Euxton Villa FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:257",
+      "name": "Everett Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:258",
+      "name": "Eversley & California FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:259",
+      "name": "Everton FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:260",
+      "name": "Evesham United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:261",
+      "name": "Exeter City FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:262",
+      "name": "Exmouth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:263",
+      "name": "Eynesbury Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:264",
+      "name": "Fairford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:265",
+      "name": "Fakenham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:266",
+      "name": "Falmouth Town AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:267",
+      "name": "Fareham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:268",
+      "name": "Farnborough FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:269",
+      "name": "Farnham Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:270",
+      "name": "Faversham Strike Force FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:271",
+      "name": "Faversham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:272",
+      "name": "FC Halifax Town",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:273",
+      "name": "FC Peterborough",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:274",
+      "name": "FC St Helens",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:275",
+      "name": "FC United of Manchester",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:276",
+      "name": "Felixstowe & Walton United FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:277",
+      "name": "Fisher FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:278",
+      "name": "Flackwell Heath FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:279",
+      "name": "Fleet Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:280",
+      "name": "Fleetlands FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:281",
+      "name": "Fleetwood Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:282",
+      "name": "Folkestone Invicta FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:283",
+      "name": "Forest Green Rovers FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:284",
+      "name": "Forest Row FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:285",
+      "name": "Frenford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:286",
+      "name": "Frickley Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:287",
+      "name": "Frome Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:288",
+      "name": "Fulham FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:289",
+      "name": "Gainsborough Trinity FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:290",
+      "name": "Garforth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:291",
+      "name": "Gateshead FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:292",
+      "name": "Gillingham FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:293",
+      "name": "Glossop North End FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:294",
+      "name": "Gloucester City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:295",
+      "name": "Godalming Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:296",
+      "name": "Godmanchester Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:297",
+      "name": "Golcar United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:298",
+      "name": "Gorleston FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:299",
+      "name": "Gosport Borough FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:300",
+      "name": "Grantham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:301",
+      "name": "Grays Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:302",
+      "name": "Great Wakering Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:303",
+      "name": "Great Yarmouth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:304",
+      "name": "Gresley Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:305",
+      "name": "Grimsby Borough FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:306",
+      "name": "Grimsby Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:307",
+      "name": "Guernsey FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:308",
+      "name": "Guisborough Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:309",
+      "name": "Guiseley AFC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:310",
+      "name": "Hackney Wick FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:311",
+      "name": "Hadley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:312",
+      "name": "Halesowen Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:313",
+      "name": "Hallam FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:314",
+      "name": "Hallen FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:315",
+      "name": "Halstead Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:316",
+      "name": "Hamble Club FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:317",
+      "name": "Hampton & Richmond Borough FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:318",
+      "name": "Hamworthy Recreation FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:319",
+      "name": "Handsworth FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:320",
+      "name": "Hanley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:321",
+      "name": "Hanwell Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:322",
+      "name": "Hanworth Villa FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:323",
+      "name": "Harborough Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:324",
+      "name": "Harefield United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:325",
+      "name": "Haringey Borough FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:326",
+      "name": "Harleston Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:327",
+      "name": "Harlow Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:328",
+      "name": "Harpenden Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:329",
+      "name": "Harrogate Town AFC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:330",
+      "name": "Harrow Borough FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:331",
+      "name": "Hartlepool United FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:332",
+      "name": "Hartley Wintney FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:333",
+      "name": "Hartpury FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:334",
+      "name": "Harwich & Parkeston FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:335",
+      "name": "Hashtag United FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:336",
+      "name": "Hassocks FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:337",
+      "name": "Hastings United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:338",
+      "name": "Havant & Waterlooville FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:339",
+      "name": "Haverhill Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:340",
+      "name": "Hayes & Yeading United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:341",
+      "name": "Haywards Heath Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:342",
+      "name": "Heacham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:343",
+      "name": "Heanor Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:344",
+      "name": "Heaton Stannington FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:345",
+      "name": "Hebburn Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:346",
+      "name": "Hednesford Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:347",
+      "name": "Hemel Hempstead Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:348",
+      "name": "Hendon FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:349",
+      "name": "Hereford FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:350",
+      "name": "Hereford Pegasus FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:351",
+      "name": "Herne Bay FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:352",
+      "name": "Hertford Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:353",
+      "name": "Heybridge Swifts FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:354",
+      "name": "Highgate United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:355",
+      "name": "Highworth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:356",
+      "name": "Hilltop FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:357",
+      "name": "Hinckley AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:358",
+      "name": "Histon FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:359",
+      "name": "Hitchin Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:360",
+      "name": "Hollands & Blair FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:361",
+      "name": "Holyport FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:362",
+      "name": "Horbury Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:363",
+      "name": "Horden Community Welfare FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:364",
+      "name": "Horley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:365",
+      "name": "Hornchurch FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:366",
+      "name": "Horndean FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:367",
+      "name": "Horsham FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:368",
+      "name": "Horsham YM FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:369",
+      "name": "Hucknall Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:370",
+      "name": "Huddersfield Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:371",
+      "name": "Hull City",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:372",
+      "name": "Hullbridge Sports FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:373",
+      "name": "Hungerford Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:374",
+      "name": "Hutton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:375",
+      "name": "Hyde United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:376",
+      "name": "Hythe & Dibden FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:377",
+      "name": "Ilford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:378",
+      "name": "Ilkeston Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:379",
+      "name": "Ipswich Town FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:380",
+      "name": "Ipswich Wanderers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:381",
+      "name": "Irlam FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:382",
+      "name": "Ivybridge Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:383",
+      "name": "Jersey Bulls FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:384",
+      "name": "Keighley Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:385",
+      "name": "Kempston Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:386",
+      "name": "Kendal Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:387",
+      "name": "Kennington FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:388",
+      "name": "Kettering Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:389",
+      "name": "Kidderminster Harriers FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:390",
+      "name": "Kidlington FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:391",
+      "name": "Kidsgrove Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:392",
+      "name": "Kimberley Miners Welfare FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:393",
+      "name": "Kings Langley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:394",
+      "name": "King's Lynn Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:395",
+      "name": "Kingstonian FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:396",
+      "name": "Kirkley & Pakefield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:397",
+      "name": "Knaphill FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:398",
+      "name": "Knaresborough Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:399",
+      "name": "Knowle FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:400",
+      "name": "Lakenheath FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:401",
+      "name": "Lancaster City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:402",
+      "name": "Lancing FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:403",
+      "name": "Larkfield & New Hythe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:404",
+      "name": "Larkhall Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:405",
+      "name": "Laverstock & Ford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:406",
+      "name": "Leamington FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:407",
+      "name": "Leatherhead FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:408",
+      "name": "Leeds United AFC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:409",
+      "name": "Leek Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:410",
+      "name": "Leicester City FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:411",
+      "name": "Leicester Nirvana FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:412",
+      "name": "Leighton Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:413",
+      "name": "Leiston FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:414",
+      "name": "Leverstock Green FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:415",
+      "name": "Lewes FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:416",
+      "name": "Leyton Orient FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:417",
+      "name": "Lichfield City FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:418",
+      "name": "Lincoln City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:419",
+      "name": "Lincoln United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:420",
+      "name": "Lingfield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:421",
+      "name": "Liskeard Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:422",
+      "name": "Litherland Remyca FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:423",
+      "name": "Little Common FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:424",
+      "name": "Little Oakley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:425",
+      "name": "Littlehampton Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:426",
+      "name": "Liverpool FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:427",
+      "name": "Liversedge FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:428",
+      "name": "London Lions FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:429",
+      "name": "Long Eaton United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:430",
+      "name": "Longlevens FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:431",
+      "name": "Longridge Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:432",
+      "name": "Loughborough Students FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:433",
+      "name": "Lower Breck FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:434",
+      "name": "Lowestoft Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:435",
+      "name": "Luton Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:436",
+      "name": "Lutterworth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:437",
+      "name": "Lye Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:438",
+      "name": "Macclesfield FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:439",
+      "name": "Maidenhead United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:440",
+      "name": "Maidstone United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:441",
+      "name": "Maldon & Tiptree FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:442",
+      "name": "Malmesbury Victoria FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:443",
+      "name": "Malvern Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:444",
+      "name": "Manchester City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:445",
+      "name": "Manchester United FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:446",
+      "name": "Mangotsfield United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:447",
+      "name": "Mansfield Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:448",
+      "name": "March Town United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:449",
+      "name": "Margate FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:450",
+      "name": "Marine FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:451",
+      "name": "Marlow FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:452",
+      "name": "Marske United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:453",
+      "name": "Matlock Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:454",
+      "name": "Melksham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:455",
+      "name": "Merstham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:456",
+      "name": "Merthyr Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:457",
+      "name": "Metropolitan Police FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:458",
+      "name": "Mickleover FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:459",
+      "name": "Middlesbrough FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:460",
+      "name": "Midhurst & Easebourne FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:461",
+      "name": "Mildenhall Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:462",
+      "name": "Millbrook FC (Hampshire)",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:463",
+      "name": "Millwall FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:464",
+      "name": "Milton Keynes Dons FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:465",
+      "name": "Milton Keynes Irish FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:466",
+      "name": "Moneyfields FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:467",
+      "name": "Morecambe FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:468",
+      "name": "Morpeth Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:469",
+      "name": "Mossley AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:470",
+      "name": "Moulton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:471",
+      "name": "Mulbarton Wanderers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:472",
+      "name": "Nantwich Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:473",
+      "name": "Needham Market FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:474",
+      "name": "Nelson FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:475",
+      "name": "Newark Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:476",
+      "name": "Newcastle Benfield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:477",
+      "name": "Newcastle Blue Star FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:478",
+      "name": "Newcastle Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:479",
+      "name": "Newcastle United FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:480",
+      "name": "Newhaven FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:481",
+      "name": "Newmarket Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:482",
+      "name": "Newport County AFC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:483",
+      "name": "Newport Pagnell Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:484",
+      "name": "Newton Aycliffe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:485",
+      "name": "North Ferriby FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:486",
+      "name": "North Greenford United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:487",
+      "name": "North Leigh FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:488",
+      "name": "North Shields FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:489",
+      "name": "Northallerton Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:490",
+      "name": "Northampton On Chenecks FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:491",
+      "name": "Northampton Sileby Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:492",
+      "name": "Northampton Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:493",
+      "name": "Northwich Victoria FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:494",
+      "name": "Northwood FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:495",
+      "name": "Norwich City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:496",
+      "name": "Nottingham Forest FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:497",
+      "name": "Notts County FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:498",
+      "name": "Nuneaton Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:499",
+      "name": "Oldham Athletic AFC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:500",
+      "name": "Ossett United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:501",
+      "name": "Oxford City FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:502",
+      "name": "Oxford United FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:503",
+      "name": "Padiham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:504",
+      "name": "Pagham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:505",
+      "name": "Parkgate FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:506",
+      "name": "Paulton Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:507",
+      "name": "Peacehaven & Telscombe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:508",
+      "name": "Penistone Church FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:509",
+      "name": "Penn & Tylers Green FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:510",
+      "name": "Penrith AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:511",
+      "name": "Pershore Town 88 FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:512",
+      "name": "Peterborough Sports FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:513",
+      "name": "Peterborough United FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:514",
+      "name": "Petersfield Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:515",
+      "name": "Petts Wood & Holmesdale FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:516",
+      "name": "Phoenix Sports FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:517",
+      "name": "Pickering Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:518",
+      "name": "Plymouth Argyle FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:519",
+      "name": "Plymouth Parkway FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:520",
+      "name": "Pontefract Collieries FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:521",
+      "name": "Poole Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:522",
+      "name": "Port Vale FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:523",
+      "name": "Portishead Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:524",
+      "name": "Portland United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:525",
+      "name": "Portsmouth FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:526",
+      "name": "Potters Bar Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:527",
+      "name": "Potton United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:528",
+      "name": "Prescot Cables FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:529",
+      "name": "Preston North End FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:530",
+      "name": "Prestwich Heys AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:531",
+      "name": "Punjab United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:532",
+      "name": "Queens Park Rangers FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:533",
+      "name": "Quorn FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:534",
+      "name": "Racing Club Warwick FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:535",
+      "name": "Radcliffe FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:536",
+      "name": "Ramsbottom United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:537",
+      "name": "Ramsgate FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:538",
+      "name": "Rayners Lane FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:539",
+      "name": "Raynes Park Vale FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:540",
+      "name": "Reading City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:541",
+      "name": "Reading FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:542",
+      "name": "Real Bedford FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:543",
+      "name": "Redbridge FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:544",
+      "name": "Redcar Athletic FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:545",
+      "name": "Redcar Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:546",
+      "name": "Redditch United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:547",
+      "name": "Redhill FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:548",
+      "name": "Retford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:549",
+      "name": "Retford United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:550",
+      "name": "Risborough Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:551",
+      "name": "Rochdale AFC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:552",
+      "name": "Roffey FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:553",
+      "name": "Roman Glass St George FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:554",
+      "name": "Romford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:555",
+      "name": "Romulus FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:556",
+      "name": "Rossington Main FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:557",
+      "name": "Rotherham United FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:558",
+      "name": "Royal Wootton Bassett Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:559",
+      "name": "Royston Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:560",
+      "name": "Rugby Borough FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:561",
+      "name": "Rugby Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:562",
+      "name": "Runcorn Linnets FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:563",
+      "name": "Runcorn Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:564",
+      "name": "Rushall Olympic FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:565",
+      "name": "Rusthall FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:566",
+      "name": "Saffron Walden Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:567",
+      "name": "Salford City FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:568",
+      "name": "Salisbury FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:569",
+      "name": "Saltash United AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:570",
+      "name": "Sawbridgeworth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:571",
+      "name": "Scarborough Athletic FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:572",
+      "name": "Scunthorpe United FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:573",
+      "name": "SE Dons FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:574",
+      "name": "Seaford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:575",
+      "name": "Sevenoaks Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:576",
+      "name": "Shaftesbury FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:577",
+      "name": "Sheerwater FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:578",
+      "name": "Sheffield FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:579",
+      "name": "Sheffield United FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:580",
+      "name": "Sheffield Wednesday FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:581",
+      "name": "Sheppey United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:582",
+      "name": "Shepshed Dynamo FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:583",
+      "name": "Shepton Mallet AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:584",
+      "name": "Sherborne Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:585",
+      "name": "Sherwood Colliery FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:586",
+      "name": "Shifnal Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:587",
+      "name": "Shildon AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:588",
+      "name": "Sholing FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:589",
+      "name": "Shrewsbury Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:590",
+      "name": "Sidmouth Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:591",
+      "name": "Silsden AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:592",
+      "name": "Sittingbourne FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:593",
+      "name": "Skegness Town AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:594",
+      "name": "Slimbridge AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:595",
+      "name": "Slough Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:596",
+      "name": "Snodland Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:597",
+      "name": "Soham Town Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:598",
+      "name": "Solihull Moors FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:599",
+      "name": "Soul Tower Hamlets FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:600",
+      "name": "South Liverpool FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:601",
+      "name": "South Park (Reigate) FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:602",
+      "name": "South Shields FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:603",
+      "name": "Southall FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:604",
+      "name": "Southampton FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:605",
+      "name": "Southend United FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:606",
+      "name": "Southport FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:607",
+      "name": "Spalding United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:608",
+      "name": "Spennymoor Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:609",
+      "name": "Sporting Bengal United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:610",
+      "name": "Sporting Club Inkberrow FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:611",
+      "name": "Sporting Khalsa FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:612",
+      "name": "St Albans City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:613",
+      "name": "St Blazey FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:614",
+      "name": "St Ives Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:615",
+      "name": "St Neots Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:616",
+      "name": "Stafford Rangers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:617",
+      "name": "Stalybridge Celtic FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:618",
+      "name": "Stamford AFC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:619",
+      "name": "Stanway Rovers FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:620",
+      "name": "Stevenage FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:621",
+      "name": "Steyning Town  FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:622",
+      "name": "Stockport County FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:623",
+      "name": "Stockport Georgians FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:624",
+      "name": "Stocksbridge Park Steels FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:625",
+      "name": "Stockton Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:626",
+      "name": "Stoke City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:627",
+      "name": "Stone Old Alleynians FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:628",
+      "name": "Stotfold FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:629",
+      "name": "Stourbridge FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:630",
+      "name": "Stourport Swifts FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:631",
+      "name": "Stowmarket Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:632",
+      "name": "Stratford Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:633",
+      "name": "Street FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:634",
+      "name": "Sturminster Newton United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:635",
+      "name": "Sunderland AFC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:636",
+      "name": "Sutton Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:637",
+      "name": "Sutton Coldfield Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:638",
+      "name": "Sutton Common Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:639",
+      "name": "Sutton United FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:640",
+      "name": "Sutton United FC (Birmingham)",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:641",
+      "name": "Swansea City FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:642",
+      "name": "Swindon Supermarine FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:643",
+      "name": "Swindon Town FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:644",
+      "name": "Tadcaster Albion FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:645",
+      "name": "Tadley Calleva FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:646",
+      "name": "Takeley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:647",
+      "name": "Tamworth FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:648",
+      "name": "Taunton Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:649",
+      "name": "Tavistock AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:650",
+      "name": "Thackley AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:651",
+      "name": "Thame United FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:652",
+      "name": "Thatcham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:653",
+      "name": "Thetford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:654",
+      "name": "Thornaby FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:655",
+      "name": "Thornbury Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:656",
+      "name": "Three Bridges FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:657",
+      "name": "Tilbury FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:658",
+      "name": "Tiverton Town FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:659",
+      "name": "Tividale FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:660",
+      "name": "Tonbridge Angels FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:661",
+      "name": "Tooting & Mitcham United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:662",
+      "name": "Torpoint Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:663",
+      "name": "Torquay United FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:664",
+      "name": "Tottenham Hotspur FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:665",
+      "name": "Trafford FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:666",
+      "name": "Tranmere Rovers FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:667",
+      "name": "Tring Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:668",
+      "name": "Truro City FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:669",
+      "name": "Tuffley Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:670",
+      "name": "Tunbridge Wells FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:671",
+      "name": "Uttoxeter Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:672",
+      "name": "Uxbridge FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:673",
+      "name": "Vauxhall Motors FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:674",
+      "name": "Virginia Water FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:675",
+      "name": "Wallingford & Crowmarsh FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:676",
+      "name": "Walsall FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:677",
+      "name": "Walsham Le Willows FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:678",
+      "name": "Waltham Abbey FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:679",
+      "name": "Walthamstow FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:680",
+      "name": "Walton & Hersham FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:681",
+      "name": "Ware FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:682",
+      "name": "Warrington Rylands FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:683",
+      "name": "Warrington Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:684",
+      "name": "Watford FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:685",
+      "name": "Wealdstone FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:686",
+      "name": "Welling United FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:687",
+      "name": "Wellingborough Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:688",
+      "name": "Wellington AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:689",
+      "name": "Wells City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:690",
+      "name": "Welwyn Garden City FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:691",
+      "name": "West Auckland Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:692",
+      "name": "West Bromwich Albion FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:693",
+      "name": "West Didsbury & Chorlton AFC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:694",
+      "name": "West Essex FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:695",
+      "name": "West Ham United FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:696",
+      "name": "Westbury United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:697",
+      "name": "Westfield FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:698",
+      "name": "Westfields FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:699",
+      "name": "Weston Super Mare FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:700",
+      "name": "Weymouth FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:701",
+      "name": "Whickham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:702",
+      "name": "Whitby Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:703",
+      "name": "Whitchurch Alport FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:704",
+      "name": "White Ensign FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:705",
+      "name": "Whitehawk FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:706",
+      "name": "Whitley Bay FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:707",
+      "name": "Whitstable Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:708",
+      "name": "Wick FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:709",
+      "name": "Wigan Athletic FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:710",
+      "name": "Willand Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:711",
+      "name": "Wimborne Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:712",
+      "name": "Winchester City FC",
+      "entryRound": "preliminary"
+    },
+    {
+      "id": "fa-2026:713",
+      "name": "Windsor & Eton FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:714",
+      "name": "Wingate & Finchley FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:715",
+      "name": "Winsford United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:716",
+      "name": "Winslow United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:717",
+      "name": "Wisbech Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:718",
+      "name": "Witham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:719",
+      "name": "Witton Albion FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:720",
+      "name": "Woking FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:721",
+      "name": "Wokingham Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:722",
+      "name": "Wolverhampton Wanderers FC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:723",
+      "name": "Woodbridge Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:724",
+      "name": "Woodford Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:725",
+      "name": "Worcester City FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:726",
+      "name": "Worcester Raiders FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:727",
+      "name": "Workington AFC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:728",
+      "name": "Worksop Town FC",
+      "entryRound": "second-qualifying"
+    },
+    {
+      "id": "fa-2026:729",
+      "name": "Wormley Rovers FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:730",
+      "name": "Worsbrough Bridge Athletic FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:731",
+      "name": "Worthing FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:732",
+      "name": "Wrexham AFC",
+      "entryRound": "third-proper"
+    },
+    {
+      "id": "fa-2026:733",
+      "name": "Wroxham FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:734",
+      "name": "Wycombe Wanderers FC",
+      "entryRound": "first-proper"
+    },
+    {
+      "id": "fa-2026:735",
+      "name": "Wythenshawe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:736",
+      "name": "Wythenshawe Town FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:737",
+      "name": "Yarm & Eaglescliffe FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:738",
+      "name": "Yate Town FC",
+      "entryRound": "first-qualifying"
+    },
+    {
+      "id": "fa-2026:739",
+      "name": "Yateley United FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:740",
+      "name": "Yaxley FC",
+      "entryRound": "extra-preliminary"
+    },
+    {
+      "id": "fa-2026:741",
+      "name": "Yeovil Town FC",
+      "entryRound": "fourth-qualifying"
+    },
+    {
+      "id": "fa-2026:742",
+      "name": "York City FC",
+      "entryRound": "first-proper"
+    }
+  ]
+}

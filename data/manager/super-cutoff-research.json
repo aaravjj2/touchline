@@ -1,0 +1,47 @@
+{
+  "checked": "2026-10-22",
+  "cutoff": "2026-08-07",
+  "status": "partial research; not a verified registration dataset",
+  "note": "Announcement dates and terms below must be reconciled with complete registration histories. They do not prove every cutoff squad. Do not overwrite saved careers.",
+  "events": [
+    {
+      "player": "Curtis Jones",
+      "from": "Liverpool",
+      "to": "Inter",
+      "announcement": "2026-08-21",
+      "kind": "permanent",
+      "newContractEnd": "2031-06-30",
+      "source": "https://www.inter.it/en/news/curtis-jones-new-inter-player",
+      "cutoffObservation": "The announcement is after the requested roster cutoff."
+    },
+    {
+      "player": "Rodri",
+      "from": "Manchester City",
+      "to": "Barcelona",
+      "announcement": "2026-08-18",
+      "kind": "permanent",
+      "newContractEnd": "2030-06-30",
+      "source": "https://www.fcbarcelona.com/en/news/4561501/fc-barcelona-sign-rodrigo-hernandez",
+      "cutoffObservation": "The announcement is after the requested roster cutoff."
+    },
+    {
+      "player": "Djed Spence",
+      "from": "Tottenham Hotspur",
+      "to": "Inter",
+      "announcement": "2026-08-15",
+      "kind": "permanent",
+      "source": "https://www.inter.it/en/news/djed-spence-new-inter-player",
+      "cutoffObservation": "The announcement is after the requested roster cutoff."
+    },
+    {
+      "player": "Benoît Badiashile",
+      "from": "Chelsea",
+      "to": "Napoli",
+      "announcement": "2026-08-22",
+      "kind": "loan-with-purchase-option",
+      "loanEnd": null,
+      "source": "https://sscnapoli.it/en/sscn-ufficiale-lingaggio-di-badiashile/",
+      "cutoffObservation": "The announcement is after the requested cutoff. Source confirms loan; exact return date remains unverified."
+    }
+  ]
+}

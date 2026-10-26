@@ -1,0 +1,21 @@
+{
+ "checked":"2026-10-24",
+ "scope":"Official pre-cutoff contract and ownership affiliations. No formal league registration, salary or transfer value is inferred. Exact expiries remain distinct from game estimates.",
+ "players":[
+  {"id":"super-barcelona-pedri","date":"2025-01-30","end":"2030-06-30","source":"https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-bara-until-2030"},
+  {"id":"super-barcelona-gavi","date":"2025-01-31","end":"2030-06-30","source":"https://www.fcbarcelona.com/en/football/first-team/news/4208572/-2030/featured"},
+  {"id":"super-barcelona-lamineyamal","date":"2025-05-27","end":"2031-06-30","source":"https://www.fcbarcelona.com/en/football/first-team/news/4274403/"},
+  {"id":"super-barcelona-raphinha","date":"2025-05-22","end":"2028-06-30","positions":["LW"],"source":"https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028"},
+  {"id":"super-barcelona-juleskounde","date":"2025-08-15","end":"2030-06-30","positions":["RB","CB"],"source":"https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030"},
+  {"id":"super-barcelona-paucubarsi","date":"2025-02-13","end":"2029-06-30","source":"https://penyes.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029/amp"},
+  {"id":"super-barcelona-joangarcia","date":"2025-06-18","end":"2031-06-30","ownershipSource":"https://www.fcbarcelona.com/en/news/4291787/joan-garcia-signs-contract-with-fc-barcelona/amp","ownershipDate":"2025-06-20","positions":["GK"],"source":"https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia/featured"},
+  {"id":"super-barcelona-alejandrobalde","date":"2023-09-20","end":"2028-06-30","positions":["LB"],"source":"https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028"},
+  {"id":"super-barcelona-ericgarcia","date":"2025-12-05","end":"2031-06-30","source":"https://www.fcbarcelona.com/en/news/4414653/agreement-to-extend-eric-garcias-contract-until-30-june-2031"},
+  {"id":"super-barcelona-gerardmartin","date":"2025-01-24","end":"2028-06-30","source":"https://agrupaciojugadors.fcbarcelona.com/en/news/4203222/agreement-to-renew-gerard-martins-contract/amp"}
+ ],
+ "pending":[
+  {"id":"super-villarreal-250224969","reportedPositions":["LW","RW"],"source":"https://www.transfermarkt.us/nizar-el-jmili/profil/spieler/1354880","note":"Provider profile lists both winger sides, but this current listing alone does not date the position assessment to cutoff. Keep reported separately; no verified position claim."},
+  {"id":"super-inter-mattiamarello","reportedPositions":["LB","LM","RM"],"source":"https://www.transfermarkt.us/mattia-marello/profil/spieler/1058352","note":"Provider profile and later club programme support left-sided play; exact cutoff natural-position evidence remains unresolved."},
+  {"id":"world-sandbox-eng-p571380","reportedPositions":["LW"],"source":"https://transferscout.co.uk/players/luka-lynch/","note":"Secondary September listing conflicts with broad DEF/STR labels in official Villa lineups. No natural position is approved from jersey numbers or broad lineup labels."}
+ ]
+}

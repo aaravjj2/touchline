@@ -1,0 +1,138 @@
+{
+  "checked": "2026-10-21",
+  "clubs": 20,
+  "players": 517,
+  "foreignPlayers": 331,
+  "foreignReferenceMatches": 317,
+  "worldPlayers": 969,
+  "unknownBirthDates": 12,
+  "unmatched": [
+    {
+      "club": "Barcelona",
+      "name": "Jesse Bisiwu",
+      "candidates": 0
+    },
+    {
+      "club": "Real Madrid",
+      "name": "Sergio Martínez",
+      "candidates": 0
+    },
+    {
+      "club": "Villarreal",
+      "name": "Yakiv Kinareikin",
+      "candidates": 0
+    },
+    {
+      "club": "Villarreal",
+      "name": "Nizar El Jmili",
+      "candidates": 0
+    },
+    {
+      "club": "Atlético Madrid",
+      "name": "Arnau Ortiz",
+      "candidates": 0
+    },
+    {
+      "club": "RB Leipzig",
+      "name": "Abdoul Kone",
+      "candidates": 0
+    },
+    {
+      "club": "Stuttgart",
+      "name": "Marius Funk",
+      "candidates": 0
+    },
+    {
+      "club": "Stuttgart",
+      "name": "Alexander Groiß",
+      "candidates": 0
+    },
+    {
+      "club": "Stuttgart",
+      "name": "Dominik Nothnagel",
+      "candidates": 0
+    },
+    {
+      "club": "Inter",
+      "name": "Mattia Marello",
+      "candidates": 0
+    },
+    {
+      "club": "Como",
+      "name": "Mattia Liberali",
+      "candidates": 0
+    },
+    {
+      "club": "Paris Saint-Germain",
+      "name": "Alessandro Longoni",
+      "candidates": 0
+    },
+    {
+      "club": "Lens",
+      "name": "Mickaël Cuisance",
+      "candidates": 0
+    },
+    {
+      "club": "Lens",
+      "name": "Souleymane Sagnan",
+      "candidates": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "sandbox-eng-p205651",
+      "name": "Gabriel Fernando de Jesus",
+      "feedClub": "Arsenal",
+      "registeredSnapshotClub": "Barcelona"
+    },
+    {
+      "id": "sandbox-eng-p101188",
+      "name": "Lucas Digne",
+      "feedClub": "Aston Villa",
+      "registeredSnapshotClub": "Paris Saint-Germain"
+    },
+    {
+      "id": "sandbox-eng-p215059",
+      "name": "Robert Lynch Sánchez",
+      "feedClub": "Chelsea",
+      "registeredSnapshotClub": "Como"
+    },
+    {
+      "id": "sandbox-eng-p180736",
+      "name": "Trevoh Chalobah",
+      "feedClub": "Chelsea",
+      "registeredSnapshotClub": "Como"
+    },
+    {
+      "id": "sandbox-eng-p242880",
+      "name": "Benoît Badiashile Mukinayi",
+      "feedClub": "Chelsea",
+      "registeredSnapshotClub": "Napoli"
+    },
+    {
+      "id": "sandbox-eng-p206915",
+      "name": "Curtis Jones",
+      "feedClub": "Liverpool",
+      "registeredSnapshotClub": "Inter"
+    },
+    {
+      "id": "sandbox-eng-p220566",
+      "name": "Rodrigo 'Rodri' Hernandez Cascante",
+      "feedClub": "Manchester City",
+      "registeredSnapshotClub": "Barcelona"
+    },
+    {
+      "id": "sandbox-eng-p221632",
+      "name": "Cristian Romero",
+      "feedClub": "Tottenham Hotspur",
+      "registeredSnapshotClub": "Atlético Madrid"
+    },
+    {
+      "id": "sandbox-eng-p232859",
+      "name": "Djed Spence",
+      "feedClub": "Tottenham Hotspur",
+      "registeredSnapshotClub": "Inter"
+    }
+  ],
+  "ownership": "Initial ownership is authored for this fictional sandbox, not a verified domestic registration/loan dataset."
+}

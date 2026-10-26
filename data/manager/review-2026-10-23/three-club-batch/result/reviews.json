@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "key": "super-barcelona/club/membership",
+      "claimHash": "9d673c5682551904dc043354abd545796fb5a1e6e5ad60db94c23674d5898784",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-real-madrid/club/membership",
+      "claimHash": "0f813ccbb1fdec5e110035b672ee3ba1b1bebaece4cdbb278f8d8b62e2c21f4b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "english-eng-1/club/membership",
+      "claimHash": "8b9f3755e57d7e2735e830531210ecdd71cc6cb34b91aa3f135e4b8cf3a362d2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-14/club/membership",
+      "claimHash": "d1562ff361d387aecdde0547b73fa6e6fdbd3afee9a9fb113170ecce03cec770",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-15/club/membership",
+      "claimHash": "95c49ae6389543c897cc8446c3086b24377cc8bce3deac19c41209fcf3ff1ace",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-16/club/membership",
+      "claimHash": "c48fa3098a17c72db47bd4626255f9c2b7e1a1b4d318cf96c30d27df3a52e449",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-2/club/membership",
+      "claimHash": "e2807f70c7b4f62d255b7c542c3d1a23b81dfced1d43c46b4c867583c0fc15c9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-3/club/membership",
+      "claimHash": "c093573bdcf45b9897a9091b45a594f2cf5619aa8dee0220f8e198669315e140",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "super-atletico/club/membership",
+      "claimHash": "7a94ba2dfbe6a702328f0f04fe5278b723f8e1d112172b9057820155bd2a46ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-bayern/club/membership",
+      "claimHash": "cae417511e7fcc6371e408d543d3a02b6a69cb7bc8ced0a6bdc7fdf20b25656f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-como/club/membership",
+      "claimHash": "8686f3ace86b454ac9ea0d55c76e2e72d36a92f92aa0b2e5eaee3645a89eb45e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-dortmund/club/membership",
+      "claimHash": "7a2c6b8db7e7577bf48549169017a9c631849f1b7c9eda2d8984ce928e8c1848",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-inter/club/membership",
+      "claimHash": "969d7bc253e52ae15e44f1b5740f5d2d535f8805ceb74901e753a5eac45e34f0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-leipzig/club/membership",
+      "claimHash": "0eacdb4d1e403721990ada403a05b2632222fb093505cabb1693d9debb84985f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-lens/club/membership",
+      "claimHash": "335c0faa9bc9690036af9249480fc2c6b657e2355b1feb859530cdd6bed1b149",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-napoli/club/membership",
+      "claimHash": "d5e069672b9efd45206016a5da7b90700b8e6d3f69fc00bc6421c78823b15596",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-paris/club/membership",
+      "claimHash": "809813eefda6983e52ac07bc243578a49c84558f1f71659c3c68c1d9ae14b88d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-roma/club/membership",
+      "claimHash": "cd5694f4b42cf40335f21474aaad9dceda65473514724faa5d22c27db0cc02e0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-stuttgart/club/membership",
+      "claimHash": "1008761307a8dda92c3b10ec4ad0a3ca19863e986d45971f2d7c8a3def743953",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-villarreal/club/membership",
+      "claimHash": "ae5f75364adf89b0b095dc26415efeccf65ad10377a9abe40acf872b3254b9fb",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-lamineyamal/birthDate",
+      "claimHash": "518a5ce121c168cf7df2e2d5ec92377b98d559826682141a55232f41e8aae8ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-pedri/birthDate",
+      "claimHash": "960a32e15d46df1e0849f2e9da3d118c86e354c4a546209e1816e0aa2692c1b0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-kylianmbappe/birthDate",
+      "claimHash": "7bbaf348e0478fc10086e798047562436b30ad34694c08c8af776cbaeb4c8b72",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p223340/birthDate",
+      "claimHash": "eb5b48c22f4555261e838dd30c2d4f54b07c4494a5acc8bb96b7567501ebe9f3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-judebellingham/birthDate",
+      "claimHash": "12e4758ff9e984aeed9457db8125522b422b747d85998ee406dc7cff542cda70",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-eduardocamavinga/birthDate",
+      "claimHash": "bd9648a6d9bbc587b2ce15d0498fb10a5234c264188428f642756a2638cfbba6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-federicovalverde/birthDate",
+      "claimHash": "7540ed5f089350a5caccd0c477f8e96741f862719e95ba5ca69439964637d045",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-aurelientchouameni/birthDate",
+      "claimHash": "030a51b5a28041152e372e64254c9852884872512a00e8bf60ce52971ec28c96",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-viniciusjunior/birthDate",
+      "claimHash": "d899af0f5afa5198eab8c3ce6c94d8227449c48b19381aa66b4ceafc92ba1e93",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-rodrygo/birthDate",
+      "claimHash": "dd290e13cca1a40f5386d65c93224faeb0821b033ed7e2f263a3133c411fddcc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-ardaguler/birthDate",
+      "claimHash": "0a471b2fb12a60090c7af3f58bf7c0466a50284687a36a4c30e5981f4ee09b40",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-thibautcourtois/birthDate",
+      "claimHash": "102d32c059b2b70aab0cf3f92335d1a3297eecbef4ba7a22fe08062aec7280f2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-andriylunin/birthDate",
+      "claimHash": "83633ec074b88df54c934fe8a6b028f9b0bb6d848d2b27f742467059b0724f70",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p204480/birthDate",
+      "claimHash": "decc3fc1cb885ba0e23e9b68bc4a92c99248fd0110578288816a22ed181cd3d9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p198869/birthDate",
+      "claimHash": "38d9b7720651c9a1b7069c35a15b4de1e4d76aa80b4619e0d8280922c7a0f0e1",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p154561/birthDate",
+      "claimHash": "c62bfd7e47d215c51aef1ba1e4f4a171386124947a13c0751172c2b0bba73f87",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joangarcia/birthDate",
+      "claimHash": "9eb585326bb2f931238bdb069c5f7c777f9741e8b36cbefba0465a3cf6dc2b73",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gavi/birthDate",
+      "claimHash": "d4e28b37cf1298c16dc1fc7197aca2b30789d99f23b569002dde7ea81f1faa0c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/birthDate",
+      "claimHash": "44810fdc99aefbcc0b5234f0fb16774e143f57ea0fadf2077463e250e19e81ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/ownership",
+      "claimHash": "0fe592c3679c48f507261a9717305465409d84ba3c1a44e7b99d35d147e8595b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 4 August presentation reports the player signed through 30 June 2031, following the 31 July transfer agreement with Club Brugge. Establishes ownership and published contract, not formal league registration, wages, fee, or a precise winger side."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/gameTerms.contract",
+      "claimHash": "adfcf509dd604e30b36a9f4f6e6ced7321f74817d366513e2de3c0d7bea01063",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 4 August presentation reports the player signed through 30 June 2031, following the 31 July transfer agreement with Club Brugge. Establishes ownership and published contract, not formal league registration, wages, fee, or a precise winger side."
+    }
+  ]
+}

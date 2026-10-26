@@ -1,0 +1,13 @@
+import {writeFile,mkdir,readFile} from 'node:fs/promises';
+import {dirname,resolve} from 'node:path';
+import {createHash} from 'node:crypto';
+import {openingCandidate} from '../dist/super-opening-data.js';
+import {auditSuperDataset} from '../dist/super-dataset.js';
+const arg=name=>process.argv.includes(name)?process.argv[process.argv.indexOf(name)+1]:null,input=arg('--input'),output=resolve(arg('--output')||'data/manager/super-opening-audit.json');
+if(input&&resolve(input)===output)throw Error('Audit output must not overwrite source facts.');
+const candidate=input?JSON.parse(await readFile(input,'utf8')):openingCandidate(),audit=auditSuperDataset(candidate),counts={};for(const e of audit.errors)counts[e.kind]=(counts[e.kind]||0)+1;
+const sourceHash=createHash('sha256').update(JSON.stringify(candidate)).digest('hex');
+await mkdir(dirname(output),{recursive:true});await writeFile(output,JSON.stringify({...audit,sourceHash,counts},null,2)+'\n');
+const quote=s=>'"'+String(s??'').replaceAll('"','""')+'"';await writeFile(output.replace(/\.json$/,'')+'.issues.csv','kind,club,player,message\n'+audit.errors.map(e=>[e.kind,e.club,e.player,e.message].map(quote).join(',')).join('\n')+'\n');
+console.log(JSON.stringify({id:audit.id,cutoff:audit.cutoff,ready:audit.ready,clubs:audit.clubs,players:audit.players,counts},null,2));
+if(process.argv.includes('--require-ready')&&!audit.ready)process.exitCode=1;

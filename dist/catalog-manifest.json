@@ -1,0 +1,401 @@
+{
+  "version": 1,
+  "catalogVersion": "2026-10-19",
+  "featuredClubs": 20,
+  "snapshots": 39,
+  "cards": 628,
+  "ratings": "Touchline authored game values; no imported EA ratings",
+  "movement": "New physical fixtures derive authored pace from role and game attributes unless explicitly supplied. Older replay rules are preserved.",
+  "squads": [
+    {
+      "id": "pack0",
+      "club": "Barcelona",
+      "season": "2010–11",
+      "year": 2011,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2011/2003352_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack1",
+      "club": "Manchester United",
+      "season": "2010–11",
+      "year": 2011,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2011/2003352_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack2",
+      "club": "Bayern Munich",
+      "season": "2012–13",
+      "year": 2013,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack3",
+      "club": "Borussia Dortmund",
+      "season": "2012–13",
+      "year": 2013,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack4",
+      "club": "Real Madrid",
+      "season": "2016–17",
+      "year": 2017,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack5",
+      "club": "Juventus",
+      "season": "2016–17",
+      "year": 2017,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack6",
+      "club": "Liverpool",
+      "season": "2018–19",
+      "year": 2019,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack7",
+      "club": "Tottenham",
+      "season": "2018–19",
+      "year": 2019,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack8",
+      "club": "Manchester City",
+      "season": "2020–21",
+      "year": 2021,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack9",
+      "club": "Chelsea",
+      "season": "2020–21",
+      "year": 2021,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack10",
+      "club": "Manchester City",
+      "season": "2022–23",
+      "year": 2023,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2023/2037765_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack11",
+      "club": "Inter",
+      "season": "2022–23",
+      "year": 2023,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2023/2037765_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack12",
+      "club": "Porto",
+      "season": "2003–04",
+      "year": 2004,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2003/1065206_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack13",
+      "club": "Monaco",
+      "season": "2003–04",
+      "year": 2004,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2003/1065206_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack14",
+      "club": "Barcelona",
+      "season": "2014–15",
+      "year": 2015,
+      "players": 18,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2015/2015227_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack15",
+      "club": "Juventus",
+      "season": "2014–15",
+      "year": 2015,
+      "players": 18,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2015/2015227_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack16",
+      "club": "Real Madrid",
+      "season": "2023–24",
+      "year": 2024,
+      "players": 23,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2024/2039970_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack17",
+      "club": "Borussia Dortmund",
+      "season": "2023–24",
+      "year": 2024,
+      "players": 23,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2024/2039970_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack18",
+      "club": "Benfica",
+      "season": "1989–90",
+      "year": 1990,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/uefaeuropaleague/news/01e2-0e73eeffd1c9-dc6b133e6172-1000--benfica-bidding-to-outstrip-om/",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack19",
+      "club": "Marseille",
+      "season": "1992–93",
+      "year": 1993,
+      "players": 11,
+      "membershipSource": "https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack20",
+      "club": "AC Milan",
+      "season": "1993–94",
+      "year": 1994,
+      "players": 11,
+      "membershipSource": "https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack21",
+      "club": "Ajax",
+      "season": "1994–95",
+      "year": 1995,
+      "players": 13,
+      "membershipSource": "https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack22",
+      "club": "Arsenal",
+      "season": "2005–06",
+      "year": 2006,
+      "players": 14,
+      "membershipSource": "https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack23",
+      "club": "Atlético Madrid",
+      "season": "2013–14",
+      "year": 2014,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2014/2011883_FR.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack24",
+      "club": "Paris Saint-Germain",
+      "season": "2019–20",
+      "year": 2020,
+      "players": 11,
+      "membershipSource": "https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack25",
+      "club": "Paris Saint-Germain",
+      "season": "2024–25",
+      "year": 2025,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2025/2044466_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "pack26",
+      "club": "Inter",
+      "season": "2024–25",
+      "year": 2025,
+      "players": 11,
+      "membershipSource": "https://www.uefa.com/newsfiles/UCL/2025/2044466_LU.pdf",
+      "checked": null,
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club1",
+      "club": "Arsenal",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 22,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club3",
+      "club": "Atlético Madrid",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 24,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50124--atleti/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club4",
+      "club": "Barcelona",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 25,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club5",
+      "club": "Bayern Munich",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 24,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50037--bayern-munchen/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club7",
+      "club": "Borussia Dortmund",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 24,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/52758--b-dortmund/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club13",
+      "club": "Inter",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 23,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50138--inter/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club18",
+      "club": "Liverpool",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 25,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club19",
+      "club": "Manchester City",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 23,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club20",
+      "club": "Manchester United",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 25,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/52682--man-utd/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club22",
+      "club": "Paris Saint-Germain",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 24,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/52747--paris/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club23",
+      "club": "Porto",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 24,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50064--porto/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    },
+    {
+      "id": "current-club26",
+      "club": "Real Madrid",
+      "season": "2026–27",
+      "year": 2026,
+      "players": 25,
+      "membershipSource": "https://www.uefa.com/uefachampionsleague/clubs/50051--real-madrid/",
+      "checked": "2026-10-19",
+      "ratingSource": "Touchline authored"
+    }
+  ]
+}

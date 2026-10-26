@@ -1,0 +1,87 @@
+{
+  "capturedAt": "2026-10-23T19:09:29.941Z",
+  "scope": "Public-page capture only; HTTP success and hashes do not verify football facts.",
+  "sources": [
+    {
+      "url": "https://www.fcbarcelona.com/en/mercat-fitxatges",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/mercat-fitxatges",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 339733,
+      "sha256": "2f685735a2919add6f7b29231bf4790f893ee54750b0fcd90985626ef2727ebd",
+      "file": "001.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4511134/anthony-gordon-becomes-an-fc-barcelona-player",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4511134/anthony-gordon-becomes-an-fc-barcelona-player",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 335120,
+      "sha256": "2147f61317687b2dfe7e97eda3c5fc11e8d39a70dc4f12333aedf2f6c98b8740",
+      "file": "002.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernndez",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernndez",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 348417,
+      "sha256": "24dde05c39b9d23d7c841f34929ce2f9a6b083d03c22f43af4b965662efe5e82",
+      "file": "003.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 351002,
+      "sha256": "0212a37b808ffd98cc952614aa514a5e3528e00ce928e14e3ae0fc024977acb7",
+      "file": "004.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 344512,
+      "sha256": "8dbf5b5a172c140610038f31d981bc6e37c149a1dd3343340204413231728579",
+      "file": "005.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
+      "status": 200,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 318476,
+      "sha256": "151f78c43ac6f2065e305df688fc55567f133dd6115e82ef02c97a863aca5372",
+      "file": "006.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-konate-18-06-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-konate-18-06-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 482088,
+      "sha256": "43c36e9d8be0be12b57ddcf07fa0527d1442a8063814477273eaac688863037e",
+      "file": "007.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-cucurella-15-06-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-cucurella-15-06-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 482462,
+      "sha256": "ad905eced0ca11bf4c1011dd397484d79dd9968cee4d0851f884216bce8b577d",
+      "file": "008.html"
+    },
+    {
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-dumfries-05-07-2026",
+      "status": 200,
+      "finalUrl": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-dumfries-05-07-2026",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 482342,
+      "sha256": "6ec3ac73933e9a158d92df64dd365686de7a49fbdd11d98a94e9c43776de3bef",
+      "file": "009.html"
+    }
+  ]
+}

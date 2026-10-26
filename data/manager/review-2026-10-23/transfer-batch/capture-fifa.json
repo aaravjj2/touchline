@@ -1,0 +1,15 @@
+{
+  "capturedAt": "2026-10-23T19:13:09.900Z",
+  "scope": "Public-page capture only; HTTP success and hashes do not verify football facts.",
+  "sources": [
+    {
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "status": 200,
+      "finalUrl": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "contentType": "application/pdf",
+      "bytes": 784283,
+      "sha256": "02a0a9beb5d219e7cc0aedde19273e9a3bfe4818ecd600d37804b8801dd96d94",
+      "file": "001.pdf"
+    }
+  ]
+}

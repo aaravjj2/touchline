@@ -1,0 +1,1 @@
+export async function dismissOpeningIntro(page){await page.waitForFunction(()=>!!document.body.dataset.opening);const skip=page.locator(".opening-intro[open] [data-opening-skip]");if(await skip.count())await skip.click();}

@@ -1,0 +1,7 @@
+import {createMatch as createLiveMatch,applyAction as applyLiveAction} from '../dist/live-engine.js';
+import test from 'node:test';import assert from 'node:assert/strict';
+import {recommendation} from '../dist/coach.js';import {createMatch,applyAction,player} from '../dist/engine.js';
+test('assistant proposes legal substitutions and the recommendation changes real roster state',()=>{const m=createMatch({minute:70});const tired=m.state.lineup.find(id=>player(id).role==='MID');m.state.fitness[tired]=55;const r=recommendation(m.state);assert.equal(r.action,'coach-sub');assert.equal(player(r.out).role,player(r.in).role);applyAction(m,{type:'sub',out:r.out,in:r.in});assert.ok(m.state.lineup.includes(r.in));assert.equal(m.state.subs,1);});
+test('assistant responds to score, clock and fatigue with applicable tactical choices',()=>{const m=createMatch({minute:75,score:[2,1]});for(const id of m.state.lineup)m.state.fitness[id]=90;let r=recommendation(m.state);assert.equal(r.value,'protect');applyAction(m,{type:'preset',value:r.value});assert.equal(m.state.preset,'protect');m.state.score=[0,1];r=recommendation(m.state);assert.equal(r.value,'press');});
+
+test('a shotless midfield receives an actionable build-up change rather than generic advice',()=>{const m=createLiveMatch({minute:35,score:[0,0]});const r=recommendation(m.state);assert.equal(r.action,'coach-build');assert.equal(r.value,'direct');applyLiveAction(m,{type:'build',value:r.value});assert.equal(m.state.buildUps[0],'direct');});

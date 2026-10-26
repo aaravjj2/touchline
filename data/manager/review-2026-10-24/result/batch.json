@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "baseHash": "bd38edb9873eb38c9c079bf5bba47809bd127543b23e0c458c8a1263cc6801d8",
+  "reviewHash": "492e0a378d559f892f6b9657b2d0ad1df43d476adaf2a639d9d7056a2ce649c5",
+  "reviewer": "Codex official contract review",
+  "checked": "2026-10-24",
+  "claims": [
+    {
+      "key": "super-barcelona/super-barcelona-pedri/ownership",
+      "oldClaimHash": "4c9acae6bb8b9d2ec89c1f5795166b03f94c9a48696ac10711834914227e7465",
+      "personId": "tm-683840",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-bara-until-2030",
+        "effective": "2025-01-30",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-pedri/gameTerms.contract",
+      "oldClaimHash": "4c9acae6bb8b9d2ec89c1f5795166b03f94c9a48696ac10711834914227e7465",
+      "personId": "tm-683840",
+      "value": {
+        "value": "2030-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-bara-until-2030",
+        "effective": "2025-01-30",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gavi/ownership",
+      "oldClaimHash": "0aa4730c2eb88d1bbb193e471e9d8f456ac2c2daae144937c1392c4128b32fd7",
+      "personId": "tm-646740",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4208572/-2030/featured",
+        "effective": "2025-01-31",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gavi/gameTerms.contract",
+      "oldClaimHash": "0aa4730c2eb88d1bbb193e471e9d8f456ac2c2daae144937c1392c4128b32fd7",
+      "personId": "tm-646740",
+      "value": {
+        "value": "2030-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4208572/-2030/featured",
+        "effective": "2025-01-31",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-lamineyamal/ownership",
+      "oldClaimHash": "8b47bd7d60c47c4f467775bf5ca5a2b5fb437c29d5272494d947592b4fb3f9e7",
+      "personId": "tm-937958",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4274403/",
+        "effective": "2025-05-27",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-lamineyamal/gameTerms.contract",
+      "oldClaimHash": "8b47bd7d60c47c4f467775bf5ca5a2b5fb437c29d5272494d947592b4fb3f9e7",
+      "personId": "tm-937958",
+      "value": {
+        "value": "2031-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4274403/",
+        "effective": "2025-05-27",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-raphinha/ownership",
+      "oldClaimHash": "aed355d1de5e1d6356d9c07a5324de768c084a596abf2e4e4b1a6d82378aa15a",
+      "personId": "tm-411295",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+        "effective": "2025-05-22",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-raphinha/gameTerms.contract",
+      "oldClaimHash": "aed355d1de5e1d6356d9c07a5324de768c084a596abf2e4e4b1a6d82378aa15a",
+      "personId": "tm-411295",
+      "value": {
+        "value": "2028-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+        "effective": "2025-05-22",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-raphinha/positions",
+      "oldClaimHash": "8319653251fd52b3c71a2296ff0c2b5a4ab08dca8272f556e529100c97886246",
+      "personId": "tm-411295",
+      "value": [
+        "LW"
+      ],
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+        "effective": "2025-05-22",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff biography explicitly names these positions; no unrelated positions inferred."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-juleskounde/ownership",
+      "oldClaimHash": "dbdee33d5d5f9a7944f1faf9107091a1b517cb1bc1ea19fa1b9b93130b9e6cec",
+      "personId": "tm-411975",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030",
+        "effective": "2025-08-15",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-juleskounde/gameTerms.contract",
+      "oldClaimHash": "dbdee33d5d5f9a7944f1faf9107091a1b517cb1bc1ea19fa1b9b93130b9e6cec",
+      "personId": "tm-411975",
+      "value": {
+        "value": "2030-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030",
+        "effective": "2025-08-15",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-juleskounde/positions",
+      "oldClaimHash": "54c298393535d598a9acee79d4b9c23d4ab4b7286cbb9174d40f40e6d2a33ab1",
+      "personId": "tm-411975",
+      "value": [
+        "RB",
+        "CB"
+      ],
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4341835/jules-kounde-and-fc-barcelona-extend-contract-to-2030",
+        "effective": "2025-08-15",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff biography explicitly names these positions; no unrelated positions inferred."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-paucubarsi/ownership",
+      "oldClaimHash": "94dfb46c469fd2e013011713b81f4925c3c0d40170060ce6c08e02b20ee30e0a",
+      "personId": "tm-962110",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://penyes.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029/amp",
+        "effective": "2025-02-13",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-paucubarsi/gameTerms.contract",
+      "oldClaimHash": "94dfb46c469fd2e013011713b81f4925c3c0d40170060ce6c08e02b20ee30e0a",
+      "personId": "tm-962110",
+      "value": {
+        "value": "2029-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://penyes.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029/amp",
+        "effective": "2025-02-13",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joangarcia/ownership",
+      "oldClaimHash": "dc6e941b357f53cc87e73aa80aa67cb2ac2c30880c84ca80fa4be234ff49c1fa",
+      "personId": "tm-561613",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/news/4291787/joan-garcia-signs-contract-with-fc-barcelona/amp",
+        "effective": "2025-06-20",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joangarcia/gameTerms.contract",
+      "oldClaimHash": "dc6e941b357f53cc87e73aa80aa67cb2ac2c30880c84ca80fa4be234ff49c1fa",
+      "personId": "tm-561613",
+      "value": {
+        "value": "2031-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia/featured",
+        "effective": "2025-06-18",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joangarcia/positions",
+      "oldClaimHash": "894a766d190164c431ffad81ebd6b1255168abf73d638aa68e314f66c2a41c79",
+      "personId": "tm-561613",
+      "value": [
+        "GK"
+      ],
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia/featured",
+        "effective": "2025-06-18",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff biography explicitly names these positions; no unrelated positions inferred."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-alejandrobalde/ownership",
+      "oldClaimHash": "cfb652ed83a9d57fe72cb4408d500cc57c506dfcf31b6a43fe3fd7b50257c3c1",
+      "personId": "tm-636688",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028",
+        "effective": "2023-09-20",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-alejandrobalde/gameTerms.contract",
+      "oldClaimHash": "cfb652ed83a9d57fe72cb4408d500cc57c506dfcf31b6a43fe3fd7b50257c3c1",
+      "personId": "tm-636688",
+      "value": {
+        "value": "2028-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028",
+        "effective": "2023-09-20",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-alejandrobalde/positions",
+      "oldClaimHash": "eeb788fe5450e44755ef798605ed042100079536110bc0cce0d6a45e325884f0",
+      "personId": "tm-636688",
+      "value": [
+        "LB"
+      ],
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/football/first-team/news/3691879/balde-extends-fc-barcelona-contract-until-2028",
+        "effective": "2023-09-20",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff biography explicitly names these positions; no unrelated positions inferred."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-ericgarcia/ownership",
+      "oldClaimHash": "5c6ebe9c42ed00506aae171bb475d72f976f58bf2c0cf8489703d642743b59fa",
+      "personId": "tm-466794",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/news/4414653/agreement-to-extend-eric-garcias-contract-until-30-june-2031",
+        "effective": "2025-12-05",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-ericgarcia/gameTerms.contract",
+      "oldClaimHash": "5c6ebe9c42ed00506aae171bb475d72f976f58bf2c0cf8489703d642743b59fa",
+      "personId": "tm-466794",
+      "value": {
+        "value": "2031-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://www.fcbarcelona.com/en/news/4414653/agreement-to-extend-eric-garcias-contract-until-30-june-2031",
+        "effective": "2025-12-05",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gerardmartin/ownership",
+      "oldClaimHash": "dd57e155c9792c8fb86f0f49f6eb03a2a0bb85c5031a3c50e31e10de1a15772b",
+      "personId": "tm-705395",
+      "value": "super-barcelona",
+      "evidence": {
+        "status": "verified",
+        "source": "https://agrupaciojugadors.fcbarcelona.com/en/news/4203222/agreement-to-renew-gerard-martins-contract/amp",
+        "effective": "2025-01-24",
+        "checked": "2026-10-24",
+        "note": "Official pre-cutoff signing or renewal supports club contract affiliation. Formal league registration remains unresolved."
+      }
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gerardmartin/gameTerms.contract",
+      "oldClaimHash": "dd57e155c9792c8fb86f0f49f6eb03a2a0bb85c5031a3c50e31e10de1a15772b",
+      "personId": "tm-705395",
+      "value": {
+        "value": "2028-06-30",
+        "basis": "published",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      },
+      "evidence": {
+        "status": "verified",
+        "source": "https://agrupaciojugadors.fcbarcelona.com/en/news/4203222/agreement-to-renew-gerard-martins-contract/amp",
+        "effective": "2025-01-24",
+        "checked": "2026-10-24",
+        "note": "Exact expiry as published in the pre-cutoff agreement. Salary, fee and later renewals remain separate facts."
+      }
+    }
+  ]
+}

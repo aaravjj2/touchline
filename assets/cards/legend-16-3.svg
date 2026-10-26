@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 480" role="img">
+  <rect width="320" height="480" rx="18" fill="#f6f3ec"/>
+  <rect x="8" y="8" width="304" height="464" rx="14" fill="none" stroke="#d6c27a" stroke-width="3"/>
+  <rect x="8" y="8" width="10" height="464" fill="#e8dfc9"/>
+  <text x="32" y="52" fill="#172028" font-family="Impact,sans-serif" font-size="40">94</text>
+  <text x="292" y="40" text-anchor="end" fill="#5d6b78" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.4">DEF</text>
+  <text x="292" y="58" text-anchor="end" fill="#5d6b78" font-family="Arial,sans-serif" font-size="11">Elite</text>
+  <clipPath id="stage"><rect x="28" y="78" width="264" height="230"/></clipPath>
+  <g clip-path="url(#stage)">
+    <rect x="28" y="78" width="264" height="184" fill="#141c24"/>
+    <rect x="28" y="262" width="264" height="46" fill="#1c3a2e"/>
+    <g transform="translate(82 96) scale(.78)"><g transform="translate(0 0)">
+    <ellipse cx="100" cy="252" rx="48" ry="8" fill="#000" opacity=".28"/>
+    <path d="M60 186 L50 236" stroke="#f6f3ec" stroke-width="13" stroke-linecap="round"/>
+    <path d="M140 186 L150 236" stroke="#f6f3ec" stroke-width="13" stroke-linecap="round"/>
+    <rect x="42" y="232" width="18" height="8" rx="3" fill="#f4f1ea"/>
+    <rect x="140" y="232" width="18" height="8" rx="3" fill="#f4f1ea"/>
+    <path d="M68 146 h64 l10 46 H58 Z" fill="#e8dfc9"/>
+    <path d="M86 146 h28 l-6 18 H92 Z" fill="#000" opacity=".2"/>
+    <path d="M70 154 L48 196" stroke="#e8dfc9" stroke-width="12" stroke-linecap="round"/>
+    <path d="M130 154 L152 196" stroke="#e8dfc9" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="46" cy="198" r="5" fill="#ad7453"/><circle cx="154" cy="198" r="5" fill="#ad7453"/>
+    <text x="100" y="182" text-anchor="middle" font-family="Impact,sans-serif" font-size="20" fill="#172028">4</text>
+    <rect x="92" y="128" width="16" height="20" rx="6" fill="#ad7453"/>
+    <circle cx="100" cy="104" r="28" fill="#ad7453"/>
+    <path d="M70 112 h60 v12 h-60z" fill="#51382a"/><path d="M76 112 Q100 78 124 112" fill="#51382a"/>
+    <circle cx="92" cy="106" r="1.7" fill="#2a211c" opacity=".55"/>
+    <circle cx="108" cy="106" r="1.7" fill="#2a211c" opacity=".55"/>
+  </g></g>
+  </g>
+  <text x="28" y="338" text-anchor="start" fill="#172028" font-family="Impact,sans-serif" font-size="24">Antonio Rüdiger</text>
+  <text x="28" y="370" fill="#5d6b78" font-family="Arial,sans-serif" font-size="13">Real Madrid</text>
+  <text x="292" y="370" text-anchor="end" fill="#5d6b78" font-family="Arial,sans-serif" font-size="13">2023–24</text>
+  <text x="28" y="396" fill="#5d6b78" font-family="Arial,sans-serif" font-size="10">ATT</text><text x="28" y="418" fill="#172028" font-family="Impact,sans-serif" font-size="20">74</text><rect x="28" y="428" width="56" height="4" fill="#e1ddd4"/><rect x="28" y="428" width="41" height="4" fill="#e8dfc9"/><text x="100" y="396" fill="#5d6b78" font-family="Arial,sans-serif" font-size="10">DEF</text><text x="100" y="418" fill="#172028" font-family="Impact,sans-serif" font-size="20">94</text><rect x="100" y="428" width="56" height="4" fill="#e1ddd4"/><rect x="100" y="428" width="53" height="4" fill="#e8dfc9"/><text x="172" y="396" fill="#5d6b78" font-family="Arial,sans-serif" font-size="10">CTL</text><text x="172" y="418" fill="#172028" font-family="Impact,sans-serif" font-size="20">87</text><rect x="172" y="428" width="56" height="4" fill="#e1ddd4"/><rect x="172" y="428" width="49" height="4" fill="#e8dfc9"/><text x="244" y="396" fill="#5d6b78" font-family="Arial,sans-serif" font-size="10">STA</text><text x="244" y="418" fill="#172028" font-family="Impact,sans-serif" font-size="20">82</text><rect x="244" y="428" width="56" height="4" fill="#e1ddd4"/><rect x="244" y="428" width="46" height="4" fill="#e8dfc9"/>
+  <text x="28" y="458" fill="#8b97a3" font-family="Arial,sans-serif" font-size="10">Touchline card · authored ratings · stylized figure</text>
+</svg>

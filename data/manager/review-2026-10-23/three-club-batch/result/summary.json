@@ -1,0 +1,16 @@
+{
+  "source": "C:\\Football-main\\data\\manager\\review-2026-10-23\\candidate-biographies.json",
+  "beforeHash": "9c3392d6ca71e6c1f7dbf3272ef0e6917ebf32770bdbe253b70bc308d700d0a9",
+  "afterHash": "73442316a7e3f186b8cce697753ee63a472c17ede7420ec693e22a1fa2591260",
+  "manifestHash": "d9679a85fa605e2416429628e66a9800e225039e7286eccfb6153b8599658808",
+  "newAccepted": 17,
+  "accepted": 41,
+  "players": 516,
+  "issuesBefore": 4145,
+  "issuesAfter": 4118,
+  "unaccepted": 3611,
+  "reviewErrors": 0,
+  "ready": false,
+  "freezeFailure": "Candidate is blocked: 4118 dataset issues; 3611 unaccepted facts; 0 review-ledger issues.",
+  "changes": 25
+}

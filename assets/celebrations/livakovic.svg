@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 230" role="img">
+  <style>@media (prefers-reduced-motion: reduce){animate,animateTransform{display:none}}</style>
+  <rect width="280" height="230" fill="#141c24"/>
+  <rect y="168" width="280" height="62" fill="#1c3a2e"/>
+  <text x="16" y="24" fill="#8ea0b0" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.2">CELEBRATION · NOT A LIKENESS</text>
+  <text x="16" y="55" fill="#f6f3ec" font-family="Impact,sans-serif" font-size="22">Livaković</text>
+  
+  <g transform="translate(132 40)">
+    <g id="motion-90026" transform="rotate(0 48 90)">
+      
+      <g id="motion-90028" transform="translate(0 -12)">
+        
+        <g transform="translate(34 78)"><g id="motion-90030" transform="rotate(-6)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#f4f1ea"/></g></g>
+        <g transform="translate(62 78)"><g id="motion-90032" transform="rotate(6)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#f4f1ea"/></g></g>
+        <path d="M28 52 h40 l6 30 H22 Z" fill="#c8a1ef"/>
+        <path d="M40 52 h16 l-3 10 H43 Z" fill="#000" opacity=".2"/>
+        <g transform="translate(30 56)"><g id="motion-90034" transform="rotate(-78)"><path d="M0 0 V28" stroke="#c8a1ef" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="5" fill="#f6f3ec"/></g></g>
+        <g transform="translate(66 56)"><g id="motion-90036" transform="rotate(-78)"><path d="M0 0 V28" stroke="#c8a1ef" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="5" fill="#f6f3ec"/></g></g>
+        <rect x="44" y="40" width="8" height="14" rx="3" fill="#ad7453"/>
+        <circle cx="48" cy="28" r="16" fill="#ad7453"/>
+        <path d="M34 24 Q48 8 62 24 Q48 18 34 24" fill="#51382a"/>
+        <circle cx="42" cy="30" r="1.5" fill="#2a211c"/><circle cx="54" cy="30" r="1.5" fill="#2a211c"/>
+      </g>
+    </g>
+  </g>
+  <text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="1" id="motion-90018">Gloves up</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-90020">Jump</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-90022">Slide</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-90024">Point</text>
+<style>@keyframes track-90019{0%{opacity:1}25%{opacity:0}50%{opacity:0}75%{opacity:0}100%{opacity:1}}@keyframes track-90021{0%{opacity:0}25%{opacity:1}50%{opacity:0}75%{opacity:0}100%{opacity:0}}@keyframes track-90023{0%{opacity:0}25%{opacity:0}50%{opacity:1}75%{opacity:0}100%{opacity:0}}@keyframes track-90025{0%{opacity:0}25%{opacity:0}50%{opacity:0}75%{opacity:1}100%{opacity:0}}@keyframes track-90027{0%{transform:rotate(0deg)}25%{transform:rotate(-6deg)}50%{transform:rotate(38deg)}75%{transform:rotate(6deg)}100%{transform:rotate(0deg)}}@keyframes track-90029{0%{transform:translate(0px,-12px)}25%{transform:translate(0px,-18px)}50%{transform:translate(0px,12px)}75%{transform:translate(0px,-4px)}100%{transform:translate(0px,-12px)}}@keyframes track-90031{0%{transform:rotate(-6deg)}25%{transform:rotate(-10deg)}50%{transform:rotate(8deg)}75%{transform:rotate(4deg)}100%{transform:rotate(-6deg)}}@keyframes track-90033{0%{transform:rotate(6deg)}25%{transform:rotate(10deg)}50%{transform:rotate(-16deg)}75%{transform:rotate(-8deg)}100%{transform:rotate(6deg)}}@keyframes track-90035{0%{transform:rotate(-78deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(-64deg)}75%{transform:rotate(14deg)}100%{transform:rotate(-78deg)}}@keyframes track-90037{0%{transform:rotate(-78deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(18deg)}75%{transform:rotate(-96deg)}100%{transform:rotate(-78deg)}}@media(prefers-reduced-motion:no-preference){#motion-90018{animation:track-90019 4s steps(1,end) infinite both}#motion-90020{animation:track-90021 4s steps(1,end) infinite both}#motion-90022{animation:track-90023 4s steps(1,end) infinite both}#motion-90024{animation:track-90025 4s steps(1,end) infinite both}#motion-90026{animation:track-90027 4s linear infinite both}#motion-90028{animation:track-90029 4s linear infinite both}#motion-90030{animation:track-90031 4s linear infinite both}#motion-90032{animation:track-90033 4s linear infinite both}#motion-90034{animation:track-90035 4s linear infinite both}#motion-90036{animation:track-90037 4s linear infinite both}}</style></svg>

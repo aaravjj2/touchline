@@ -1,0 +1,35 @@
+{
+  "checked": "2026-10-23",
+  "scope": "Manual primary-source review. Birth dates are stable biographical facts only; current profiles do not prove August registration or provider identity mappings.",
+  "birthDates": [
+    {"id":"super-real-madrid-judebellingham","value":"2003-06-29","source":"https://www.realmadrid.com/en-US/football/first-team/players/jude-bellingham"},
+    {"id":"super-real-madrid-eduardocamavinga","value":"2002-11-10","source":"https://www.realmadrid.com/en-US/football/first-team/players/eduardo-camavinga"},
+    {"id":"super-real-madrid-federicovalverde","value":"1998-07-22","source":"https://www.realmadrid.com/en-US/football/first-team/players/federico-santiago-valverde-dipetta"},
+    {"id":"super-real-madrid-aurelientchouameni","value":"2000-01-27","source":"https://www.realmadrid.com/en-US/football/first-team/players/aurelien-tchouameni"},
+    {"id":"super-real-madrid-viniciusjunior","value":"2000-07-12","source":"https://www.realmadrid.com/en-US/football/first-team/players/vinicius-paixao-de-oliveira-junior"},
+    {"id":"super-real-madrid-rodrygo","value":"2001-01-09","source":"https://www.realmadrid.com/en-US/football/first-team/players/rodrygo-goes"},
+    {"id":"super-real-madrid-ardaguler","value":"2005-02-25","source":"https://www.realmadrid.com/en-US/football/first-team/players/arda-guler"},
+    {"id":"super-real-madrid-thibautcourtois","value":"1992-05-11","source":"https://www.realmadrid.com/en-US/football/first-team/players/thibaut-courtois"},
+    {"id":"super-real-madrid-andriylunin","value":"1999-02-11","source":"https://www.realmadrid.com/en-US/football/first-team/players/andriy-lunin"},
+    {"id":"world-sandbox-eng-p204480","value":"1999-01-14","source":"https://www.englandfootball.com/england/mens-senior-team/squad/Declan-Rice"},
+    {"id":"world-sandbox-eng-p198869","value":"1997-10-08","source":"https://www.englandfootball.com/england/mens-senior-team/squad/ben-white"},
+    {"id":"world-sandbox-eng-p154561","value":"1995-09-15","source":"https://www.premierleague.com/players/7975/David-Raya-Martin/overview","access":"Official search-index text; direct endpoint returns 404. Date corroborated in indexed personal details. Not used for current registration."},
+    {"id":"super-barcelona-joangarcia","value":"2001-05-04","source":"https://www.laliga.com/en-US/player/j-garcia"},
+    {"id":"super-barcelona-gavi","value":"2004-08-05","source":"https://www.fcbarcelona.com/en/football/first-team/noticias/2284537/presente-y-futuro-gavi"},
+    {"id":"super-barcelona-250194007","value":"2008-01-22","source":"https://www.fcbarcelona.com/en/football/first-team/news/4550693/fc-barcelona-sign-jesse-bisiwu"}
+  ],
+  "transfer": {
+    "id":"super-barcelona-250194007",
+    "owner":"super-barcelona",
+    "contract":"2031-06-30",
+    "effective":"2026-08-04",
+    "source":"https://penyes.fcbarcelona.com/en/news/4553723/jesse-bisiwu-presented-as-an-fc-barcelona-player/amp",
+    "note":"Official 4 August presentation reports the player signed through 30 June 2031, following the 31 July transfer agreement with Club Brugge. Establishes ownership and published contract, not formal league registration, wages, fee, or a precise winger side."
+  },
+  "exclude": {
+    "id":"super-real-madrid-250225046",
+    "source":"https://www.realracingclub.es/noticias/despedida-de-sergio-martinez-del-real-racing-club",
+    "effective":"2026-08-31",
+    "note":"Racing's official 31 August announcement says the player leaves Racing following its transfer agreement with Madrid. Exclude the October Madrid registration from the 7 August opening candidate. Preserve the original record separately; do not infer the full Racing opening roster or publish a replacement registration."
+  }
+}

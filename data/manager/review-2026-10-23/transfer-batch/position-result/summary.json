@@ -1,0 +1,12 @@
+{
+  "beforeHash": "cb2b9b131c4cb48bc9a7cf2fabb2563f4771585c9dc7d53f081a9bcbaac26973",
+  "afterHash": "bd38edb9873eb38c9c079bf5bba47809bd127543b23e0c458c8a1263cc6801d8",
+  "newAccepted": 7,
+  "accepted": 257,
+  "issues": 3872,
+  "unaccepted": 3381,
+  "reviewErrors": 0,
+  "missingPositions": 3,
+  "ready": false,
+  "freezeFailure": "Candidate is blocked: 3872 dataset issues; 3381 unaccepted facts; 0 review-ledger issues."
+}

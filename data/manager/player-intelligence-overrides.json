@@ -1,0 +1,128 @@
+{
+  "checked": "2026-10-21",
+  "players": [
+    {
+      "name": "Erling Haaland",
+      "fields": {
+        "contract": {
+          "end": "2034",
+          "precision": "year",
+          "status": "club-confirmed",
+          "source": "https://www.mancity.com/news/mens/erling-haaland-10-year-manchester-city-contract-63872694",
+          "asOf": "2025-01-17"
+        },
+        "wage": {
+          "gbpWeekly": 500000,
+          "status": "reported-estimate",
+          "source": "https://www.theguardian.com/football/2025/jan/17/erling-haaland-signs-new-manchester-city-contract-to-2034",
+          "asOf": "2025-01-17",
+          "note": "Approximate gross basic weekly salary; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Cole Palmer",
+      "fields": {
+        "contract": {
+          "end": "2034",
+          "precision": "year",
+          "status": "club-confirmed",
+          "source": "https://www.chelseafc.com/en/news/article/alonso-on-palmers-new-contract-you-want-to-keep-the-best-for-years",
+          "asOf": "2026-10-10"
+        }
+      }
+    },
+    {
+      "name": "Bukayo Saka",
+      "fields": {
+        "contract": {
+          "end": null,
+          "precision": "undisclosed",
+          "status": "club-confirmed-undisclosed",
+          "source": "https://www.arsenal.com/news/bukayo-saka-signs-new-long-term-contract-aFcin3f65ht4",
+          "asOf": "2026-02-19",
+          "note": "Club confirms a new long-term deal without an expiry date. Public reports disagree on 2030/2031; do not seed either as a confirmed date."
+        },
+        "wage": {
+          "gbpWeekly": 300000,
+          "status": "reported-lower-bound",
+          "source": "https://www.bbc.co.uk/sport/football/articles/c4gje501g51o",
+          "asOf": "2026-02-19",
+          "note": "Reported to exceed £300,000 per week; this is a lower bound, not an exact salary."
+        }
+      }
+    },
+    {
+      "name": "William Saliba",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 270000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/player/william-saliba-36974/",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Martin Ødegaard",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 260000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/player/martin-odegaard-36146/",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Kai Havertz",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 280000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/player/kai-havertz-36322/",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Declan Rice",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 260000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/player/declan-rice-36174/",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Virgil van Dijk",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 350000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/player/virgil-van-dijk-33427/",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    },
+    {
+      "name": "Bruno Borges Fernandes",
+      "fields": {
+        "wage": {
+          "gbpWeekly": 320000,
+          "status": "reported-estimate",
+          "source": "https://www.capology.com/club/manchester-united/salaries",
+          "asOf": "2026-10-21",
+          "note": "Published 2026–27 gross basic wage estimate, checked 21 October 2026. Not an official salary disclosure; bonuses excluded."
+        }
+      }
+    }
+  ]
+}

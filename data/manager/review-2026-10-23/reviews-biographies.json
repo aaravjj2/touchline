@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "key": "super-barcelona/club/membership",
+      "claimHash": "d7e2cd7c461b19d033ba3ac21ee88486b470073fad70fc659b15aad11d01f8d1",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-real-madrid/club/membership",
+      "claimHash": "6afb926d217a8f583cada0ad78c42b94a10be7e4e271a0581efc59bf95fdc904",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "english-eng-1/club/membership",
+      "claimHash": "99b68f3f7feceee08dbbfc01cd464ceac88204666a5586e5fd4f2d8ba6df001e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-14/club/membership",
+      "claimHash": "92a116d51714eb5c1cc85746c878fb031851a6f20cf8cfccc95838ea63af938d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-15/club/membership",
+      "claimHash": "157ce0d39b6edbdb9057bae41d4cae9649c9e799d222ee73fd3a519b95eb4085",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-16/club/membership",
+      "claimHash": "b66cf7d0df6c646c2851a3903b42bf22c5b2bf449fcadec222482d8f17c8b81e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-2/club/membership",
+      "claimHash": "912e8dd4c7518d77e5db093ea6b02ffdd8940086a5c586a95d91377f4af36383",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-3/club/membership",
+      "claimHash": "2cdace45f4e914557863a42d636cf2002ab7e8eae71c62f4cd12ea8fd8eadf23",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "super-atletico/club/membership",
+      "claimHash": "937e86dbfb187bb32a15e095920ef318205ad04202c17c54959c436e6ca6210f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-bayern/club/membership",
+      "claimHash": "2c6f9954d9120a1f5ebd53b55083337dad25436ffa32198b87c411175c1ca2dd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-como/club/membership",
+      "claimHash": "ab53b4d02239585743a2c4ab72541869ef93656ff9d0b973c5d3611b71db1e05",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-dortmund/club/membership",
+      "claimHash": "e0dc51dd396d98d3206f5a01c26e3c6ed715301299e65db91cc58ee3b74c2563",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-inter/club/membership",
+      "claimHash": "08cda7c81f93f97cd0e069a6175f1494e476f3702712031c0f9ffd3f77521814",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-leipzig/club/membership",
+      "claimHash": "ed6ef64e8851f22f5321ed69ba0542a4274a889e860207f2f635dcb231695c78",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-lens/club/membership",
+      "claimHash": "753d10f56b3360f366732bfbdc6f57913b77d502d7606d7897ea7b321164c3dd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-napoli/club/membership",
+      "claimHash": "963bd4fb5516a4a9c2dcdcf1925838067ad8ed7c15d4765809feb98df8bc81cb",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-paris/club/membership",
+      "claimHash": "8ea709abf43b4fc85712c4f06ff87d11e6a265743bd8df68e88d7c0ddb0e384a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-roma/club/membership",
+      "claimHash": "4d5542c41042bcf3088e0b02d104ca5f3a9e75b02920b057576c06e75cc4de11",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-stuttgart/club/membership",
+      "claimHash": "2283725a2ffd20adaf704243ce85d2d0b53084324904e9878555a1800ff6daf7",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-villarreal/club/membership",
+      "claimHash": "69dd486c2d145cb430f045e4e79edda37ba0dcb8e27d8837e9570ab73b4405dc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-lamineyamal/birthDate",
+      "claimHash": "d3b3138db08adaa7f9b58b9b4c055ca783af1c8c4ad258568ea3ff10fb7a1943",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-pedri/birthDate",
+      "claimHash": "018b99f8492afaeefa8c49b3055bd6d76318b9986e0f1abd30ae4e03d0fd4bbc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-kylianmbappe/birthDate",
+      "claimHash": "ed9dc01bdb6394f49f6a2b5f42c2277671f7b690c3e420e24bcc45717d4f44d5",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p223340/birthDate",
+      "claimHash": "a7b6289c9d304731d7e529170da0629739f95ed3c8ee9498f034ad41f7bf01a6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    }
+  ]
+}

@@ -1,0 +1,2061 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "key": "super-barcelona/club/membership",
+      "claimHash": "9d673c5682551904dc043354abd545796fb5a1e6e5ad60db94c23674d5898784",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-real-madrid/club/membership",
+      "claimHash": "0f813ccbb1fdec5e110035b672ee3ba1b1bebaece4cdbb278f8d8b62e2c21f4b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "english-eng-1/club/membership",
+      "claimHash": "8b9f3755e57d7e2735e830531210ecdd71cc6cb34b91aa3f135e4b8cf3a362d2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-14/club/membership",
+      "claimHash": "d1562ff361d387aecdde0547b73fa6e6fdbd3afee9a9fb113170ecce03cec770",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-15/club/membership",
+      "claimHash": "95c49ae6389543c897cc8446c3086b24377cc8bce3deac19c41209fcf3ff1ace",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-16/club/membership",
+      "claimHash": "c48fa3098a17c72db47bd4626255f9c2b7e1a1b4d318cf96c30d27df3a52e449",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-2/club/membership",
+      "claimHash": "e2807f70c7b4f62d255b7c542c3d1a23b81dfced1d43c46b4c867583c0fc15c9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "english-eng-3/club/membership",
+      "claimHash": "c093573bdcf45b9897a9091b45a594f2cf5619aa8dee0220f8e198669315e140",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official completed 2025/26 summary identifies the top five and Bournemouth sixth; all six meet selection."
+    },
+    {
+      "key": "super-atletico/club/membership",
+      "claimHash": "7a94ba2dfbe6a702328f0f04fe5278b723f8e1d112172b9057820155bd2a46ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-bayern/club/membership",
+      "claimHash": "cae417511e7fcc6371e408d543d3a02b6a69cb7bc8ced0a6bdc7fdf20b25656f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-como/club/membership",
+      "claimHash": "8686f3ace86b454ac9ea0d55c76e2e72d36a92f92aa0b2e5eaee3645a89eb45e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-dortmund/club/membership",
+      "claimHash": "7a2c6b8db7e7577bf48549169017a9c631849f1b7c9eda2d8984ce928e8c1848",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-inter/club/membership",
+      "claimHash": "969d7bc253e52ae15e44f1b5740f5d2d535f8805ceb74901e753a5eac45e34f0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-leipzig/club/membership",
+      "claimHash": "0eacdb4d1e403721990ada403a05b2632222fb093505cabb1693d9debb84985f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-lens/club/membership",
+      "claimHash": "335c0faa9bc9690036af9249480fc2c6b657e2355b1feb859530cdd6bed1b149",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-napoli/club/membership",
+      "claimHash": "d5e069672b9efd45206016a5da7b90700b8e6d3f69fc00bc6421c78823b15596",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-paris/club/membership",
+      "claimHash": "809813eefda6983e52ac07bc243578a49c84558f1f71659c3c68c1d9ae14b88d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: PSG first, Lens second."
+    },
+    {
+      "key": "super-roma/club/membership",
+      "claimHash": "cd5694f4b42cf40335f21474aaad9dceda65473514724faa5d22c27db0cc02e0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official season summary explicitly identifies Inter champions, Napoli second, Roma third and Como fourth."
+    },
+    {
+      "key": "super-stuttgart/club/membership",
+      "claimHash": "1008761307a8dda92c3b10ec4ad0a3ca19863e986d45971f2d7c8a3def743953",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Club-hosted 2025/26 final table, 34 matches: Bayern, Dortmund, Leipzig and Stuttgart occupy places 1–4."
+    },
+    {
+      "key": "super-villarreal/club/membership",
+      "claimHash": "ae5f75364adf89b0b095dc26415efeccf65ad10377a9abe40acf872b3254b9fb",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Reviewed completed 38-match table: Barcelona, Real Madrid, Villarreal and Atletico occupy places 1–4."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-lamineyamal/birthDate",
+      "claimHash": "518a5ce121c168cf7df2e2d5ec92377b98d559826682141a55232f41e8aae8ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-pedri/birthDate",
+      "claimHash": "960a32e15d46df1e0849f2e9da3d118c86e354c4a546209e1816e0aa2692c1b0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-kylianmbappe/birthDate",
+      "claimHash": "7bbaf348e0478fc10086e798047562436b30ad34694c08c8af776cbaeb4c8b72",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p223340/birthDate",
+      "claimHash": "eb5b48c22f4555261e838dd30c2d4f54b07c4494a5acc8bb96b7567501ebe9f3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal profile explicitly states this birth date. No registration or financial claim inferred."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-judebellingham/birthDate",
+      "claimHash": "12e4758ff9e984aeed9457db8125522b422b747d85998ee406dc7cff542cda70",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-eduardocamavinga/birthDate",
+      "claimHash": "bd9648a6d9bbc587b2ce15d0498fb10a5234c264188428f642756a2638cfbba6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-federicovalverde/birthDate",
+      "claimHash": "7540ed5f089350a5caccd0c477f8e96741f862719e95ba5ca69439964637d045",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-aurelientchouameni/birthDate",
+      "claimHash": "030a51b5a28041152e372e64254c9852884872512a00e8bf60ce52971ec28c96",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-viniciusjunior/birthDate",
+      "claimHash": "d899af0f5afa5198eab8c3ce6c94d8227449c48b19381aa66b4ceafc92ba1e93",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-rodrygo/birthDate",
+      "claimHash": "dd290e13cca1a40f5386d65c93224faeb0821b033ed7e2f263a3133c411fddcc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-ardaguler/birthDate",
+      "claimHash": "0a471b2fb12a60090c7af3f58bf7c0466a50284687a36a4c30e5981f4ee09b40",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-thibautcourtois/birthDate",
+      "claimHash": "102d32c059b2b70aab0cf3f92335d1a3297eecbef4ba7a22fe08062aec7280f2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-andriylunin/birthDate",
+      "claimHash": "83633ec074b88df54c934fe8a6b028f9b0bb6d848d2b27f742467059b0724f70",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p204480/birthDate",
+      "claimHash": "decc3fc1cb885ba0e23e9b68bc4a92c99248fd0110578288816a22ed181cd3d9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p198869/birthDate",
+      "claimHash": "38d9b7720651c9a1b7069c35a15b4de1e4d76aa80b4619e0d8280922c7a0f0e1",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p154561/birthDate",
+      "claimHash": "c62bfd7e47d215c51aef1ba1e4f4a171386124947a13c0751172c2b0bba73f87",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joangarcia/birthDate",
+      "claimHash": "9eb585326bb2f931238bdb069c5f7c777f9741e8b36cbefba0465a3cf6dc2b73",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gavi/birthDate",
+      "claimHash": "d4e28b37cf1298c16dc1fc7197aca2b30789d99f23b569002dde7ea81f1faa0c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/birthDate",
+      "claimHash": "44810fdc99aefbcc0b5234f0fb16774e143f57ea0fadf2077463e250e19e81ac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Stable birth date only; no assertion of August club registration or external provider identity."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/ownership",
+      "claimHash": "0fe592c3679c48f507261a9717305465409d84ba3c1a44e7b99d35d147e8595b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 4 August presentation reports the player signed through 30 June 2031, following the 31 July transfer agreement with Club Brugge. Establishes ownership and published contract, not formal league registration, wages, fee, or a precise winger side."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/gameTerms.contract",
+      "claimHash": "adfcf509dd604e30b36a9f4f6e6ced7321f74817d366513e2de3c0d7bea01063",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 4 August presentation reports the player signed through 30 June 2031, following the 31 July transfer agreement with Club Brugge. Establishes ownership and published contract, not formal league registration, wages, fee, or a precise winger side."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p226597/birthDate",
+      "claimHash": "848d73c46c110def94c780e9bde2adea0b5c4d5cc398848a2ad8d0fcd43712a6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p462424/birthDate",
+      "claimHash": "ccb0279366ed8bb63038e462b9149af13b8ed9b77e75458f0198f48fd3750907",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p448104/birthDate",
+      "claimHash": "ca332bbc97e041c5d59c472e0b85d21919a29bc2c5ca723c8cd53c1c0a781c5e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 16, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p232413/birthDate",
+      "claimHash": "26471d899f7fab5cb2148604d94cf36207c43a4dec879e38837a9f65d39eeef0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p184029/birthDate",
+      "claimHash": "fa6106fe951f7fa428b885eaaf1cc76baa9b433232ac7c64aaced379f28e7345",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 32, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p248857/birthDate",
+      "claimHash": "d5ea62bfbe2e87ac123ebee9eab8da1e2003143a6d06ed94f920d955bc16e8ae",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p195384/birthDate",
+      "claimHash": "a8c4663017823d46d37d9a62a79a20c3f66a5dc13ed00c0a28179d628ae4bb7a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p444145/birthDate",
+      "claimHash": "759f799690e0e4cdbbfc6e56e5166823e7cd3da52afd51572900c6c184dae1ba",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p481655/birthDate",
+      "claimHash": "3ea66ec26429171f79f504203aa5a42f9004162b9ddfecd7318b2d4a8d12648b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p224117/birthDate",
+      "claimHash": "addde795952a1b8ca7ede0bf93f27138ba43aa8ae845e9acd3113da2d09e5601",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 42, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p219847/birthDate",
+      "claimHash": "05d8548cb5837e432b7b55169120b0e096fd59755c7686173fe1f0be085a79d8",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p199798/birthDate",
+      "claimHash": "40bf3a4d438cf9686295e11538137b4e27923ef84bf4f2481a55bcb3da0be897",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p448047/birthDate",
+      "claimHash": "dc9b7aba32615001be9624dc34e1dadea2a17ece7b060afefb519d917cbbfddf",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 24: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p440993/birthDate",
+      "claimHash": "71377cc529b80e56fb56dbb49bcc405617c5e1549fe045cff262fc11d9a234b1",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 13: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p472769/birthDate",
+      "claimHash": "99796f74a3d8719fbca572c2587e5d93c67edfd7f887eef4213846781ffc750d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p209036/birthDate",
+      "claimHash": "2c9ee196b851617082157d2990c5eb6a4948d3fd4341460da7aa526046b6ba65",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p465351/birthDate",
+      "claimHash": "3e1a6aae55e1553275f6bed0e26db344127ef4a94850aab8276fbf921c90603a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p171314/birthDate",
+      "claimHash": "58fdb0b651582273fa590e5aef9d842dbe30ba53c24544460d988828580278ee",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p477424/birthDate",
+      "claimHash": "8aac7f76198ec6294ee72381de5ea330a8454b1d968b98196d785d446bc497f3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 13, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p448514/birthDate",
+      "claimHash": "02d84e783e9379c792480f7cee9b91622b8d34b8e0e1a1faabdef39d8bf07161",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 1, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p578153/birthDate",
+      "claimHash": "08ff9c8cd19ccbe943151f42889a1d461bbd8245bccf1e5cbf0c8649f4e9f35f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 48, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p437730/birthDate",
+      "claimHash": "8d99f6eaa2586e2cd49bb02680309486482ed85877077ee79b9736de49a4f7ec",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 21, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p466052/birthDate",
+      "claimHash": "e727d4dc47419635eaeff29592340933d6c8b36c2fb753671973b7e92e3b39ea",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 24: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p248875/birthDate",
+      "claimHash": "da8f34f227e56a12b721f28feec9535e78b764845153a828a91b8cb32393ccdc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 5, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p433036/birthDate",
+      "claimHash": "bc29e1b964b9adca66199b64eacd448c69cfe12459bd83c06aafddf8aace236d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 14: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p91651/birthDate",
+      "claimHash": "3d953104dbbd1b89e4e11214ec8e93d9b04870b6136a379347a692346d68b2aa",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 13, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p223094/birthDate",
+      "claimHash": "8ed56c1a5456caa09792fc9d672e84fabc2c210ef434916828f76f3c942760a7",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 32, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p215379/birthDate",
+      "claimHash": "8ffea30db45722163f400dab5649adcfc99b0ab0d5b8986805acb6833fc0f66e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p106921/birthDate",
+      "claimHash": "6671c6ccb066343958bc48d2881bb0433b60abeddfde26a191ef0abd2682a15e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/world-sandbox-eng-p637238/birthDate",
+      "claimHash": "2b69e6036ed4c5c8c21ae15fc8438cdb7f5e4e95f3718da5a6595d6f2c67eaf9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p166989/birthDate",
+      "claimHash": "92ec253f7210044e0389c0ed6ce57abd26e0cac9256702a279e5e757f7ab60a2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 5, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p465247/birthDate",
+      "claimHash": "c6436fb4282d42ff9901cee738aba524e5c78ecc0e1e16f86be98426d72d0419",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 5, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p216051/birthDate",
+      "claimHash": "4ea5f2f1f36e4f3a51309faf559916a4c1696ed74fd49863fab8aff17e0780fb",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p221820/birthDate",
+      "claimHash": "f350cb00dd82f2452a68fd815da25e0701039b196d3cb2cd48b35027273a71cf",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p230001/birthDate",
+      "claimHash": "9b850c723cbf458ce0ebc147df4c306d4e7094ddadc58c0baa79275fb6ed4a5c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p141746/birthDate",
+      "claimHash": "91e396567e3cce3d48a9bc5f04b36b8c3176e8e8693fab22612862878463ce8c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p430871/birthDate",
+      "claimHash": "8548c68d853150562e8c22a1e9b777dbdff52f6892dadb29ecba68358d76dc2e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p176297/birthDate",
+      "claimHash": "0472b50276f67a481c6c2b9efc83e6c8303fab5228f1f285615e063764a0e74a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p493250/birthDate",
+      "claimHash": "377d085bb94ea45b0ebb38d014548b1896d1d4b9e2c40b73a25f99830ca34e18",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 12, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p516895/birthDate",
+      "claimHash": "113a51feafe2a61b478247d8983b089f63989aac4b04a96c38e815339a6f330e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p232112/birthDate",
+      "claimHash": "5374e3ef77020654c30e9b5b9bf73daabaae27e8b9d262a05cb4b5227506111f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 46, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-16/world-sandbox-eng-p519913/birthDate",
+      "claimHash": "4d78159421fcf64db115a426f555c64664566da7e91f0452827e577b493095a4",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 38, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p184667/birthDate",
+      "claimHash": "051e2864d4be7adbb37c532116e40bcbaf54d7954ea8a80caf8a505543417c62",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 42, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p122806/birthDate",
+      "claimHash": "535be258a85445662590daa20a49346c84cc26407bb29009f875949ca512bbac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 38, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p449871/birthDate",
+      "claimHash": "7b8b26f8859cc1d14ffd72478f66ba8b68903334e6df8f548b16a892a79c0f3e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 5, shirt 24: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p614071/birthDate",
+      "claimHash": "c231e7fd9bc278aa40ed7639b06b33f8c34607a5b3c8fdaf167e33046669f282",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 43, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p178301/birthDate",
+      "claimHash": "3c85f2101d1fa618bf683499e8f8ec4de0db18d86230fafe17190c64cc852ed2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 19: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p517052/birthDate",
+      "claimHash": "07ce8a8094c219f6eb26dacb5f38fcf5f243779d5371f033c6a4e3be909dfb1c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p433969/birthDate",
+      "claimHash": "814b4b88c698cdd255847c9dbd004528a26157320e0918cd2fd3c0e4a73b3ce5",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 25, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p214590/birthDate",
+      "claimHash": "16da51b6cb13c7ed4ecdd900c16619eca41c0c29248be0805b5178570f0585c0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 11, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p119090/birthDate",
+      "claimHash": "d2b8ed01b7d2495cff15a5cf23d86c0c6bbe29868cb3297013bfb69ef371d3a6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-2/world-sandbox-eng-p638987/birthDate",
+      "claimHash": "06ca6fdefc322e97f3cfcc494eba23f9a8e141757e2f6f5524b4517ef8f7f445",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p116535/birthDate",
+      "claimHash": "12f00bfe51910de7271aaf8cc464cb2394fb1274dea9954ab3ba5f723740da83",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p97032/birthDate",
+      "claimHash": "0b907cf6c0521b090f3d7a3b7052f4f29136b4dd9283f5032df865fecc2faefe",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p494595/birthDate",
+      "claimHash": "f9fd5162e76ef7b0a3e3e24581fef5ee6d560d734f46c96e1e2081f6777ace52",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p243298/birthDate",
+      "claimHash": "82dd009135d51b13d1d614dc5ce1e50ff32a7c9ea1fced3037a1c6d6578d9c9c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p441266/birthDate",
+      "claimHash": "c354828dc7e02294fd0ef91b8ec9e582d6e2c24c0332d71db0580b1f96df4b67",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p243016/birthDate",
+      "claimHash": "fe4db58bca02a9e338b20ef92474f8222e66a8e70299362ba6382ff36315449e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p551499/birthDate",
+      "claimHash": "54b891491d200e5de4d5d869869e001407f17cf007b1da4c826d359ae481a3bd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p219168/birthDate",
+      "claimHash": "8bac448360c9c40ce3a29190c1a088f793b28a23e0390331be13ed68291eafd9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 42, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p445087/birthDate",
+      "claimHash": "8d4f113f9e191a36c43fd40317374faf3064e33a5ab8836e0a8f378eec0571be",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 46, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-14/world-sandbox-eng-p482616/birthDate",
+      "claimHash": "b37dd83c2b773f1bc7600c60638904dc11e7606663d34fe97804948e2823cd72",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-3/world-sandbox-eng-p499604/birthDate",
+      "claimHash": "2c66bbed67c13b228fe3b94aafac0ae7e7c05ab327231520178b087a9fc0928c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 26: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-3/world-sandbox-eng-p222683/birthDate",
+      "claimHash": "baa1c21f7470f43d7e6ebd4148e2ac4bf5874ada3dde669a7c0d5c8c39d6a7e4",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-3/world-sandbox-eng-p496208/birthDate",
+      "claimHash": "6178a679e13f7a965bcd3996486dab86106c7bb0fd55e7a0e8ed492aa44724b8",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 38, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-3/world-sandbox-eng-p200785/birthDate",
+      "claimHash": "281272ef2e229f7b25072ce4551ef11373258225b12956025b30c36bdffaaa6e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 47, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-3/world-sandbox-eng-p158499/birthDate",
+      "claimHash": "06e3f244b31cbfbb817366918b174bbcd2121a3241825ed0631a826a99001795",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 38, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-joaocancelo/birthDate",
+      "claimHash": "37885cc1af3b8b24097b2baeafaa85cc72f391def03fb00e88657d111a2e92ab",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-paucubarsi/birthDate",
+      "claimHash": "e7e601a6076ab38ffd17ed453333bd6fd052ed6952ab1dd0a0b4ce02170ab2c3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-juleskounde/birthDate",
+      "claimHash": "ee5d15c6a565791c66f8180d8312faf020a389552d9cc556f5109c3471f1c47c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-ericgarcia/birthDate",
+      "claimHash": "aa0f9533b5be9cfdbb90027e1181730f6afd2f3b94ee1ab305c0f66013c7e316",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "english-eng-15/super-barcelona-250082664/birthDate",
+      "claimHash": "a4bda3ee29bdb4d49ee623da5e66d45300b122c72c6cf6da8cdc5cce8e45c3b8",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-frenkiedejong/birthDate",
+      "claimHash": "42f090c7e941f192a490b8c0aca7f1947e8367ac6ca0aba52caaa83673146083",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-raphinha/birthDate",
+      "claimHash": "da31f4d23e0ee5ca9bd3240703dac7765ed0f53692966df708c8eae79938f51f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-anthonygordon/birthDate",
+      "claimHash": "cd5cc1aa34ce88a9563fcd7e43605cc456eb09588852c2144c7f3e5cffa8979b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-daniolmo/birthDate",
+      "claimHash": "63c7301348d96a768053441c735cf535554ab5cfd8a8318003f7f259e3523cee",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-hamzaabdelkarim/birthDate",
+      "claimHash": "5eb4a4fb4b96eeef4f5ace11f21412e46b1c9bce29ae02c1b6939b53f894f2d3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 17, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-ibrahimakonate/birthDate",
+      "claimHash": "be778543a90eea32db1bdc227fd11781c2e45747ccf2415c3bae0797199afe35",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-marccucurella/birthDate",
+      "claimHash": "ce63a5d86d7a22c4f26932abf67d986d940eb83708e343223c45981956f70c51",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 24: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-antoniorudiger/birthDate",
+      "claimHash": "713c6807ed88bd1376a820371ce96b91819406b04c0d2335a3b7127ddbda228b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-denzeldumfries/birthDate",
+      "claimHash": "a434f001ec6d727167533fca7042af26012500190801b37d24d45eab40bae627",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-bernardosilva/birthDate",
+      "claimHash": "4ffe9bbe8c662d74f92199ae73cd934ea2ba3df44c2fc6eb8960c4644069d530",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-yandiomande/birthDate",
+      "claimHash": "6901ed326a0e8d483119747988fcb6536dd90b66ee1965d11ae65a60fd41d4fa",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 12, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-endrick/birthDate",
+      "claimHash": "5e009667486746c7895171280c0ea379686ca5870cf7e0a447bd679c02a5b309",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 19: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-brahimdiaz/birthDate",
+      "claimHash": "2e0b4cbed527fc05fa48adc2f1e082b53cd7a3429e992a993ecb96d869b5c302",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-logancosta/birthDate",
+      "claimHash": "ee914d4870f3c0aad8e5657116357cff2a8d7ea9b9db3885e9981382de3df856",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 8, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-alexfreeman/birthDate",
+      "claimHash": "1b3161dbaec3a0de9d2f5211f40723d0be8f8bbc7367464856e90f93996d3437",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 47, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-renatoveiga/birthDate",
+      "claimHash": "ef2e374a37c822fe61c71c257e0218777aafb489773ef863301fd23819a17f18",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 13: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-papegueye/birthDate",
+      "claimHash": "620227615e2df465a3f9e870f33cb5c1584ab4d578686ec5a47ab8d1b71d2248",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 26: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-tanioluwaseyi/birthDate",
+      "claimHash": "b6393a300acbc4a8238addb87195fccfb402ea7be9948911487f2abe8801428e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 9, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-nathansaliba/birthDate",
+      "claimHash": "75876b950438c6fe67f068128f0c4a5acf779967114d7564264735a8c917b6e9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 9, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-tajonbuchanan/birthDate",
+      "claimHash": "c4f9c3b8c63aaf5c142769b5cf741bb4eecb09f51b36d0d18c8e863cabfd028e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 9, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-nicolaspepe/birthDate",
+      "claimHash": "3da867415c54685a8cdd9ac734b23911fbb8bea41931d7168f03e7c82ddde9aa",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 12, shirt 19: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-juanmusso/birthDate",
+      "claimHash": "8675a2666f92a0abce949406612cf230df54233ae64156e29bd8f115bf9c73cc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-marcpubill/birthDate",
+      "claimHash": "fd1b4fcdd8d1c07d4318ac9645c587d477f5decd7aa94e25bbc9cbd3764a77dd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-cristianromero/birthDate",
+      "claimHash": "1f48eb097b9c9d845050740d35ed0906094fd20ecb14e15ddedcdf4550eb50e8",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 13: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-alejandrogrimaldo/birthDate",
+      "claimHash": "93493201594572079687100454b2fe4df38e199c778913f442905b37cb8b5178",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-obedvargas/birthDate",
+      "claimHash": "89b4656f71bd3278e1b738945ddd737a33724a747cf1014daacf1cbb9e4d93c6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 28, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-kanginlee/birthDate",
+      "claimHash": "e4b4a727b9438f7f55640e9eebb0051da1a270d727e7483dab56a2628725e0e0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 27, shirt 19: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-alexbaena/birthDate",
+      "claimHash": "2c68eb57f98d856ec65ab841f256477407a7c03aff4e8b65dc49ef57727ce2af",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-marcosllorente/birthDate",
+      "claimHash": "3a839c20a1f8f74740a4ad819e29df2dba62d179a8c80694ab6be7f2f50f1f5e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-alexandersorloth/birthDate",
+      "claimHash": "9d7411e9ca1569484e0ede317570f5d94e46acddb8c5ba20e8997f795c5b3d66",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 32, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-jonathandavid/birthDate",
+      "claimHash": "6eb09151eadc750a3d0004192813c21f109fab5c588cb993fa604e61258dfd34",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 9, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-julianalvarez/birthDate",
+      "claimHash": "9a369c1d83102467fb5a590c213aa2e7bed6072b5f98f955c85aa8f96c57cb45",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-atletico/super-atletico-giulianosimeone/birthDate",
+      "claimHash": "783b8b811928fb97f5b655149635e29ca2679b57f17e5d15251cd6a8452f9994",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-manuelneuer/birthDate",
+      "claimHash": "e49245a24da82bd98f8b750cc8bb9b62f4e265ef07e552d9fbc78e792b6bde8c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-dayotupamecano/birthDate",
+      "claimHash": "2b0c13638ab08affc59c5bddde39179632987b1f293078290178cf1353d35f0a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-minjaekim/birthDate",
+      "claimHash": "cfdbdeec7a4781a7790fecfc6c1fc36b80a9d636647f9e98b046f9b05c11b372",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 27, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-jonathantah/birthDate",
+      "claimHash": "a0c4c14a2dc022c386e0cc83440e49d110796730c02c0d786c6bcf1e333a157c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-nathanielbrown/birthDate",
+      "claimHash": "00e84485d468d281a8b7f2b95e7a7ce4ec88d31f967dfcf031d194255f1dcd85",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-hirokiito/birthDate",
+      "claimHash": "251df5fc56329a863287f4dbb8657d1db41853919612882d9615e0a8e67de2d4",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 25, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-josipstanisic/birthDate",
+      "claimHash": "4e613e5c4b6fd7cdfdc5fd4fd605dafcacd9382c65613d60d3d8df8f22267bd4",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 13, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-joshuakimmich/birthDate",
+      "claimHash": "e3d806dc031a7dc33710f2e6b324f9df78e9f0ff8ca034cdd8fbe23a52a8684c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-jamalmusiala/birthDate",
+      "claimHash": "ae19eb274b05a6e1d3011d13219db16984e4d7c8d58730b2a7b6982994d8b4e9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-michaelolise/birthDate",
+      "claimHash": "7c73f3d3dccae55928b83dce09fe74b1b417e2b61f3926bd1caa3c7d81562a40",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-alphonsodavies/birthDate",
+      "claimHash": "8ac36efec0acb978a03310015678d85475521e41d13faba4ca9bbbecf90167ed",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 9, shirt 19: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-konradlaimer/birthDate",
+      "claimHash": "e8bd51e7c7bd3ad79392aa31a976137aa9cc8e9980db135c24638d376033fa1e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 4, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-ismaelsaibari/birthDate",
+      "claimHash": "b9976d47d886cbc44a5d31584bfe42e999cc93b93ec83053bf2919de714ccadf",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 11: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-barasapokondiaye/birthDate",
+      "claimHash": "803ee1e43f83907d6c107f6e1bc85ce496feb11150c5c3d53ba59d051b4bcbea",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-aleksandarpavlovic/birthDate",
+      "claimHash": "520d8b30af999ead2c4f45bbb6e1a4596a115a17fbd4fe4f5c874063772b892a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-harrykane/birthDate",
+      "claimHash": "e1252f2ee039a761fe9958b00b07d3baa3accd314ae6c5045c3138560ce7dec2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-bayern/super-bayern-luisdiaz/birthDate",
+      "claimHash": "13180d1e983624decd7a52563e69b0482b4555feae3f963801930034be0ca259",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 10, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-gregorkobel/birthDate",
+      "claimHash": "6f79692eb9848a10925be1e7a7678b3d694bd97d33440e2bcca83075e9fa3b05",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 43, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-waldemaranton/birthDate",
+      "claimHash": "44e54f5c773d682670cdd3315b491484557966262a36615798fa7920ac6a756b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-nicoschlotterbeck/birthDate",
+      "claimHash": "28b6ac744510c2f1f13fb6dec948cb9b29646652ab7c7cabd119bc0e3d8e9cda",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-ramybensebaini/birthDate",
+      "claimHash": "bc216f98e241358395ea89ec709babbcd56993760c1ec66a954b49da3bbe6621",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 1, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-danielsvensson/birthDate",
+      "claimHash": "34d646e2ec6b4e7b7fcf821737db7ba9a3c40c6d4b69e0149657fde76c50b846",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 42, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-julianryerson/birthDate",
+      "claimHash": "08d2727e127fc1a3b63bea6c15ab6a7b5eb2d50bbd9ea11f9b9ddd89f587d0e0",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 32, shirt 26: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-felixnmecha/birthDate",
+      "claimHash": "90bdafdc9bb0df832e8df96dd27c1ac42a59dc1be0b45cbe2f22dce782f6fc1b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 23: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-carneychukwuemeka/birthDate",
+      "claimHash": "6aba8b46870950261836f42722768679520629393131dbf689384c47be1e0e03",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 4, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-marcelsabitzer/birthDate",
+      "claimHash": "27df5a3ef76e6cb1eb32b27730917d58fd9124fcc53fb6f44ee74bcb08ca1313",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 4, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-dortmund/super-dortmund-maximilianbeier/birthDate",
+      "claimHash": "7bd0f62c4fb8cef5c429f14fed0c5145ccd14f537eaace01300881e024d60bb6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 14: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-leipzig/super-leipzig-orjannyland/birthDate",
+      "claimHash": "cadfbc390874055dee24f0f290afebc81a719e024c63bbaa5688348d30f5e2cd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 32, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-leipzig/super-leipzig-davidraum/birthDate",
+      "claimHash": "37556e61ec7deb87375e7622a7b81486994137b5fea070f5cd9085b019db140e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-leipzig/super-leipzig-nicolasseiwald/birthDate",
+      "claimHash": "a3dbb81bc7ef53c26c617477fbdaf6befdb5e2e64334aecf5669e317ae37d2e2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 4, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-leipzig/super-leipzig-neilelaynaoui/birthDate",
+      "claimHash": "326365bd68df2d4a624f8199e81d0c2fef730aa54dea4940ad889e6be1b5345b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 24: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-lucajaquez/birthDate",
+      "claimHash": "d80329fd04d7826d73fe308a49ffbceb1b3fe9bd2b60be45962f37ba2bd3fb8c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 43, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-angelostiller/birthDate",
+      "claimHash": "7ad68fda86ba660668119bd8d11f9023f9e433087e6deb4e2af514ddde94a201",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-ermedindemirovic/birthDate",
+      "claimHash": "c910f771a4e490ff9a7a672072b7055ffea1fff2f5645824363ecdebf31ee2fe",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 6, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-bilalelkhannouss/birthDate",
+      "claimHash": "2db4a5b9eceae39b9eac9af0097502ae20c1e43e398f5d15d5049627f5f9a165",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 23: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-jamieleweling/birthDate",
+      "claimHash": "fda69f066cd547547de80a0dfec8c0b501efcb5f2d39a1bbd7a80c0425878871",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-stuttgart/super-stuttgart-denizundav/birthDate",
+      "claimHash": "c29689e356fed047d084e354500d0d6f37950a246bd5efe293a08eab4ef46673",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 20, shirt 26: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-johnstones/birthDate",
+      "claimHash": "cb6222e352994e33c350774df760371022ff30f0c270a10a73471e23920f4045",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-manuelakanji/birthDate",
+      "claimHash": "1527df10a95f5f147f2e3b88d80e359220f999e6023902116852d943780eb419",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 43, shirt 5: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-djedspence/birthDate",
+      "claimHash": "b9ed33688f0c5cea14d7866fbe6917f871742c26a301270582e7a65f6e4f802a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-petarsucic/birthDate",
+      "claimHash": "f35acc4b8f61fd99ce987cc057261446296c962cb56a7fa2bf86987eecd7b93d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 13, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-hakancalhanoglu/birthDate",
+      "claimHash": "913d08ff2ffea4d92e64f7045c9a2faf93051e9678e158b001512b3b809e89cf",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 45, shirt 10: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-marcusthuram/birthDate",
+      "claimHash": "0e2427eedd5876f31699f01a2184d6941333cf50ac3527823c7c826224ee3c0d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-lautaromartinez/birthDate",
+      "claimHash": "f49dac78c3850bcf8b125e82549ffee2f5c5952a96198fb0d5fbe15524be5375",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 22: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-inter/super-inter-angeyoanbonny/birthDate",
+      "claimHash": "354ac0ee574c59164165a20ec94d72164d1504735528bcf412f72814addd6a32",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 12, shirt 9: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-napoli/super-napoli-mathiasolivera/birthDate",
+      "claimHash": "44a5f2f77ee99d4ee340e13821d62d5f9bb10b25ac3ca48ea8dcfbe8079cf44a",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 46, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-napoli/super-napoli-scottmctominay/birthDate",
+      "claimHash": "de1cbe1b987743bd3b62e05914bd1795fdf98cb09ae36c26e6aad74a46d90f23",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 38, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-napoli/super-napoli-kevindebruyne/birthDate",
+      "claimHash": "73c6abc2878643189ddad9b75ee00a0915681c68d12a6afa8ce3253efbb1eb9c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 5, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-napoli/super-napoli-noalang/birthDate",
+      "claimHash": "5f017750e4b045cd3672bd8de54138175b2b5e0caadc570dc1cc8a5d00e6e42f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 17: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-roma/super-roma-evanndicka/birthDate",
+      "claimHash": "060203a209bf92fb6c3e38426dc41d362912034a8728016c2fc6773f1431f64f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 12, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-roma/super-roma-nahuelmolina/birthDate",
+      "claimHash": "05dfdc86e8e57321912ff2c6ab8bdee0d8dcc3ed4494d36e8deeb3c5eaf0ae4c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 2, shirt 26: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-roma/super-roma-martenderoon/birthDate",
+      "claimHash": "b47f37693678de5296eb3d59c1a13bbbcd6919232f60b56b90ef46f63be9470e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-roma/super-roma-manukone/birthDate",
+      "claimHash": "a5968652b101fdeb7ad7218b2bdaaed12c47f1f15149519ed45ac8e9858d6eca",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-roma/super-roma-donyellmalen/birthDate",
+      "claimHash": "90c85f5f169e19a568d55fc5eef316fa96e52f636e103198f3d15f6064ca4b6d",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 30, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-como/super-como-trevohchalobah/birthDate",
+      "claimHash": "e337a0c1fd3e637b20a5689948aa1c137a5fc56d1996a929adb7037baaa9d5b6",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 18, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-como/super-como-martinbaturina/birthDate",
+      "claimHash": "943731734fe8cb6582b3da870cd0f9d257bc793637d7193b11ec1e8d4b76c489",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 13, shirt 16: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-como/super-como-assanediao/birthDate",
+      "claimHash": "db50fda5425a5a06dacafec05280c02d60d3084c7f0a98dbf88ffeca79bd4770",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 39, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-achrafhakimi/birthDate",
+      "claimHash": "4763522d4df5cd33832f7603f80ea641aee572417381c3a6ad98199835d07b40",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 29, shirt 2: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-marquinhos/birthDate",
+      "claimHash": "89a15303309ae9b9ba0e6d26f4856a8b80cf0695f9766a6f27a0912723bf0957",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 7, shirt 4: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-lucasdigne/birthDate",
+      "claimHash": "06f4d9b0c6f6252c619ab706da55dfcbe5bb454366dce338c213f31cc91a38b3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 3: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-lucashernandez/birthDate",
+      "claimHash": "97b5a915dcce2402d5620f4a7ecc9f7f1f6a66f9335361e1b6cee1b19984d776",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 21: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-nunomendes/birthDate",
+      "claimHash": "23b015ebef47bd10b44a3db9354835c98d6de00471b618cc439b506d68b6f2e5",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-willianpacho/birthDate",
+      "claimHash": "92bd70db6139ec5b55616482992269f182fdc1fb5905c01bbbfa7d02b1e949d9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 16, shirt 6: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-fabianruiz/birthDate",
+      "claimHash": "9387f47aa429380534d93f36e3dd8f00f9fe47e57be6dd47d44193b5a8d68050",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-maghnesakliouche/birthDate",
+      "claimHash": "da13bda4b7f2548d4086c0f5f5e5a0ecfcaa6579f2f79c23354726c06de66fab",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 25: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-vitinha/birthDate",
+      "claimHash": "c2855a0de5cb94c866009cd6487efd2edbdbdae39f97da857a9d0484e77e9b32",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 23: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-warrenzaireemery/birthDate",
+      "claimHash": "7e8f952a9f7e4b4bf3ee53fd01fc878131cf3142c0f18235c920b8aa77a55d24",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 18: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-joaoneves/birthDate",
+      "claimHash": "0ddce822fcf5c1643ec8433920d4b2202583171a33846d1bbb11ed3fc8211e69",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 35, shirt 15: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-ferrantorres/birthDate",
+      "claimHash": "591dce01477b7699a1f6f79327f7f145e94ae1d0a411af18302d9835b4804269",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 41, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-ousmanedembele/birthDate",
+      "claimHash": "f54a276d0561489d5c7b8aaef7f50a7838ba014cc0ac8d4c30d067e307f3810f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 7: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-paris/super-paris-desiredoue/birthDate",
+      "claimHash": "9375548ce55cf1ca3fb9c5f052d05d3694c48301aa7e62455876840f7005aa1f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 20: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-lens/super-lens-250181167/birthDate",
+      "claimHash": "dc3d0cb13a958382d885d6dad83998712bf09d26d499512b8222747971e8065e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 37, shirt 12: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-lens/super-lens-250181514/birthDate",
+      "claimHash": "36c0bbdb6006eddb41fd9bbaec7c92a5c250d76cbdbb755c45172bc912dd9128",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "FIFA squad-list page 19, shirt 23: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-raulasencio/birthDate",
+      "claimHash": "6604f6777fe1fcf69d4474336103c340cea2d7735c4deba8af89d5c040ff1021",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-edermilitao/birthDate",
+      "claimHash": "d34a0bc2281d2f1c751525aef46445bd4ea1ada952922c07a8717f97f6af69af",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-deanhuijsen/birthDate",
+      "claimHash": "589fe55d991697e869a0b02c1cba1b6248b3c935abd43b99b4950cf8b4cd02d4",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-trentalexanderarnold/birthDate",
+      "claimHash": "3d61bf2770fa3511b1bfaab618dc9104765c69ed2aab646f9bc84d2512b7a3e9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-alvarocarreras/birthDate",
+      "claimHash": "5350d6be1eadaae5ce4ee67a8aa1f1e92fa038afc05b6f58cc026089a2f5bf74",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-carlosespi/birthDate",
+      "claimHash": "21dead2a088b4f15527f5c45f50d9beedd25c994ff4e8abd490dc23bc0892393",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-wojciechszczesny/birthDate",
+      "claimHash": "3b3cf93409385166ff89450c045698aebcb4e8ab6ff18f07af45c235edcdc164",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-alejandrobalde/birthDate",
+      "claimHash": "cbad89b09afa16fa1161caf48b397e24381858ac823c0d199ff6d273f61787d2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-xaviespart/birthDate",
+      "claimHash": "76e8deac26190ab1b1568589b312b733fab74d1683219b8a2828115e6cf3c4cc",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-andreaschristensen/birthDate",
+      "claimHash": "5abfec25f7130c1d640afc35e2aae64dc55408bc6e4d24ef4e1451280c1936e3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-gerardmartin/birthDate",
+      "claimHash": "80ca1605ed28c83a8b6b9db97f316750f22dc6a253c2fbb906b62c02037a7a39",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-ferminlopez/birthDate",
+      "claimHash": "3ce0a4d1d8437291ac05febf3978b9862c8a0b47b54c46415c40de5b427604da",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-marcbernal/birthDate",
+      "claimHash": "61298d137fe5b643c8a6cb31dde31857b4c30441d9ebc7b59d2e370e35d5c0aa",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "english-eng-1/super-barcelona-gabrieljesus/birthDate",
+      "claimHash": "27c7bc613e36c907dbe98d0ce1a003490a88cb0112b63b2b21f93962b6c7aeac",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-karimadeyemi/birthDate",
+      "claimHash": "558e2046abd4c7adb69fd43284ffee1dc8c8be9535a327ca207d191f036b6d73",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official profile personal-details birth date; no assertion of August registration or foreign provider mapping."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-ibrahimakonate/ownership",
+      "claimHash": "bfd691bd6c411123f226f9cba035d9ff5536088c1bfa9da270b67d3c20fa76bd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-ibrahimakonate/gameTerms.contract",
+      "claimHash": "4e1c1273538f8c4ca6883c0e68d02366728401536e58267712f0e3df7696b93c",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-marccucurella/ownership",
+      "claimHash": "fc3b214b7a8013d9a0aa757f60b94dec41d9e81f9dd5870e889e60f591f84f40",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-marccucurella/gameTerms.contract",
+      "claimHash": "824eae28423e228ddd5382844ff7c5b219bd6fbf07bc53b1bff9b94c1f21e951",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-denzeldumfries/ownership",
+      "claimHash": "b468e5a28251f2f5e3992fcd5895fd7142d4433b5ceb0c8b0d4b38db6d55d7d3",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-denzeldumfries/gameTerms.contract",
+      "claimHash": "092bdba2dd7e00ce44e84d6292046032a83169589b71762f35435d0ea7fc9ad9",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-bernardosilva/ownership",
+      "claimHash": "1d56b9189cdb9e79d0a14354d6f707a0c391fc0d6aa5fd819f0c24836fc24842",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-bernardosilva/gameTerms.contract",
+      "claimHash": "4862786250891b8aabde66ceb612769893f5f4e281263addd3260d1e3039e9ce",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-yandiomande/ownership",
+      "claimHash": "0a8044a8c9b0f2f07b66d75b5044789b4c15375aa59f765edc25d1ce18a59fbe",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-yandiomande/gameTerms.contract",
+      "claimHash": "9f3e5898506ecdf84d7cc05c9511679e7286ba1b54977e690f49259e26918f9b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-carlosespi/ownership",
+      "claimHash": "6079efd1bfb1c0eb9f9990a298c1470732a65092c865279d48c27157c1b52088",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-real-madrid/super-real-madrid-carlosespi/gameTerms.contract",
+      "claimHash": "c7c068e37fe9df448cb1de57def896ad97247aa8bfcffafd62c53c20f193c877",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Published exact contract expiry, as announced before cutoff."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-anthonygordon/ownership",
+      "claimHash": "f905b1a46a171e1e9ac7841749666635ff26b3566efc7ba1e993bf6f44287443",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-karimadeyemi/ownership",
+      "claimHash": "71181bb07919a7ff050e90ca0a7217f94d9eb3adb40ddb14c9557628fabe8d74",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "english-eng-1/world-sandbox-eng-p439509/ownership",
+      "claimHash": "8f8cfb48807f8bc62bb3a1a530e0a4982237bd16d2a91db20854a9a1153a7e27",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official pre-cutoff signing agreement establishes club ownership/contract affiliation; formal league registration, fee and wage remain separate unverified facts."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-karimadeyemi/positions",
+      "claimHash": "15796f186b91871854cd84bd0637ba93c8ff4d163e90d4646c8b3a5f5426011e",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source row review",
+      "checked": "2026-10-23",
+      "note": "Official signing biography explicitly describes both wings and centre-forward; the presentation confirms experience in all three forward roles. This is player-specific eligibility, not a rule for all wingers."
+    },
+    {
+      "key": "super-barcelona/super-barcelona-250194007/positions",
+      "claimHash": "dffa56033d548252c3daa8e11fd0b3d0d4e963f028e4d1b9ec822d6eb9595af2",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "UEFA technical observers explicitly select Bisiwu at left winger. No striker or right-wing eligibility inferred."
+    },
+    {
+      "key": "super-lens/super-lens-250091018/positions",
+      "claimHash": "2ad0d39f9d363bcce03da79db05ad586fffe4c0ca3f1805fe4f37f54ecbe2efd",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official signing biography describes relayeur (central midfield), right wing and playmaker roles before arrival. Double-pivot participation alone is not used to add DM."
+    },
+    {
+      "key": "super-lens/super-lens-250091018/birthDate",
+      "claimHash": "123567505b7777dec2a7ee61e6bb631ee2e505a568ee6e6f1830256532153f35",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official personal details give 16 August 1999. Stable birth date only; UEFA identity mapping remains a separate claim."
+    },
+    {
+      "key": "super-lens/super-lens-250091018/ownership",
+      "claimHash": "60c766d80ad58fc3a7660b7f6d48814b2e36d9cf3d3f9f0e1589b333b930820b",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 26 June signing from Hertha; published expiry is year 2030 only. No exact day, wage or registration completion inferred."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-250224969/birthDate",
+      "claimHash": "3eebeb3fb00ff9d500dbd85329e45e32fc423b7a7ee046b3101dda596e335928",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Official 12 May renewal biography names Nizar El Jmili Ben Hamou and gives 30 November 2004. No provider ID claim inferred."
+    },
+    {
+      "key": "super-villarreal/super-villarreal-250224969/ownership",
+      "claimHash": "e65c59839f06b9df8bb014f0665fb833a08e83dc4d4ff916f1daed89da627463",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Pre-cutoff renewal states June 2027. Do not backdate the separate October 2030 extension or assume a winger side."
+    },
+    {
+      "key": "super-inter/super-inter-mattiamarello/ownership",
+      "claimHash": "b0ace78686f11d9ff819d86e8d0f7f4a577a0b714360ed979303b35ca2511a9f",
+      "decision": "accepted",
+      "reviewer": "Codex primary-source review",
+      "checked": "2026-10-23",
+      "note": "Inter explicitly exercised the option to make the Udinese transfer permanent on 16 June. Broad defender label does not establish a precise natural position."
+    }
+  ]
+}

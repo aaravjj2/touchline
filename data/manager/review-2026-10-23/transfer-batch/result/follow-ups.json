@@ -1,0 +1,107 @@
+{
+  "unresolved": [
+    {
+      "id": "super-barcelona-joaocancelo",
+      "sources": [
+        "https://www.fcbarcelona.com/en/news/4433680/joao-cancelo-becomes-an-fc-barcelona-player",
+        "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joao-cancelo-a-culer-until-2029"
+      ],
+      "note": "13 January loan is described as until season end; 20 August permanent signing is after cutoff. Keep candidate registration unverified pending exact loan expiry/return/registration evidence; do not infer continuous August ownership from the permanent signing."
+    },
+    {
+      "id": "super-barcelona-xaviespart",
+      "sources": [
+        "https://www.fcbarcelona.com/en/football/first-team/news/4566445/xavi-espart-first-team-squad-member-with-the-number-12-jersey"
+      ],
+      "note": "27 August senior promotion does not exclude eligibility as a youth at cutoff. Do not delete on promotion date alone."
+    },
+    {
+      "id": "super-barcelona-gerardmartin",
+      "sources": [
+        "https://www.fcbarcelona.com/en/football/first-team/players/111861/gerard-martin"
+      ],
+      "note": "Candidate CB and historical left-back descriptions need position-specific cutoff review; broad defender text is insufficient."
+    }
+  ],
+  "coverageChecks": [
+    {
+      "club": "super-real-madrid",
+      "names": [
+        "Ferland Mendy",
+        "Thiago Pitarch"
+      ],
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players",
+      "note": "Current roster entries absent from candidate. Establish cutoff eligibility and exact positions before adding."
+    },
+    {
+      "club": "super-barcelona",
+      "names": [
+        "Brian Fariñas",
+        "Roony Bardghji"
+      ],
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players",
+      "note": "Current roster entries absent from candidate. Senior promotion dates do not settle earlier youth eligibility."
+    }
+  ],
+  "rejectedNameMatches": [
+    {
+      "id": "world-sandbox-eng-p445122",
+      "name": "Jurriën Timber",
+      "sourceName": "TIMBER Quinten Quinten Ryan Crispito TIMBER Q. TIMBER",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p451302",
+      "name": "Altay Bayındır",
+      "sourceName": "BAYINDIR Altay Altay BAYINDIR ALTAY",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p547037",
+      "name": "Jack Fletcher",
+      "sourceName": "FLETCHER Tyler Tyler Robert FLETCHER FLETCHER",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p168636",
+      "name": "Enes Ünal",
+      "sourceName": "SENESI Marcos Marcos Nicolás SENESI BARON SENESI",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "super-lens-250209953",
+      "name": "Yacine Titraoui",
+      "sourceName": "TITRAOUI Yassine Yassine M E G TITRAOUI TITRAOUI",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    }
+  ],
+  "rateLimitedProfiles": [
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/572280/hamza-mohamed-abdelkarim-elsayed-selim",
+      "status": 429,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/players/572280/hamza-mohamed-abdelkarim-elsayed-selim",
+      "contentType": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "file": "053.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/116719/pablo-martin-paez-gavira",
+      "status": 429,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/players/116719/pablo-martin-paez-gavira",
+      "contentType": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "file": "054.html"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/70486/pedro-gonzalez",
+      "status": 429,
+      "finalUrl": "https://www.fcbarcelona.com/en/football/first-team/players/70486/pedro-gonzalez",
+      "contentType": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "file": "055.html"
+    }
+  ]
+}

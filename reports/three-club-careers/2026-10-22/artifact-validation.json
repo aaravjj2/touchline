@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "club": "barcelona",
+      "file": "fixtures",
+      "rows": 399,
+      "correct": true
+    },
+    {
+      "club": "barcelona",
+      "file": "transfers",
+      "rows": 33,
+      "correct": true
+    },
+    {
+      "club": "barcelona",
+      "file": "offers",
+      "rows": 3,
+      "correct": true
+    },
+    {
+      "club": "barcelona",
+      "file": "squad",
+      "rows": 25,
+      "correct": true
+    },
+    {
+      "club": "barcelona",
+      "file": "finance",
+      "rows": 43,
+      "correct": true
+    },
+    {
+      "club": "barcelona",
+      "file": "world-finance",
+      "rows": 1462,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "fixtures",
+      "rows": 399,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "transfers",
+      "rows": 27,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "offers",
+      "rows": 8,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "squad",
+      "rows": 25,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "finance",
+      "rows": 43,
+      "correct": true
+    },
+    {
+      "club": "real-madrid",
+      "file": "world-finance",
+      "rows": 1462,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "fixtures",
+      "rows": 399,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "transfers",
+      "rows": 36,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "offers",
+      "rows": 0,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "squad",
+      "rows": 27,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "finance",
+      "rows": 43,
+      "correct": true
+    },
+    {
+      "club": "arsenal",
+      "file": "world-finance",
+      "rows": 1462,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "checked": "2026-10-24",
+  "candidate": "review-2026-10-24/result/candidate.json",
+  "reviews": "review-2026-10-24/result/reviews.json",
+  "sourceHash": "26472d90cf29e82fe1a595183e0bf36f9a36aa851c7c310f5f2da4549ebd75dd",
+  "reviewHash": "5ee7675cb91275f637cc67ba92400a6e6b411ced7a015657c2d6047a9b3f7891",
+  "scope": "Latest local review candidate only; never a runtime catalog or career migration.",
+  "verifiedCareerReady": false
+}

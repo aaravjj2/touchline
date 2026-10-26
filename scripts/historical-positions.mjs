@@ -1,0 +1,31 @@
+// Explicit game-position interpretations of the catalog's linked UEFA tactical sheets.
+// Era-specific responsibilities, not universal eligibility or a licensed rating system.
+export const HISTORICAL_POSITIONS={
+ pack0:'GK RB CB CB LB DM CM CM RW ST LW',
+ pack1:'GK RB CB CB LB DM CM LM RM SS ST',
+ pack2:'GK RB CB CB LB DM CM AM RW LW ST',
+ pack3:'GK RB CB CB LB DM CM LM RM AM ST',
+ pack4:'GK RB CB CB LB DM CM CM AM ST ST',
+ pack5:'GK CB CB CB RWB LWB CM DM AM ST ST',
+ pack6:'GK RB CB CB LB DM CM CM RW LW ST',
+ pack7:'GK RB CB CB LB CM CM RM AM LW ST',
+ pack8:'GK RB CB CB LB CM AM/ST CM RW LW LW/AM',
+ pack9:'GK CB CB CB RWB LWB DM CM AM AM/ST ST',
+ pack10:'GK RB CB CB LB DM CM AM RW LW ST',
+ pack11:'GK CB CB CB RWB LWB CM DM CM ST ST',
+ pack12:'GK RB CB CB LB DM CM CM AM SS ST',
+ pack13:'GK RB CB CB LB CM RM/CM DM LM SS ST',
+ pack14:'GK RB CB CB LB DM CM CM RW ST LW GK CM RW CM CB LB CB',
+ pack15:'GK RB CB CB LB DM CM CM AM SS ST',
+ pack16:'GK RB CB CB LB DM CM CM AM LW/ST RW/ST',
+ pack17:'GK RB CB CB LB DM CM AM RW ST LW',
+ pack18:'GK RB CB LB CB DM RM LM CM AM ST',
+ pack19:'GK RB LB CB CB DM CM AM DM ST ST',
+ pack20:'GK RB LB CB CB CM DM RM LM SS ST',
+ pack21:'GK RB/CB CB CB CM DM CM AM AM RW LW ST ST',
+ pack22:'GK RB CB CB LB RM CM DM LM AM ST GK ST SS',
+ pack23:'GK RB CB CB LB DM CM LM RM SS ST',
+ pack24:'GK RB CB CB LB CM DM CM RW ST LW',
+ pack25:'GK RB CB CB LB CM CM DM LW ST RW',
+ pack26:'GK CB CB CB RWB LWB CM DM CM ST ST'
+};

@@ -1,0 +1,1480 @@
+{
+  "checked": "2026-10-23",
+  "source": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+  "sourceSha256": "02a0a9beb5d219e7cc0aedde19273e9a3bfe4818ecd600d37804b8801dd96d94",
+  "scope": "Reviewed name-and-date rows only. July club labels are stale in several cases and do not establish August registration or Transfermarkt provider mappings.",
+  "facts": [
+    {
+      "id": "world-sandbox-eng-p226597",
+      "name": "Gabriel dos Santos Magalhães",
+      "birthDate": "1997-12-19",
+      "page": 7,
+      "shirtNumber": 3,
+      "sourceName": "GABRIEL MAGALHAES Gabriel DOS SANTOS MAGALHÃES GABRIEL"
+    },
+    {
+      "id": "world-sandbox-eng-p462424",
+      "name": "William Saliba",
+      "birthDate": "2001-03-24",
+      "page": 19,
+      "shirtNumber": 17,
+      "sourceName": "SALIBA William William Alain André Gabriel SALIBA SALIBA"
+    },
+    {
+      "id": "world-sandbox-eng-p448104",
+      "name": "Piero Hincapié",
+      "birthDate": "2002-01-09",
+      "page": 16,
+      "shirtNumber": 3,
+      "sourceName": "HINCAPIE Piero Piero Martin HINCAPIÉ REYNA HINCAPIE"
+    },
+    {
+      "id": "world-sandbox-eng-p232413",
+      "name": "Eberechi Eze",
+      "birthDate": "1998-06-29",
+      "page": 18,
+      "shirtNumber": 21,
+      "sourceName": "EZE Eberechi Eberechi Oluchi EZE EZE"
+    },
+    {
+      "id": "world-sandbox-eng-p184029",
+      "name": "Martin Ødegaard",
+      "birthDate": "1998-12-17",
+      "page": 32,
+      "shirtNumber": 10,
+      "sourceName": "ODEGAARD Martin Martín ØDEGAARD ØDEGAARD"
+    },
+    {
+      "id": "world-sandbox-eng-p248857",
+      "name": "Noni Madueke",
+      "birthDate": "2002-03-10",
+      "page": 18,
+      "shirtNumber": 20,
+      "sourceName": "M ADUEKE Noni Chukwunonso Azuka Tristan M ADUEKE M ADUEKE"
+    },
+    {
+      "id": "world-sandbox-eng-p195384",
+      "name": "Mikel Merino Zazón",
+      "birthDate": "1996-06-22",
+      "page": 41,
+      "shirtNumber": 6,
+      "sourceName": "MERINO Mikel Mikel MERINO ZAZÓN MERINO"
+    },
+    {
+      "id": "world-sandbox-eng-p444145",
+      "name": "Gabriel Martinelli Silva",
+      "birthDate": "2001-06-18",
+      "page": 7,
+      "shirtNumber": 22,
+      "sourceName": "GABRIEL MARTINELLI Gabriel TEODORO MARTINELLI SILVA M ARTINELLI"
+    },
+    {
+      "id": "world-sandbox-eng-p481655",
+      "name": "Martín Zubimendi Ibáñez",
+      "birthDate": "1999-02-02",
+      "page": 41,
+      "shirtNumber": 18,
+      "sourceName": "ZUBIMENDI Martin Martin ZUBIMENDI IBAÑEZ ZUBIMENDI"
+    },
+    {
+      "id": "world-sandbox-eng-p224117",
+      "name": "Viktor Gyökeres",
+      "birthDate": "1998-06-04",
+      "page": 42,
+      "shirtNumber": 17,
+      "sourceName": "GYOKERES Viktor Viktor Einar GYÖKERES GYÖKERES"
+    },
+    {
+      "id": "world-sandbox-eng-p219847",
+      "name": "Kai Havertz",
+      "birthDate": "1999-06-11",
+      "page": 20,
+      "shirtNumber": 7,
+      "sourceName": "HAVERTZ Kai Kai Lukas HAVERTZ HAVERTZ"
+    },
+    {
+      "id": "world-sandbox-eng-p199798",
+      "name": "Ezri Konsa Ngoyo",
+      "birthDate": "1997-10-23",
+      "page": 18,
+      "shirtNumber": 2,
+      "sourceName": "KONSA Ezri Ezri Ngoyo KONSA KONSA"
+    },
+    {
+      "id": "world-sandbox-eng-p208706",
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "birthDate": "1997-11-16",
+      "page": 7,
+      "shirtNumber": 8,
+      "sourceName": "BRUNO GUIMARAES Bruno GUIMARÃES RODRIGUEZ MOURA BRUNO G."
+    },
+    {
+      "id": "world-sandbox-eng-p448047",
+      "name": "Enzo Fernández",
+      "birthDate": "2001-01-17",
+      "page": 2,
+      "shirtNumber": 24,
+      "sourceName": "FERNANDEZ Enzo Enzo Jeremías FERNÁNDEZ E. FERNANDEZ"
+    },
+    {
+      "id": "world-sandbox-eng-p440993",
+      "name": "Iliman Ndiaye",
+      "birthDate": "2000-03-06",
+      "page": 39,
+      "shirtNumber": 13,
+      "sourceName": "NDIAYE Iliman Iliman Cheikh Baroy NDIAYE NDIAYE"
+    },
+    {
+      "id": "world-sandbox-eng-p472769",
+      "name": "Nico O'Reilly",
+      "birthDate": "2005-03-21",
+      "page": 18,
+      "shirtNumber": 3,
+      "sourceName": "OREILLY Nico Nico O'REILLY O'REILLY"
+    },
+    {
+      "id": "world-sandbox-eng-p209036",
+      "name": "Marc Guéhi",
+      "birthDate": "2000-07-13",
+      "page": 18,
+      "shirtNumber": 6,
+      "sourceName": "GUEHI Marc Addji Keaninkin Marc-IsrealGUEHI GUÉHI"
+    },
+    {
+      "id": "world-sandbox-eng-p465351",
+      "name": "Matheus Nunes",
+      "birthDate": "1998-08-27",
+      "page": 35,
+      "shirtNumber": 6,
+      "sourceName": "M ATHEUS NUNES Matheus Luiz NUNES M ATHEUS N."
+    },
+    {
+      "id": "world-sandbox-eng-p171314",
+      "name": "Rúben dos Santos Gato Alves Dias",
+      "birthDate": "1997-05-14",
+      "page": 35,
+      "shirtNumber": 3,
+      "sourceName": "RUBEN DIAS Rúben DOS SANTOS GATO ALVES DIAS RÚBEN DIAS"
+    },
+    {
+      "id": "world-sandbox-eng-p477424",
+      "name": "Joško Gvardiol",
+      "birthDate": "2002-01-23",
+      "page": 13,
+      "shirtNumber": 4,
+      "sourceName": "GVARDIOL Josko Joško GVARDIOL GVARDIOL"
+    },
+    {
+      "id": "world-sandbox-eng-p448514",
+      "name": "Rayan Aït-Nouri",
+      "birthDate": "2001-06-06",
+      "page": 1,
+      "shirtNumber": 15,
+      "sourceName": "AIT-NOURI Rayan Rayan AÏT-NOURI AIT NOURI"
+    },
+    {
+      "id": "world-sandbox-eng-p578153",
+      "name": "Abdukodir Khusanov",
+      "birthDate": "2004-02-29",
+      "page": 48,
+      "shirtNumber": 2,
+      "sourceName": "KHUSANOV Abdukodir Abdukodir KHUSANOV KHUSANOV"
+    },
+    {
+      "id": "world-sandbox-eng-p437730",
+      "name": "Antoine Semenyo",
+      "birthDate": "2000-01-07",
+      "page": 21,
+      "shirtNumber": 11,
+      "sourceName": "SEMENYO Antoine Antoine Serlom SEMENYO SEMENYO"
+    },
+    {
+      "id": "world-sandbox-eng-p466052",
+      "name": "Rayan Cherki",
+      "birthDate": "2003-08-17",
+      "page": 19,
+      "shirtNumber": 24,
+      "sourceName": "CHERKI Rayan Mathis Rayan CHERKI CHERKI"
+    },
+    {
+      "id": "world-sandbox-eng-p248875",
+      "name": "Jérémy Doku",
+      "birthDate": "2002-05-27",
+      "page": 5,
+      "shirtNumber": 11,
+      "sourceName": "DOKU Jeremy Jeremy Baffour DOKU DOKU"
+    },
+    {
+      "id": "world-sandbox-eng-p433036",
+      "name": "Tijjani Reijnders",
+      "birthDate": "1998-07-29",
+      "page": 30,
+      "shirtNumber": 14,
+      "sourceName": "REIJNDERS Tijjani Tijjani Martinus Jan REIJNDERS REIJNDERS"
+    },
+    {
+      "id": "world-sandbox-eng-p91651",
+      "name": "Mateo Kovačić",
+      "birthDate": "1994-05-06",
+      "page": 13,
+      "shirtNumber": 8,
+      "sourceName": "KOVACIC Mateo Mateo KOVAČIĆ KOVAČIĆ"
+    },
+    {
+      "id": "world-sandbox-eng-p223094",
+      "name": "Erling Haaland",
+      "birthDate": "2000-07-21",
+      "page": 32,
+      "shirtNumber": 9,
+      "sourceName": "HAALAND Erling Erling Braut HAALAND BRAUT HAALAND"
+    },
+    {
+      "id": "world-sandbox-eng-p215379",
+      "name": "Elliot Anderson",
+      "birthDate": "2002-11-06",
+      "page": 18,
+      "shirtNumber": 8,
+      "sourceName": "ANDERSON Elliot Elliot Junior ANDERSON ANDERSON"
+    },
+    {
+      "id": "world-sandbox-eng-p106921",
+      "name": "Gerónimo Rulli",
+      "birthDate": "1992-05-20",
+      "page": 2,
+      "shirtNumber": 12,
+      "sourceName": "RULLI Geronimo Geronimo RULLI RULLI"
+    },
+    {
+      "id": "world-sandbox-eng-p637238",
+      "name": "Ayyoub Bouaddi",
+      "birthDate": "2007-10-02",
+      "page": 29,
+      "shirtNumber": 6,
+      "sourceName": "BOUADDI Ayyoub Ayyoub BOUADDI BOUADDI"
+    },
+    {
+      "id": "world-sandbox-eng-p166989",
+      "name": "Youri Tielemans",
+      "birthDate": "1997-05-07",
+      "page": 5,
+      "shirtNumber": 8,
+      "sourceName": "TIELEMANS Youri Youri Marion A TIELEMANS TIELEMANS"
+    },
+    {
+      "id": "world-sandbox-eng-p465247",
+      "name": "Senne Lammens",
+      "birthDate": "2002-07-07",
+      "page": 5,
+      "shirtNumber": 12,
+      "sourceName": "LAMMENS Senne Senne LAMMENS LAMMENS"
+    },
+    {
+      "id": "world-sandbox-eng-p216051",
+      "name": "Diogo Dalot Teixeira",
+      "birthDate": "1999-03-18",
+      "page": 35,
+      "shirtNumber": 5,
+      "sourceName": "DIOGO DALOT José Diogo DALOT TEIXEIRA DALOT"
+    },
+    {
+      "id": "world-sandbox-eng-p221820",
+      "name": "Lisandro Martínez",
+      "birthDate": "1998-01-18",
+      "page": 2,
+      "shirtNumber": 6,
+      "sourceName": "M ARTINEZ Lisandro Lisandro M ARTÍNEZ M ARTÍNEZ"
+    },
+    {
+      "id": "world-sandbox-eng-p230001",
+      "name": "Noussair Mazraoui",
+      "birthDate": "1997-11-14",
+      "page": 29,
+      "shirtNumber": 3,
+      "sourceName": "M AZRAOUI Noussair Noussair M AZRAOUI M AZRAOUI"
+    },
+    {
+      "id": "world-sandbox-eng-p141746",
+      "name": "Bruno Borges Fernandes",
+      "birthDate": "1994-09-08",
+      "page": 35,
+      "shirtNumber": 8,
+      "sourceName": "BRUNO FERNANDES Bruno Miguel BORGES FERNANDES B. FERNANDES"
+    },
+    {
+      "id": "world-sandbox-eng-p430871",
+      "name": "Matheus Santos Carneiro da Cunha",
+      "birthDate": "1999-05-27",
+      "page": 7,
+      "shirtNumber": 9,
+      "sourceName": "M ATHEUS CUNHA Matheus SANTOS CARNEIRO DA CUNHA CUNHA"
+    },
+    {
+      "id": "world-sandbox-eng-p176297",
+      "name": "Marcus Rashford",
+      "birthDate": "1997-10-31",
+      "page": 18,
+      "shirtNumber": 11,
+      "sourceName": "RASHFORD Marcus Marcus RASHFORD RASHFORD"
+    },
+    {
+      "id": "world-sandbox-eng-p493250",
+      "name": "Amad Diallo",
+      "birthDate": "2002-07-11",
+      "page": 12,
+      "shirtNumber": 15,
+      "sourceName": "DIALLO Amad Amad DIALLO AMAD"
+    },
+    {
+      "id": "world-sandbox-eng-p516895",
+      "name": "Kobbie Mainoo",
+      "birthDate": "2005-04-19",
+      "page": 18,
+      "shirtNumber": 16,
+      "sourceName": "M AINOO Kobbie Kobbie Boateng M AINOO M AINOO"
+    },
+    {
+      "id": "world-sandbox-eng-p232112",
+      "name": "Manuel Ugarte Ribeiro",
+      "birthDate": "2001-04-11",
+      "page": 46,
+      "shirtNumber": 5,
+      "sourceName": "UGARTE Manuel Manuel UGARTE RIBEIRO M. UGARTE"
+    },
+    {
+      "id": "world-sandbox-eng-p519913",
+      "name": "Tyler Fletcher",
+      "birthDate": "2007-03-19",
+      "page": 38,
+      "shirtNumber": 8,
+      "sourceName": "FLETCHER Tyler Tyler Robert FLETCHER FLETCHER"
+    },
+    {
+      "id": "world-sandbox-eng-p184667",
+      "name": "Victor Lindelöf",
+      "birthDate": "1994-07-17",
+      "page": 42,
+      "shirtNumber": 3,
+      "sourceName": "LINDELOF Victor Victor Jörgen NILSSON LINDELÖF LINDELÖF"
+    },
+    {
+      "id": "world-sandbox-eng-p122806",
+      "name": "John McGinn",
+      "birthDate": "1994-10-18",
+      "page": 38,
+      "shirtNumber": 7,
+      "sourceName": "McGINN John John MCGINN MCGINN"
+    },
+    {
+      "id": "world-sandbox-eng-p449871",
+      "name": "Amadou Onana",
+      "birthDate": "2001-08-16",
+      "page": 5,
+      "shirtNumber": 24,
+      "sourceName": "ONANA Amadou Amadou Ba Z MV OM ONANA ONANA"
+    },
+    {
+      "id": "world-sandbox-eng-p614071",
+      "name": "Johan Manzambi",
+      "birthDate": "2005-10-14",
+      "page": 43,
+      "shirtNumber": 9,
+      "sourceName": "M ANZAMBI Johan Johan Kula M ANZAMBI M ANZAMBI"
+    },
+    {
+      "id": "world-sandbox-eng-p178301",
+      "name": "Ollie Watkins",
+      "birthDate": "1995-12-30",
+      "page": 18,
+      "shirtNumber": 19,
+      "sourceName": "WATKINS Ollie Oliver George Arthur WATKINS WATKINS"
+    },
+    {
+      "id": "world-sandbox-eng-p517052",
+      "name": "Nicolas Jackson",
+      "birthDate": "2001-06-20",
+      "page": 39,
+      "shirtNumber": 11,
+      "sourceName": "JACKSON Nicolas Nicolas JACKSON N. JACKSON"
+    },
+    {
+      "id": "world-sandbox-eng-p433969",
+      "name": "Zion Suzuki",
+      "birthDate": "2002-08-21",
+      "page": 25,
+      "shirtNumber": 1,
+      "sourceName": "SUZUKI Zion Zion SUZUKI SUZUKI"
+    },
+    {
+      "id": "world-sandbox-eng-p214590",
+      "name": "Aaron Wan-Bissaka",
+      "birthDate": "1997-11-26",
+      "page": 11,
+      "shirtNumber": 2,
+      "sourceName": "WAN-BISSAKA Aaron Wan BISSAKA WAN BISSAKA"
+    },
+    {
+      "id": "world-sandbox-eng-p119090",
+      "name": "Leon Goretzka",
+      "birthDate": "1995-02-06",
+      "page": 20,
+      "shirtNumber": 8,
+      "sourceName": "GORETZKA Leon Leon Christoph GORETZKA GORETZKA"
+    },
+    {
+      "id": "world-sandbox-eng-p638987",
+      "name": "Ibrahim Mbaye",
+      "birthDate": "2008-01-24",
+      "page": 39,
+      "shirtNumber": 20,
+      "sourceName": "MBAYE Ibrahim Ibrahim MBAYE I. MBAYE"
+    },
+    {
+      "id": "world-sandbox-eng-p116535",
+      "name": "Alisson Becker",
+      "birthDate": "1992-10-02",
+      "page": 7,
+      "shirtNumber": 1,
+      "sourceName": "ALISSON Álisson Ramsés BECKER A. BECKER"
+    },
+    {
+      "id": "world-sandbox-eng-p97032",
+      "name": "Virgil van Dijk",
+      "birthDate": "1991-07-08",
+      "page": 30,
+      "shirtNumber": 4,
+      "sourceName": "VAN DIJK Virgil Virgil VAN DIJK VIRGIL"
+    },
+    {
+      "id": "world-sandbox-eng-p494595",
+      "name": "Florian Wirtz",
+      "birthDate": "2003-05-03",
+      "page": 20,
+      "shirtNumber": 17,
+      "sourceName": "WIRTZ Florian Florian Richard WIRTZ WIRTZ"
+    },
+    {
+      "id": "world-sandbox-eng-p243298",
+      "name": "Cody Gakpo",
+      "birthDate": "1999-05-07",
+      "page": 30,
+      "shirtNumber": 11,
+      "sourceName": "GAKPO Cody Cody Mathès GAKPO GAKPO"
+    },
+    {
+      "id": "world-sandbox-eng-p441266",
+      "name": "Ryan Gravenberch",
+      "birthDate": "2002-05-16",
+      "page": 30,
+      "shirtNumber": 8,
+      "sourceName": "GRAVENBERCH Ryan Ryan Jiro GRAVENBERCH GRAVENBERCH"
+    },
+    {
+      "id": "world-sandbox-eng-p243016",
+      "name": "Alexis Mac Allister",
+      "birthDate": "1998-12-24",
+      "page": 2,
+      "shirtNumber": 20,
+      "sourceName": "M AC ALLISTER AlexisAlexis M AC ALLISTER M AC ALLISTER"
+    },
+    {
+      "id": "world-sandbox-eng-p551499",
+      "name": "Victor Munoz",
+      "birthDate": "2003-07-13",
+      "page": 41,
+      "shirtNumber": 25,
+      "sourceName": "MUNOZ Victor Victor MUÑOZ VILLANUEVA VICTOR M.V."
+    },
+    {
+      "id": "world-sandbox-eng-p219168",
+      "name": "Alexander Isak",
+      "birthDate": "1999-09-21",
+      "page": 42,
+      "shirtNumber": 9,
+      "sourceName": "ISAK Alexander Alexander ISAK ISAK"
+    },
+    {
+      "id": "world-sandbox-eng-p445087",
+      "name": "Ronald Araujo",
+      "birthDate": "1999-03-07",
+      "page": 46,
+      "shirtNumber": 4,
+      "sourceName": "ARAUJO Ronald Ronald Federico ARAÚJO DA SILVA R. ARAUJO"
+    },
+    {
+      "id": "world-sandbox-eng-p482616",
+      "name": "Bradley Barcola",
+      "birthDate": "2002-09-02",
+      "page": 19,
+      "shirtNumber": 12,
+      "sourceName": "BARCOLA Bradley Bradley Jean-Manuel Essolisa ABARCOLA BARCOLA"
+    },
+    {
+      "id": "world-sandbox-eng-p499604",
+      "name": "Rayan Vitor Simplício Rocha",
+      "birthDate": "2006-08-03",
+      "page": 7,
+      "shirtNumber": 26,
+      "sourceName": "RAYAN Rayan Vitor SIMPLICIO ROCHA RAYAN"
+    },
+    {
+      "id": "world-sandbox-eng-p222683",
+      "name": "Justin Kluivert",
+      "birthDate": "1999-05-05",
+      "page": 30,
+      "shirtNumber": 7,
+      "sourceName": "KLUIVERT Justin Justin Dean KLUIVERT KLUIVERT"
+    },
+    {
+      "id": "world-sandbox-eng-p496208",
+      "name": "Ben Gannon-Doak",
+      "birthDate": "2005-11-11",
+      "page": 38,
+      "shirtNumber": 17,
+      "sourceName": "GANNON-DOAK Ben Ben Gannon DOAK GANNON DOAK"
+    },
+    {
+      "id": "world-sandbox-eng-p200785",
+      "name": "Tyler Adams",
+      "birthDate": "1999-02-14",
+      "page": 47,
+      "shirtNumber": 4,
+      "sourceName": "ADAMS Tyler Tyler Shaan ADAMS ADAMS"
+    },
+    {
+      "id": "world-sandbox-eng-p158499",
+      "name": "Ryan Christie",
+      "birthDate": "1995-02-22",
+      "page": 38,
+      "shirtNumber": 11,
+      "sourceName": "CHRISTIE Ryan Ryan CHRISTIE CHRISTIE"
+    },
+    {
+      "id": "super-barcelona-dominiklivakovic",
+      "name": "Dominik Livaković",
+      "birthDate": "1995-01-09",
+      "page": 13,
+      "shirtNumber": 1,
+      "sourceName": "LIVAKOVIC Dominik Dominik LIVAKOVIĆ LIVAKOVIĆ"
+    },
+    {
+      "id": "super-barcelona-joaocancelo",
+      "name": "João Cancelo",
+      "birthDate": "1994-05-27",
+      "page": 35,
+      "shirtNumber": 20,
+      "sourceName": "JOAO CANCELO João Pedro CAVACO CANCELO JOÃO CANCELO"
+    },
+    {
+      "id": "super-barcelona-paucubarsi",
+      "name": "Pau Cubarsí",
+      "birthDate": "2007-01-22",
+      "page": 41,
+      "shirtNumber": 22,
+      "sourceName": "CUBARSI Pau Pau CUBARSI I PAREDES CUBARSÍ"
+    },
+    {
+      "id": "super-barcelona-juleskounde",
+      "name": "Jules Koundé",
+      "birthDate": "1998-11-12",
+      "page": 19,
+      "shirtNumber": 5,
+      "sourceName": "KOUNDE Jules Jules Olivier KOUNDE KOUNDE"
+    },
+    {
+      "id": "super-barcelona-ericgarcia",
+      "name": "Eric García",
+      "birthDate": "2001-01-09",
+      "page": 41,
+      "shirtNumber": 4,
+      "sourceName": "GARCIA Eric Eric GARCÍA MARTRET ERIC"
+    },
+    {
+      "id": "super-barcelona-250082664",
+      "name": "Rodri",
+      "birthDate": "1996-06-22",
+      "page": 41,
+      "shirtNumber": 16,
+      "sourceName": "RODRI Rodrigo HERNÁNDEZ CASCANTE RODRIGO"
+    },
+    {
+      "id": "super-barcelona-frenkiedejong",
+      "name": "Frenkie de Jong",
+      "birthDate": "1997-05-12",
+      "page": 30,
+      "shirtNumber": 21,
+      "sourceName": "DE JONG Frenkie Frenkie DE JONG F. DE JONG"
+    },
+    {
+      "id": "super-barcelona-raphinha",
+      "name": "Raphinha",
+      "birthDate": "1996-12-14",
+      "page": 7,
+      "shirtNumber": 11,
+      "sourceName": "RAPHINHA Raphael DIAS BELLOLI RAPHINHA"
+    },
+    {
+      "id": "super-barcelona-anthonygordon",
+      "name": "Anthony Gordon",
+      "birthDate": "2001-02-24",
+      "page": 18,
+      "shirtNumber": 18,
+      "sourceName": "GORDON Anthony Anthony Michael GORDON GORDON"
+    },
+    {
+      "id": "super-barcelona-daniolmo",
+      "name": "Dani Olmo",
+      "birthDate": "1998-05-07",
+      "page": 41,
+      "shirtNumber": 10,
+      "sourceName": "OLMO Dani Daniel OLMO CARVAJAL OLMO"
+    },
+    {
+      "id": "super-barcelona-hamzaabdelkarim",
+      "name": "Hamza Abdelkarim",
+      "birthDate": "2008-01-01",
+      "page": 17,
+      "shirtNumber": 9,
+      "sourceName": "HAMZA ABDELKARIM Hamza Mohamed Abdelkarim E SELIM ABDELKARIM"
+    },
+    {
+      "id": "super-real-madrid-ibrahimakonate",
+      "name": "Ibrahima Konaté",
+      "birthDate": "1999-05-25",
+      "page": 19,
+      "shirtNumber": 15,
+      "sourceName": "KONATE Ibrahima Ibrahima KONATÉ KONATE"
+    },
+    {
+      "id": "super-real-madrid-marccucurella",
+      "name": "Marc Cucurella",
+      "birthDate": "1998-07-22",
+      "page": 41,
+      "shirtNumber": 24,
+      "sourceName": "CUCURELLA Marc Marc CUCURELLA SASETA CUCURELLA"
+    },
+    {
+      "id": "super-real-madrid-antoniorudiger",
+      "name": "Antonio Rüdiger",
+      "birthDate": "1993-03-03",
+      "page": 20,
+      "shirtNumber": 2,
+      "sourceName": "RUEDIGER Antonio Antonio RÜDIGER RÜDIGER"
+    },
+    {
+      "id": "super-real-madrid-denzeldumfries",
+      "name": "Denzel Dumfries",
+      "birthDate": "1996-04-18",
+      "page": 30,
+      "shirtNumber": 22,
+      "sourceName": "DUMFRIES Denzel Denzel Justus Morris DUMFRIES DUMFRIES"
+    },
+    {
+      "id": "super-real-madrid-bernardosilva",
+      "name": "Bernardo Silva",
+      "birthDate": "1994-08-10",
+      "page": 35,
+      "shirtNumber": 10,
+      "sourceName": "BERNARDO SILVA Bernardo MOTA VEIGA DE CARVALHO E SILVA BERNARDO"
+    },
+    {
+      "id": "super-real-madrid-yandiomande",
+      "name": "Yan Diomande",
+      "birthDate": "2006-11-14",
+      "page": 12,
+      "shirtNumber": 11,
+      "sourceName": "DIOMANDE Yan Yan DIOMANDE YAN DIOMANDE"
+    },
+    {
+      "id": "super-real-madrid-endrick",
+      "name": "Endrick",
+      "birthDate": "2006-07-21",
+      "page": 7,
+      "shirtNumber": 19,
+      "sourceName": "ENDRICK Endrick Felipe MOREIRA DE SOUSA PESSOA ENDRICK"
+    },
+    {
+      "id": "super-real-madrid-brahimdiaz",
+      "name": "Brahim Díaz",
+      "birthDate": "1999-08-03",
+      "page": 29,
+      "shirtNumber": 10,
+      "sourceName": "DIAZ Brahim Brahim ABDELKADER DIAZ BRAHIM"
+    },
+    {
+      "id": "super-villarreal-logancosta",
+      "name": "Logan Costa",
+      "birthDate": "2001-04-01",
+      "page": 8,
+      "shirtNumber": 5,
+      "sourceName": "LOGAN COSTA Logan Evans COSTA COSTA"
+    },
+    {
+      "id": "super-villarreal-alexfreeman",
+      "name": "Alex Freeman",
+      "birthDate": "2004-08-09",
+      "page": 47,
+      "shirtNumber": 16,
+      "sourceName": "FREEMAN Alex Alexander Michael FREEMAN FREEMAN"
+    },
+    {
+      "id": "super-villarreal-renatoveiga",
+      "name": "Renato Veiga",
+      "birthDate": "2003-07-29",
+      "page": 35,
+      "shirtNumber": 13,
+      "sourceName": "RENATO VEIGA Renato DA PALMA VEIGA RENATO VEIGA"
+    },
+    {
+      "id": "super-villarreal-papegueye",
+      "name": "Pape Gueye",
+      "birthDate": "1999-01-24",
+      "page": 39,
+      "shirtNumber": 26,
+      "sourceName": "GUEYE Pape Pape Alassane GUEYE GUEYE"
+    },
+    {
+      "id": "super-villarreal-tanioluwaseyi",
+      "name": "Tani Oluwaseyi",
+      "birthDate": "2000-05-15",
+      "page": 9,
+      "shirtNumber": 12,
+      "sourceName": "OLUWASEYI Tani Tanitoluwa OluwatimilehinOLUWASEYI OLUWASEYI"
+    },
+    {
+      "id": "super-villarreal-nathansaliba",
+      "name": "Nathan Saliba",
+      "birthDate": "2004-02-07",
+      "page": 9,
+      "shirtNumber": 25,
+      "sourceName": "SALIBA Nathan Nathan-Dylan SALIBA SALIBA"
+    },
+    {
+      "id": "super-villarreal-tajonbuchanan",
+      "name": "Tajon Buchanan",
+      "birthDate": "1999-02-08",
+      "page": 9,
+      "shirtNumber": 17,
+      "sourceName": "BUCHANAN Tajon Tajon Trevor BUCHANAN BUCHANAN"
+    },
+    {
+      "id": "super-villarreal-nicolaspepe",
+      "name": "Nicolas Pépé",
+      "birthDate": "1995-05-29",
+      "page": 12,
+      "shirtNumber": 19,
+      "sourceName": "PEPE Nicolas Nicolas PEPE PEPE"
+    },
+    {
+      "id": "super-atletico-juanmusso",
+      "name": "Juan Musso",
+      "birthDate": "1994-05-06",
+      "page": 2,
+      "shirtNumber": 1,
+      "sourceName": "MUSSO Juan Juan Agustín MUSSO MUSSO"
+    },
+    {
+      "id": "super-atletico-marcpubill",
+      "name": "Marc Pubill",
+      "birthDate": "2003-06-20",
+      "page": 41,
+      "shirtNumber": 2,
+      "sourceName": "PUBILL Marc Marc PUBILL PAGES M ARC PUBILL"
+    },
+    {
+      "id": "super-atletico-cristianromero",
+      "name": "Cristian Romero",
+      "birthDate": "1998-04-27",
+      "page": 2,
+      "shirtNumber": 13,
+      "sourceName": "ROMERO Cristian Cristian Gabriel ROMERO ROMERO"
+    },
+    {
+      "id": "super-atletico-alejandrogrimaldo",
+      "name": "Alejandro Grimaldo",
+      "birthDate": "1995-09-20",
+      "page": 41,
+      "shirtNumber": 3,
+      "sourceName": "GRIMALDO Alex Alejandro GRIMALDO GARCÍA GRIMALDO"
+    },
+    {
+      "id": "super-atletico-obedvargas",
+      "name": "Obed Vargas",
+      "birthDate": "2005-08-05",
+      "page": 28,
+      "shirtNumber": 18,
+      "sourceName": "VARGAS Obed Obed Goméz VARGAS O. VARGAS"
+    },
+    {
+      "id": "super-atletico-kanginlee",
+      "name": "Kang-in Lee",
+      "birthDate": "2001-02-19",
+      "page": 27,
+      "shirtNumber": 19,
+      "sourceName": "LEE Kangin Kangin LEE KANGIN"
+    },
+    {
+      "id": "super-atletico-alexbaena",
+      "name": "Álex Baena",
+      "birthDate": "2001-07-20",
+      "page": 41,
+      "shirtNumber": 15,
+      "sourceName": "BAENA Alex Alejandro BAENA RODRÍGUEZ ALEX B."
+    },
+    {
+      "id": "super-atletico-marcosllorente",
+      "name": "Marcos Llorente",
+      "birthDate": "1995-01-30",
+      "page": 41,
+      "shirtNumber": 5,
+      "sourceName": "LLORENTE Marcos Marcos LLORENTE MORENO M. LLORENTE"
+    },
+    {
+      "id": "super-atletico-alexandersorloth",
+      "name": "Alexander Sørloth",
+      "birthDate": "1995-12-05",
+      "page": 32,
+      "shirtNumber": 7,
+      "sourceName": "SORLOTH Alexander Alexander SØRLOTH SØRLOTH"
+    },
+    {
+      "id": "super-atletico-jonathandavid",
+      "name": "Jonathan David",
+      "birthDate": "2000-01-14",
+      "page": 9,
+      "shirtNumber": 10,
+      "sourceName": "DAVID Jonathan Jonathan Christian DAVID J. DAVID"
+    },
+    {
+      "id": "super-atletico-julianalvarez",
+      "name": "Julián Alvarez",
+      "birthDate": "2000-01-31",
+      "page": 2,
+      "shirtNumber": 9,
+      "sourceName": "ALVAREZ Julian Julián ÁLVAREZ J. ALVAREZ"
+    },
+    {
+      "id": "super-atletico-giulianosimeone",
+      "name": "Giuliano Simeone",
+      "birthDate": "2002-12-18",
+      "page": 2,
+      "shirtNumber": 17,
+      "sourceName": "SIMEONE Giuliano Giuliano SIMEONE SIMEONE"
+    },
+    {
+      "id": "super-bayern-manuelneuer",
+      "name": "Manuel Neuer",
+      "birthDate": "1986-03-27",
+      "page": 20,
+      "shirtNumber": 1,
+      "sourceName": "NEUER Manuel Manuel Peter NEUER NEUER"
+    },
+    {
+      "id": "super-bayern-dayotupamecano",
+      "name": "Dayot Upamecano",
+      "birthDate": "1998-10-27",
+      "page": 19,
+      "shirtNumber": 4,
+      "sourceName": "UPAMECANO Dayot Dayotchanculle Oswald UPAMECANO UPAMECANO"
+    },
+    {
+      "id": "super-bayern-minjaekim",
+      "name": "Minjae Kim",
+      "birthDate": "1996-11-15",
+      "page": 27,
+      "shirtNumber": 4,
+      "sourceName": "KIM Minjae Minjae KIM MINJAE"
+    },
+    {
+      "id": "super-bayern-jonathantah",
+      "name": "Jonathan Tah",
+      "birthDate": "1996-02-11",
+      "page": 20,
+      "shirtNumber": 4,
+      "sourceName": "TAH Jonathan Jonathan Glao TAH TAH"
+    },
+    {
+      "id": "super-bayern-nathanielbrown",
+      "name": "Nathaniel Brown",
+      "birthDate": "2003-06-16",
+      "page": 20,
+      "shirtNumber": 18,
+      "sourceName": "BROWN Nathaniel Nathaniel ChristopherBROWN BROWN"
+    },
+    {
+      "id": "super-bayern-hirokiito",
+      "name": "Hiroki Ito",
+      "birthDate": "1999-05-12",
+      "page": 25,
+      "shirtNumber": 21,
+      "sourceName": "ITO Hiroki Hiroki ITO H. ITO"
+    },
+    {
+      "id": "super-bayern-josipstanisic",
+      "name": "Josip Stanišić",
+      "birthDate": "2000-04-02",
+      "page": 13,
+      "shirtNumber": 2,
+      "sourceName": "STANISIC Josip Josip STANIŠIĆ STANIŠIĆ"
+    },
+    {
+      "id": "super-bayern-joshuakimmich",
+      "name": "Joshua Kimmich",
+      "birthDate": "1995-02-08",
+      "page": 20,
+      "shirtNumber": 6,
+      "sourceName": "KIMMICH Joshua Joshua Walter KIMMICH KIMMICH"
+    },
+    {
+      "id": "super-bayern-jamalmusiala",
+      "name": "Jamal Musiala",
+      "birthDate": "2003-02-26",
+      "page": 20,
+      "shirtNumber": 10,
+      "sourceName": "MUSIALA Jamal Jamal MUSIALA MUSIALA"
+    },
+    {
+      "id": "super-bayern-michaelolise",
+      "name": "Michael Olise",
+      "birthDate": "2001-12-12",
+      "page": 19,
+      "shirtNumber": 11,
+      "sourceName": "OLISE Michael Michael Akpovie OLISE OLISE"
+    },
+    {
+      "id": "super-bayern-alphonsodavies",
+      "name": "Alphonso Davies",
+      "birthDate": "2000-11-02",
+      "page": 9,
+      "shirtNumber": 19,
+      "sourceName": "DAVIES Alphonso Alphonso Boyle DAVIES DAVIES"
+    },
+    {
+      "id": "super-bayern-konradlaimer",
+      "name": "Konrad Laimer",
+      "birthDate": "1997-05-27",
+      "page": 4,
+      "shirtNumber": 20,
+      "sourceName": "LAIMER Konrad Konrad LAIMER LAIMER"
+    },
+    {
+      "id": "super-bayern-ismaelsaibari",
+      "name": "Ismael Saibari",
+      "birthDate": "2001-01-28",
+      "page": 29,
+      "shirtNumber": 11,
+      "sourceName": "SAIBARI Ismael Ismael SAIBARI SAIBARI"
+    },
+    {
+      "id": "super-bayern-barasapokondiaye",
+      "name": "Bara Sapoko Ndiaye",
+      "birthDate": "2007-12-31",
+      "page": 39,
+      "shirtNumber": 22,
+      "sourceName": "NDIAYE Bara Sapoko Bara Sapoko NDIAYE BARA"
+    },
+    {
+      "id": "super-bayern-aleksandarpavlovic",
+      "name": "Aleksandar Pavlović",
+      "birthDate": "2004-05-03",
+      "page": 20,
+      "shirtNumber": 5,
+      "sourceName": "PAVLOVIC Aleksandar Aleksandar PAVLOVIĆ PAVLOVIĆ"
+    },
+    {
+      "id": "super-bayern-harrykane",
+      "name": "Harry Kane",
+      "birthDate": "1993-07-28",
+      "page": 18,
+      "shirtNumber": 9,
+      "sourceName": "KANE Harry Harry Edward KANE KANE"
+    },
+    {
+      "id": "super-bayern-luisdiaz",
+      "name": "Luis Díaz",
+      "birthDate": "1997-01-13",
+      "page": 10,
+      "shirtNumber": 7,
+      "sourceName": "DIAZ Luis Luis Fernando DÍAZ MARULANDA LUIS DIAZ"
+    },
+    {
+      "id": "super-dortmund-gregorkobel",
+      "name": "Gregor Kobel",
+      "birthDate": "1997-12-06",
+      "page": 43,
+      "shirtNumber": 1,
+      "sourceName": "KOBEL Gregor Gregor KOBEL KOBEL"
+    },
+    {
+      "id": "super-dortmund-waldemaranton",
+      "name": "Waldemar Anton",
+      "birthDate": "1996-07-20",
+      "page": 20,
+      "shirtNumber": 3,
+      "sourceName": "ANTON Waldemar Waldemar ANTON ANTON"
+    },
+    {
+      "id": "super-dortmund-nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "birthDate": "1999-12-01",
+      "page": 20,
+      "shirtNumber": 15,
+      "sourceName": "SCHLOTTERBECK Nico Nico Cédric SCHLOTTERBECK SCHLOTTERBECK"
+    },
+    {
+      "id": "super-dortmund-ramybensebaini",
+      "name": "Ramy Bensebaini",
+      "birthDate": "1995-04-16",
+      "page": 1,
+      "shirtNumber": 21,
+      "sourceName": "BENSEBAINI Ramy Amir Selmane Rami BENSEBAINI BENSEBAINI"
+    },
+    {
+      "id": "super-dortmund-danielsvensson",
+      "name": "Daniel Svensson",
+      "birthDate": "2002-02-12",
+      "page": 42,
+      "shirtNumber": 8,
+      "sourceName": "SVENSSON Daniel Daniel Jonathan SVENSSON SVENSSON"
+    },
+    {
+      "id": "super-dortmund-julianryerson",
+      "name": "Julian Ryerson",
+      "birthDate": "1997-11-17",
+      "page": 32,
+      "shirtNumber": 26,
+      "sourceName": "RYERSON Julian Julian RYERSON RYERSON"
+    },
+    {
+      "id": "super-dortmund-felixnmecha",
+      "name": "Felix Nmecha",
+      "birthDate": "2000-10-10",
+      "page": 20,
+      "shirtNumber": 23,
+      "sourceName": "NMECHA Felix Felix Kalu NMECHA NMECHA"
+    },
+    {
+      "id": "super-dortmund-carneychukwuemeka",
+      "name": "Carney Chukwuemeka",
+      "birthDate": "2003-10-20",
+      "page": 4,
+      "shirtNumber": 17,
+      "sourceName": "CHUKWUEMEKA Carney Carney Chibueze CHUKWUEMEKA CHUKWUEMEKA"
+    },
+    {
+      "id": "super-dortmund-marcelsabitzer",
+      "name": "Marcel Sabitzer",
+      "birthDate": "1994-03-17",
+      "page": 4,
+      "shirtNumber": 9,
+      "sourceName": "SABITZER Marcel Marcel SABITZER SABITZER"
+    },
+    {
+      "id": "super-dortmund-maximilianbeier",
+      "name": "Maximilian Beier",
+      "birthDate": "2002-10-17",
+      "page": 20,
+      "shirtNumber": 14,
+      "sourceName": "BEIER Maximilian Maximilian BEIER BEIER"
+    },
+    {
+      "id": "super-leipzig-orjannyland",
+      "name": "Ørjan Nyland",
+      "birthDate": "1990-09-10",
+      "page": 32,
+      "shirtNumber": 1,
+      "sourceName": "NYLAND Orjan Ørjan Haskjold NYLAND NYLAND"
+    },
+    {
+      "id": "super-leipzig-davidraum",
+      "name": "David Raum",
+      "birthDate": "1998-04-22",
+      "page": 20,
+      "shirtNumber": 22,
+      "sourceName": "RAUM David David RAUM RAUM"
+    },
+    {
+      "id": "super-leipzig-nicolasseiwald",
+      "name": "Nicolas Seiwald",
+      "birthDate": "2001-05-04",
+      "page": 4,
+      "shirtNumber": 6,
+      "sourceName": "SEIWALD Nicolas Nicolas SEIWALD SEIWALD"
+    },
+    {
+      "id": "super-leipzig-neilelaynaoui",
+      "name": "Neil El Aynaoui",
+      "birthDate": "2001-07-02",
+      "page": 29,
+      "shirtNumber": 24,
+      "sourceName": "EL AYNAOUI Neil Neil Yoni EL AYNAOUI EL AYNAOUI"
+    },
+    {
+      "id": "super-stuttgart-lucajaquez",
+      "name": "Luca Jaquez",
+      "birthDate": "2003-06-02",
+      "page": 43,
+      "shirtNumber": 25,
+      "sourceName": "JAQUEZ Luca Luca Antony JAQUEZ JAQUEZ"
+    },
+    {
+      "id": "super-stuttgart-angelostiller",
+      "name": "Angelo Stiller",
+      "birthDate": "2001-04-04",
+      "page": 20,
+      "shirtNumber": 16,
+      "sourceName": "STILLER Angelo Angelo Nicolas STILLER STILLER"
+    },
+    {
+      "id": "super-stuttgart-ermedindemirovic",
+      "name": "Ermedin Demirović",
+      "birthDate": "1998-03-25",
+      "page": 6,
+      "shirtNumber": 10,
+      "sourceName": "DEMIROVIC Ermedin Ermedin DEMIROVIĆ DEMIROVIĆ"
+    },
+    {
+      "id": "super-stuttgart-bilalelkhannouss",
+      "name": "Bilal El Khannouss",
+      "birthDate": "2004-05-10",
+      "page": 29,
+      "shirtNumber": 23,
+      "sourceName": "EL KHANNOUSS Bilal Bilal EL KHANNOUSS EL KHANNOUSS"
+    },
+    {
+      "id": "super-stuttgart-jamieleweling",
+      "name": "Jamie Leweling",
+      "birthDate": "2001-02-26",
+      "page": 20,
+      "shirtNumber": 9,
+      "sourceName": "LEWELING Jamie Jamie Jaleel Jeremy LEWELING LEWELING"
+    },
+    {
+      "id": "super-stuttgart-denizundav",
+      "name": "Deniz Undav",
+      "birthDate": "1996-07-19",
+      "page": 20,
+      "shirtNumber": 26,
+      "sourceName": "UNDAV Deniz Deniz UNDAV UNDAV"
+    },
+    {
+      "id": "super-inter-johnstones",
+      "name": "John Stones",
+      "birthDate": "1994-05-28",
+      "page": 18,
+      "shirtNumber": 5,
+      "sourceName": "STONES John John STONES STONES"
+    },
+    {
+      "id": "super-inter-manuelakanji",
+      "name": "Manuel Akanji",
+      "birthDate": "1995-07-19",
+      "page": 43,
+      "shirtNumber": 5,
+      "sourceName": "AKANJI Manuel Manuel Obafemi AKANJI AKANJI"
+    },
+    {
+      "id": "super-inter-djedspence",
+      "name": "Djed Spence",
+      "birthDate": "2000-08-09",
+      "page": 18,
+      "shirtNumber": 25,
+      "sourceName": "SPENCE Djed Diop Tehuti Djed-Hotep SPENCE SPENCE"
+    },
+    {
+      "id": "super-inter-petarsucic",
+      "name": "Petar Sučić",
+      "birthDate": "2003-10-25",
+      "page": 13,
+      "shirtNumber": 17,
+      "sourceName": "SUCIC Petar Petar SUČIĆ P. SUČIĆ"
+    },
+    {
+      "id": "super-inter-hakancalhanoglu",
+      "name": "Hakan Çalhanoğlu",
+      "birthDate": "1994-02-08",
+      "page": 45,
+      "shirtNumber": 10,
+      "sourceName": "CALHANOGLU Hakan Hakan ÇALHANOĞLU ÇALHANOĞLU"
+    },
+    {
+      "id": "super-inter-marcusthuram",
+      "name": "Marcus Thuram",
+      "birthDate": "1997-08-06",
+      "page": 19,
+      "shirtNumber": 9,
+      "sourceName": "THURAM Marcus Marcus Lilian THURAM-ULIEN THURAM"
+    },
+    {
+      "id": "super-inter-lautaromartinez",
+      "name": "Lautaro Martínez",
+      "birthDate": "1997-08-22",
+      "page": 2,
+      "shirtNumber": 22,
+      "sourceName": "M ARTINEZ Lautaro Lautaro Javier M ARTÍNEZ L. MARTINEZ"
+    },
+    {
+      "id": "super-inter-angeyoanbonny",
+      "name": "Ange-Yoan Bonny",
+      "birthDate": "2003-10-25",
+      "page": 12,
+      "shirtNumber": 9,
+      "sourceName": "BONNY Ange-Yoan Ange-Yoan Laurent BONNY BONNY"
+    },
+    {
+      "id": "super-napoli-mathiasolivera",
+      "name": "Mathías Olivera",
+      "birthDate": "1997-10-31",
+      "page": 46,
+      "shirtNumber": 16,
+      "sourceName": "OLIVERA Mathias Mathías OLIVERA MIRAMONTES M. OLIVERA"
+    },
+    {
+      "id": "super-napoli-scottmctominay",
+      "name": "Scott McTominay",
+      "birthDate": "1996-12-08",
+      "page": 38,
+      "shirtNumber": 4,
+      "sourceName": "McTOMINAY Scott Scott Francis MCTOMINAY MCTOMINAY"
+    },
+    {
+      "id": "super-napoli-kevindebruyne",
+      "name": "Kevin De Bruyne",
+      "birthDate": "1991-06-28",
+      "page": 5,
+      "shirtNumber": 7,
+      "sourceName": "DE BRUYNE Kevin Kevin DE BRUYNE DE BRUYNE"
+    },
+    {
+      "id": "super-napoli-noalang",
+      "name": "Noa Lang",
+      "birthDate": "1999-06-17",
+      "page": 30,
+      "shirtNumber": 17,
+      "sourceName": "LANG Noa Noa Noëll LANG LANG"
+    },
+    {
+      "id": "super-roma-evanndicka",
+      "name": "Evan N'Dicka",
+      "birthDate": "1999-08-20",
+      "page": 12,
+      "shirtNumber": 21,
+      "sourceName": "NDICKA Evan Obite Evan NDICKA NDICKA"
+    },
+    {
+      "id": "super-roma-nahuelmolina",
+      "name": "Nahuel Molina",
+      "birthDate": "1998-04-06",
+      "page": 2,
+      "shirtNumber": 26,
+      "sourceName": "MOLINA Nahuel Nahuel MOLINA LUCERO MOLINA"
+    },
+    {
+      "id": "super-roma-martenderoon",
+      "name": "Marten de Roon",
+      "birthDate": "1991-03-29",
+      "page": 30,
+      "shirtNumber": 3,
+      "sourceName": "DE ROON Marten Marten Elco DE ROON DE ROON"
+    },
+    {
+      "id": "super-roma-manukone",
+      "name": "Manu Koné",
+      "birthDate": "2001-05-17",
+      "page": 19,
+      "shirtNumber": 6,
+      "sourceName": "KONE Manu Kouadio Emmanuel Boris KONE KONE"
+    },
+    {
+      "id": "super-roma-donyellmalen",
+      "name": "Donyell Malen",
+      "birthDate": "1999-01-19",
+      "page": 30,
+      "shirtNumber": 18,
+      "sourceName": "M ALEN Donyell Donyell M ALEN M ALEN"
+    },
+    {
+      "id": "super-como-trevohchalobah",
+      "name": "Trevoh Chalobah",
+      "birthDate": "1999-07-05",
+      "page": 18,
+      "shirtNumber": 12,
+      "sourceName": "CHALOBAH Trevoh Trevoh Tom CHALOBAH CHALOBAH"
+    },
+    {
+      "id": "super-como-martinbaturina",
+      "name": "Martin Baturina",
+      "birthDate": "2003-02-16",
+      "page": 13,
+      "shirtNumber": 16,
+      "sourceName": "BATURINA Martin Martin BATURINA BATURINA"
+    },
+    {
+      "id": "super-como-assanediao",
+      "name": "Assane Diao",
+      "birthDate": "2005-09-07",
+      "page": 39,
+      "shirtNumber": 7,
+      "sourceName": "DIAO Assane Assane DIAO A. DIAO"
+    },
+    {
+      "id": "super-paris-achrafhakimi",
+      "name": "Achraf Hakimi",
+      "birthDate": "1998-11-04",
+      "page": 29,
+      "shirtNumber": 2,
+      "sourceName": "HAKIMI Achraf Achraf HAKIMI HAKIMI"
+    },
+    {
+      "id": "super-paris-marquinhos",
+      "name": "Marquinhos",
+      "birthDate": "1994-05-14",
+      "page": 7,
+      "shirtNumber": 4,
+      "sourceName": "M ARQUINHOS Marcos AOAS CORREA M ARQUINHOS"
+    },
+    {
+      "id": "super-paris-lucasdigne",
+      "name": "Lucas Digne",
+      "birthDate": "1993-07-20",
+      "page": 19,
+      "shirtNumber": 3,
+      "sourceName": "DIGNE Lucas Lucas DIGNE DIGNE"
+    },
+    {
+      "id": "super-paris-lucashernandez",
+      "name": "Lucas Hernández",
+      "birthDate": "1996-02-14",
+      "page": 19,
+      "shirtNumber": 21,
+      "sourceName": "HERNANDEZ Lucas Lucas Francois Bernard HERNANDEZ L. HERNANDEZ"
+    },
+    {
+      "id": "super-paris-nunomendes",
+      "name": "Nuno Mendes",
+      "birthDate": "2002-06-19",
+      "page": 35,
+      "shirtNumber": 25,
+      "sourceName": "NUNO MENDES Nuno Alexandre TAVARES MENDES N. MENDES"
+    },
+    {
+      "id": "super-paris-willianpacho",
+      "name": "Willian Pacho",
+      "birthDate": "2001-10-16",
+      "page": 16,
+      "shirtNumber": 6,
+      "sourceName": "PACHO Willian Willian Joel PACHO TENORIO PACHO"
+    },
+    {
+      "id": "super-paris-fabianruiz",
+      "name": "Fabián Ruiz",
+      "birthDate": "1996-04-03",
+      "page": 41,
+      "shirtNumber": 8,
+      "sourceName": "RUIZ Fabian Fabian RUIZ PEÑA FABIÁN"
+    },
+    {
+      "id": "super-paris-maghnesakliouche",
+      "name": "Maghnes Akliouche",
+      "birthDate": "2002-02-25",
+      "page": 19,
+      "shirtNumber": 25,
+      "sourceName": "AKLIOUCHE Maghnes Maghnes AKLIOUCHE AKLIOUCHE"
+    },
+    {
+      "id": "super-paris-vitinha",
+      "name": "Vitinha",
+      "birthDate": "2000-02-13",
+      "page": 35,
+      "shirtNumber": 23,
+      "sourceName": "VITINHA Vitor M ACHADO FERREIRA VITINHA"
+    },
+    {
+      "id": "super-paris-warrenzaireemery",
+      "name": "Warren Zaïre-Emery",
+      "birthDate": "2006-03-08",
+      "page": 19,
+      "shirtNumber": 18,
+      "sourceName": "ZAIRE-EMERY Warren Warren Marie Jean-Pierre ZAÏRE-EMERY ZAIRE-EMERY"
+    },
+    {
+      "id": "super-paris-joaoneves",
+      "name": "João Neves",
+      "birthDate": "2004-09-27",
+      "page": 35,
+      "shirtNumber": 15,
+      "sourceName": "JOAO NEVES João Pedro GONÇALVES NEVES JOÃO NEVES"
+    },
+    {
+      "id": "super-paris-ferrantorres",
+      "name": "Ferran Torres",
+      "birthDate": "2000-02-29",
+      "page": 41,
+      "shirtNumber": 7,
+      "sourceName": "TORRES Ferran Ferran TORRES GARCÍA FERRAN"
+    },
+    {
+      "id": "super-paris-ousmanedembele",
+      "name": "Ousmane Dembélé",
+      "birthDate": "1997-05-15",
+      "page": 19,
+      "shirtNumber": 7,
+      "sourceName": "DEMBELE Ousmane Masour Ousmane DEMBELE DEMBELE"
+    },
+    {
+      "id": "super-paris-desiredoue",
+      "name": "Désiré Doué",
+      "birthDate": "2005-06-03",
+      "page": 19,
+      "shirtNumber": 20,
+      "sourceName": "DOUE Desire Désiré Nonka-Maho DOUE DOUE"
+    },
+    {
+      "id": "super-lens-250181167",
+      "name": "Saud Abdulhamid",
+      "birthDate": "1999-07-18",
+      "page": 37,
+      "shirtNumber": 12,
+      "sourceName": "SAUD ABDULHAMID Saud Abdullah S ABDULHAMID SAUD"
+    },
+    {
+      "id": "super-lens-250181514",
+      "name": "Robin Risser",
+      "birthDate": "2004-12-02",
+      "page": 19,
+      "shirtNumber": 23,
+      "sourceName": "RISSER Robin Robin François Philippe RISSER RISSER"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "world-sandbox-eng-p445122",
+      "name": "Jurriën Timber",
+      "sourceName": "TIMBER Quinten Quinten Ryan Crispito TIMBER Q. TIMBER",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p451302",
+      "name": "Altay Bayındır",
+      "sourceName": "BAYINDIR Altay Altay BAYINDIR ALTAY",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p547037",
+      "name": "Jack Fletcher",
+      "sourceName": "FLETCHER Tyler Tyler Robert FLETCHER FLETCHER",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "world-sandbox-eng-p168636",
+      "name": "Enes Ünal",
+      "sourceName": "SENESI Marcos Marcos Nicolás SENESI BARON SENESI",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    },
+    {
+      "id": "super-lens-250209953",
+      "name": "Yacine Titraoui",
+      "sourceName": "TITRAOUI Yassine Yassine M E G TITRAOUI TITRAOUI",
+      "reason": "No acceptance: twin/name mismatch, substring-only match, transliteration uncertainty or alias requiring separate identity review."
+    }
+  ]
+}

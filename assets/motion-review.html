@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Motion review</title>
+<style>
+  body{margin:0;background:#10161c;color:#f6f3ec;font:14px Arial,sans-serif;padding:24px}
+  h1{font:28px Impact,sans-serif;margin:0 0 8px}
+  p{color:#8ea0b0}
+  .row{display:flex;gap:16px;flex-wrap:wrap;margin-top:16px}
+  object{width:280px;height:230px;background:#141c24;border-radius:10px}
+  figure{margin:0}
+  figcaption{margin-top:6px;color:#8ea0b0}
+</style>
+<h1>Motion review</h1>
+<p>Paused frames from the keeper cycle, plus a forward celebration and the goal board. The files keep playing when opened on their own.</p>
+<div class="row" id="row"></div>
+<script>
+const shots = [
+  ['animations/touchline-founder-0.svg', 0.2, 'Idle'],
+  ['animations/touchline-founder-0.svg', 2.2, 'Sprint'],
+  ['animations/touchline-founder-0.svg', 5.2, 'Shoot'],
+  ['animations/touchline-founder-0.svg', 7.2, 'Keeper save'],
+  ['celebrations/touchline-founder-14.svg', 0.2, 'Forward celebration'],
+  ['moments/goal.svg', 0.7, 'Goal']
+];
+const row = document.getElementById('row');
+for (const [src, time, label] of shots) {
+  const fig = document.createElement('figure');
+  const obj = document.createElement('object');
+  obj.type = 'image/svg+xml';
+  obj.data = src;
+  obj.onload = () => {
+    const doc = obj.contentDocument;
+    const root = doc && doc.documentElement;
+    if (root && root.setCurrentTime) { root.setCurrentTime(time); root.pauseAnimations(); doc.getAnimations().forEach(a => { a.pause(); a.currentTime = time * 1000; }); }
+  };
+  const cap = document.createElement('figcaption');
+  cap.textContent = label;
+  fig.append(obj, cap);
+  row.append(fig);
+}
+</script>

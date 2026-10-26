@@ -1,0 +1,2584 @@
+{
+  "checked": "2026-10-21",
+  "coverage": "UEFA List A club/squad pages; domestic ownership and loan status not established. Game-role adaptations retain the prior authored profiles. List B omitted.",
+  "clubs": [
+    {
+      "club": "Barcelona",
+      "slug": "barcelona",
+      "country": "ESP",
+      "color": "#a51e46",
+      "rating": 91,
+      "budgetGbp": 90000000,
+      "providerNames": [
+        "barcelona"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/",
+      "players": [
+        {
+          "name": "Joan García",
+          "profileName": "Joan García",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Wojciech Szczęsny",
+          "profileName": "Szczęsny",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "POL"
+        },
+        {
+          "name": "Dominik Livaković",
+          "profileName": "Livaković",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "CRO"
+        },
+        {
+          "name": "João Cancelo",
+          "profileName": "João Cancelo",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "POR"
+        },
+        {
+          "name": "Alejandro Balde",
+          "profileName": "Balde",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Pau Cubarsí",
+          "profileName": "Cubarsí",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Xavi Espart",
+          "profileName": "Xavi Espart",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Andreas Christensen",
+          "profileName": "Christensen",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "DEN"
+        },
+        {
+          "name": "Gerard Martín",
+          "profileName": "Gerard Martín",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Jules Koundé",
+          "profileName": "Koundé",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Eric García",
+          "profileName": "Eric García",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Gavi",
+          "profileName": "Gavi",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Pedri",
+          "profileName": "Pedri",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Rodri",
+          "profileName": "Rodri",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP",
+          "uefaId": "250082664",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250082664--rodri/",
+          "birthDate": "1996-06-22"
+        },
+        {
+          "name": "Frenkie de Jong",
+          "profileName": "De Jong",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "NED"
+        },
+        {
+          "name": "Marc Bernal",
+          "profileName": "Bernal",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Fermín López",
+          "profileName": "Fermín López",
+          "role": "MID",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Gabriel Jesus",
+          "profileName": "Jesus",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Lamine Yamal",
+          "profileName": "Yamal",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Raphinha",
+          "profileName": "Raphinha",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Karim Adeyemi",
+          "profileName": "Adeyemi",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Anthony Gordon",
+          "profileName": "Gordon",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Dani Olmo",
+          "profileName": "Olmo",
+          "role": "MID",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Jesse Bisiwu",
+          "profileName": "Bisiwu",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BEL",
+          "uefaId": "250194007",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250194007--jesse-bisiwu/",
+          "birthDate": "2008-01-22"
+        },
+        {
+          "name": "Hamza Abdelkarim",
+          "profileName": "Abdelkarim",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "EGY"
+        }
+      ]
+    },
+    {
+      "club": "Real Madrid",
+      "slug": "real-madrid",
+      "country": "ESP",
+      "color": "#e5e9ef",
+      "rating": 92,
+      "budgetGbp": 100000000,
+      "providerNames": [
+        "real madrid"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50051--real-madrid/",
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "profileName": "Courtois",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Andriy Lunin",
+          "profileName": "Lunin",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "UKR"
+        },
+        {
+          "name": "Raúl Asencio",
+          "profileName": "Raúl Asencio",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Éder Militão",
+          "profileName": "Éder Militão",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Dean Huijsen",
+          "profileName": "Huijsen",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Trent Alexander-Arnold",
+          "profileName": "Alexander-Arnold",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Ibrahima Konaté",
+          "profileName": "Konaté",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Marc Cucurella",
+          "profileName": "Cucurella",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Álvaro Carreras",
+          "profileName": "Carreras",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Antonio Rüdiger",
+          "profileName": "Rüdiger",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Denzel Dumfries",
+          "profileName": "Dumfries",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "NED"
+        },
+        {
+          "name": "Jude Bellingham",
+          "profileName": "Bellingham",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Eduardo Camavinga",
+          "profileName": "Camavinga",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Federico Valverde",
+          "profileName": "Valverde",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "URU"
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "profileName": "Tchouaméni",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Arda Güler",
+          "profileName": "Arda Güler",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "TUR"
+        },
+        {
+          "name": "Bernardo Silva",
+          "profileName": "Bernardo Silva",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "POR"
+        },
+        {
+          "name": "Yan Diomande",
+          "profileName": "Diomande",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "CIV"
+        },
+        {
+          "name": "Sergio Martínez",
+          "profileName": "Sergio Martínez",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP",
+          "uefaId": "250225046",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250225046--sergio-martinez/",
+          "birthDate": "2007-05-15"
+        },
+        {
+          "name": "Vinícius Júnior",
+          "profileName": "Vinícius Júnior",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Endrick",
+          "profileName": "Endrick",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "profileName": "Mbappé",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Rodrygo",
+          "profileName": "Rodrygo",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Carlos Espí",
+          "profileName": "Carlos Espí",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Brahim Díaz",
+          "profileName": "Brahim Díaz",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "MAR"
+        }
+      ]
+    },
+    {
+      "club": "Villarreal",
+      "slug": "villarreal",
+      "country": "ESP",
+      "color": "#efd638",
+      "rating": 83,
+      "budgetGbp": 35000000,
+      "providerNames": [
+        "villarreal"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/70691--villarreal/",
+      "players": [
+        {
+          "name": "Luiz Júnior",
+          "profileName": "Luiz Júnior",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Rubén Gómez",
+          "profileName": "Rubén Gómez",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Péter Gulácsi",
+          "profileName": "Gulácsi",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "HUN"
+        },
+        {
+          "name": "Yakiv Kinareikin",
+          "profileName": "Kinareikin",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "UKR",
+          "uefaId": "250175645",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250175645--yakiv-kinareikin/",
+          "birthDate": "2003-10-22"
+        },
+        {
+          "name": "Logan Costa",
+          "profileName": "Logan Costa",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "CPV"
+        },
+        {
+          "name": "Alex Freeman",
+          "profileName": "Freeman",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "USA"
+        },
+        {
+          "name": "Pau Navarro",
+          "profileName": "Pau Navarro",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Juan Foyth",
+          "profileName": "Foyth",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Renato Veiga",
+          "profileName": "Renato Veiga",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "POR"
+        },
+        {
+          "name": "Santiago Mouriño",
+          "profileName": "Mouriño",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "URU"
+        },
+        {
+          "name": "Carlos Romero",
+          "profileName": "Carlos Romero",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Sergi Cardona",
+          "profileName": "Sergi Cardona",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Alberto Moleiro",
+          "profileName": "Alberto Moleiro",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Santi Comesaña",
+          "profileName": "Santi Comesaña",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Carlos Macià",
+          "profileName": "Carlos Macià",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Pape Gueye",
+          "profileName": "Gueye",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SEN"
+        },
+        {
+          "name": "Tani Oluwaseyi",
+          "profileName": "Oluwaseyi",
+          "role": "FWD",
+          "sourceRole": "MID",
+          "nationality": "CAN"
+        },
+        {
+          "name": "Nathan Saliba",
+          "profileName": "Saliba",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "CAN"
+        },
+        {
+          "name": "Nizar El Jmili",
+          "profileName": "El Jmili",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP",
+          "uefaId": "250224969",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250224969--nizar-el-jmili/",
+          "birthDate": "2004-11-30"
+        },
+        {
+          "name": "Gerard Moreno",
+          "profileName": "Gerard Moreno",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Georges Mikautadze",
+          "profileName": "Mikautadze",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GEO"
+        },
+        {
+          "name": "Ilias Akhomach",
+          "profileName": "Akhomach",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "MAR"
+        },
+        {
+          "name": "Tajon Buchanan",
+          "profileName": "Buchanan",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "CAN"
+        },
+        {
+          "name": "Nicolas Pépé",
+          "profileName": "Pépé",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "CIV"
+        },
+        {
+          "name": "Ayoze Pérez",
+          "profileName": "Ayoze Pérez",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        }
+      ]
+    },
+    {
+      "club": "Atlético Madrid",
+      "slug": "atletico",
+      "country": "ESP",
+      "color": "#d93a4c",
+      "rating": 87,
+      "budgetGbp": 60000000,
+      "providerNames": [
+        "atletico"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50124--atleti/",
+      "players": [
+        {
+          "name": "Juan Musso",
+          "profileName": "Musso",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Jan Oblak",
+          "profileName": "Oblak",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "SVN"
+        },
+        {
+          "name": "Dávid Hancko",
+          "profileName": "Hancko",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "SVK"
+        },
+        {
+          "name": "Marc Pubill",
+          "profileName": "Marc Pubill",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Cristian Romero",
+          "profileName": "Romero",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Alejandro Grimaldo",
+          "profileName": "Grimaldo",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Robin Le Normand",
+          "profileName": "Le Normand",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Dani Martínez",
+          "profileName": "Dani Martínez",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Arnau Solà",
+          "profileName": "Arnau Solà",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Obed Vargas",
+          "profileName": "Vargas",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "MEX"
+        },
+        {
+          "name": "Rodrigo Mendoza",
+          "profileName": "Mendoza",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Johnny Cardoso",
+          "profileName": "Cardoso",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "USA"
+        },
+        {
+          "name": "Koke",
+          "profileName": "Koke",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Kang-in Lee",
+          "profileName": "Kang-in Lee",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "KOR"
+        },
+        {
+          "name": "Pablo Barrios",
+          "profileName": "Barrios",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Álex Baena",
+          "profileName": "Álex Baena",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Marcos Llorente",
+          "profileName": "Llorente",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Morten Hjulmand",
+          "profileName": "Hjulmand",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "DEN"
+        },
+        {
+          "name": "Alexander Sørloth",
+          "profileName": "Sørloth",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "NOR"
+        },
+        {
+          "name": "Ademola Lookman",
+          "profileName": "Lookman",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "NGA"
+        },
+        {
+          "name": "Jonathan David",
+          "profileName": "David",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "CAN"
+        },
+        {
+          "name": "Arnau Ortiz",
+          "profileName": "Arnau Ortiz",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP",
+          "uefaId": "250197651",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250197651--arnau-ortiz/",
+          "birthDate": "2001-10-29"
+        },
+        {
+          "name": "Julián Alvarez",
+          "profileName": "Alvarez",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Giuliano Simeone",
+          "profileName": "Simeone",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        }
+      ]
+    },
+    {
+      "club": "Bayern Munich",
+      "slug": "bayern",
+      "country": "GER",
+      "color": "#de3346",
+      "rating": 90,
+      "budgetGbp": 90000000,
+      "providerNames": [
+        "bayern"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50037--bayern-munchen/",
+      "players": [
+        {
+          "name": "Manuel Neuer",
+          "profileName": "Neuer",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Sven Ulreich",
+          "profileName": "Ulreich",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Jonas Urbig",
+          "profileName": "Urbig",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "profileName": "Upamecano",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Minjae Kim",
+          "profileName": "Minjae Kim",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "KOR"
+        },
+        {
+          "name": "Jonathan Tah",
+          "profileName": "Tah",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "profileName": "Brown",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Hiroki Ito",
+          "profileName": "H. Ito",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "JPN"
+        },
+        {
+          "name": "Sacha Boey",
+          "profileName": "Boey",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Josip Stanišić",
+          "profileName": "Stanišić",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "CRO"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "profileName": "Kimmich",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Tom Bischof",
+          "profileName": "Bischof",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Jamal Musiala",
+          "profileName": "Musiala",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Michael Olise",
+          "profileName": "Olise",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Alphonso Davies",
+          "profileName": "Davies",
+          "role": "DEF",
+          "sourceRole": "MID",
+          "nationality": "CAN"
+        },
+        {
+          "name": "Konrad Laimer",
+          "profileName": "Laimer",
+          "role": "DEF",
+          "sourceRole": "MID",
+          "nationality": "AUT"
+        },
+        {
+          "name": "Ismael Saibari",
+          "profileName": "Saibari",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "MAR"
+        },
+        {
+          "name": "Bara Sapoko Ndiaye",
+          "profileName": "Sapoko Ndiaye",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SEN"
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "profileName": "Pavlović",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Serge Gnabry",
+          "profileName": "Gnabry",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Harry Kane",
+          "profileName": "Kane",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Luis Díaz",
+          "profileName": "Luis Díaz",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "COL"
+        },
+        {
+          "name": "Bastian Assomo",
+          "profileName": "Assomo",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Maycon Cardozo",
+          "profileName": "Cardozo",
+          "role": "DEF",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        }
+      ]
+    },
+    {
+      "club": "Borussia Dortmund",
+      "slug": "dortmund",
+      "country": "GER",
+      "color": "#f4df3c",
+      "rating": 85,
+      "budgetGbp": 50000000,
+      "providerNames": [
+        "dortmund"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/52758--b-dortmund/",
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "profileName": "Kobel",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "SUI"
+        },
+        {
+          "name": "Patrick Drewes",
+          "profileName": "Drewes",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Silas Ostrzinski",
+          "profileName": "Ostrzinski",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Alexander Meyer",
+          "profileName": "Meyer",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Waldemar Anton",
+          "profileName": "Anton",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "profileName": "Schlotterbeck",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Ramy Bensebaini",
+          "profileName": "Bensebaini",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ALG"
+        },
+        {
+          "name": "Joane Gadou",
+          "profileName": "Gadou",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Daniel Svensson",
+          "profileName": "Svensson",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "SWE"
+        },
+        {
+          "name": "Julian Ryerson",
+          "profileName": "Ryerson",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "NOR"
+        },
+        {
+          "name": "Kauã Prates",
+          "profileName": "Kauã Prates",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Filippo Mane",
+          "profileName": "Mane",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Jobe Bellingham",
+          "profileName": "Bellingham",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Felix Nmecha",
+          "profileName": "Nmecha",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Carney Chukwuemeka",
+          "profileName": "Chukwuemeka",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "AUT"
+        },
+        {
+          "name": "Ethan Nwaneri",
+          "profileName": "Nwaneri",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "profileName": "Sabitzer",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "AUT"
+        },
+        {
+          "name": "Joey Veerman",
+          "profileName": "Veerman",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "NED"
+        },
+        {
+          "name": "Enzo Dos Santos",
+          "profileName": "Enzo Dos Santos",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "LUX"
+        },
+        {
+          "name": "Mussa Kaba",
+          "profileName": "Kaba",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Serhou Guirassy",
+          "profileName": "Guirassy",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GUI"
+        },
+        {
+          "name": "Maximilian Beier",
+          "profileName": "Beier",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Konstantinos Karetsas",
+          "profileName": "Karetsas",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GRE"
+        },
+        {
+          "name": "Fábio Silva",
+          "profileName": "Fábio Silva",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "POR"
+        }
+      ]
+    },
+    {
+      "club": "RB Leipzig",
+      "slug": "leipzig",
+      "country": "GER",
+      "color": "#e6edf8",
+      "rating": 84,
+      "budgetGbp": 45000000,
+      "providerNames": [
+        "leipzig"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/2603790--leipzig/",
+      "players": [
+        {
+          "name": "Ørjan Nyland",
+          "profileName": "Nyland",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "NOR"
+        },
+        {
+          "name": "Maarten Vandevoordt",
+          "profileName": "Vandevoordt",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Abdoul Kone",
+          "profileName": "Kone",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Willi Orbán",
+          "profileName": "Orbán",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "HUN"
+        },
+        {
+          "name": "Lukas Klostermann",
+          "profileName": "Klostermann",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "David Raum",
+          "profileName": "Raum",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Castello Lukeba",
+          "profileName": "Lukeba",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Max Finkgräfe",
+          "profileName": "Finkgräfe",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Benjamin Henrichs",
+          "profileName": "Henrichs",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Maxime Estève",
+          "profileName": "Estève",
+          "role": "DEF",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Ezechiel Banzuzi",
+          "profileName": "Banzuzi",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "NED"
+        },
+        {
+          "name": "Nicolas Seiwald",
+          "profileName": "Seiwald",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "AUT"
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "profileName": "Baumgartner",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "AUT"
+        },
+        {
+          "name": "Ridle Baku",
+          "profileName": "Baku",
+          "role": "DEF",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Rocco Reitz",
+          "profileName": "Reitz",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Neil El Aynaoui",
+          "profileName": "El Aynaoui",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "MAR"
+        },
+        {
+          "name": "Christopher Nkunku",
+          "profileName": "Nkunku",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Brajan Gruda",
+          "profileName": "Gruda",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Johan Bakayoko",
+          "profileName": "Bakayoko",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Tidiam Gomis",
+          "profileName": "Gomis",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Rômulo Cardoso",
+          "profileName": "Cardoso",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA",
+          "uefaId": "250221087",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250221087--romulo-cardoso/",
+          "birthDate": "2002-02-08"
+        }
+      ]
+    },
+    {
+      "club": "Stuttgart",
+      "slug": "stuttgart",
+      "country": "GER",
+      "color": "#e9edf4",
+      "rating": 80,
+      "budgetGbp": 35000000,
+      "providerNames": [
+        "stuttgart"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50107--stuttgart/",
+      "players": [
+        {
+          "name": "Fabian Bredlow",
+          "profileName": "Bredlow",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER"
+        },
+        {
+          "name": "Marius Funk",
+          "profileName": "Funk",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "GER",
+          "uefaId": "250058261",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250058261--marius-funk/",
+          "birthDate": "1996-01-01"
+        },
+        {
+          "name": "Ameen Al-Dakhil",
+          "profileName": "Al-Dakhil",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Ramon Hendriks",
+          "profileName": "Hendriks",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "NED"
+        },
+        {
+          "name": "Josha Vagnoman",
+          "profileName": "Vagnoman",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Maximilian Mittelstädt",
+          "profileName": "Mittelstädt",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Luca Jaquez",
+          "profileName": "Jaquez",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "SUI"
+        },
+        {
+          "name": "Lorenz Assignon",
+          "profileName": "Assignon",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Jeff Chabot",
+          "profileName": "Chabot",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Alexander Groiß",
+          "profileName": "Groiß",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Dominik Nothnagel",
+          "profileName": "Nothnagel",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Angelo Stiller",
+          "profileName": "Stiller",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Ermedin Demirović",
+          "profileName": "Demirović",
+          "role": "FWD",
+          "sourceRole": "MID",
+          "nationality": "BIH"
+        },
+        {
+          "name": "Chris Führich",
+          "profileName": "Führich",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Bilal El Khannouss",
+          "profileName": "El Khannouss",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "MAR"
+        },
+        {
+          "name": "Atakan Karazor",
+          "profileName": "Atakan Karazor",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "TUR"
+        },
+        {
+          "name": "Grischa Prömel",
+          "profileName": "Prömel",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Nikolas Nartey",
+          "profileName": "Nartey",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "DEN"
+        },
+        {
+          "name": "Finn Jeltsch",
+          "profileName": "Jeltsch",
+          "role": "DEF",
+          "sourceRole": "MID",
+          "nationality": "GER"
+        },
+        {
+          "name": "Leo Sauer",
+          "profileName": "Sauer",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SVK"
+        },
+        {
+          "name": "Tiago Tomás",
+          "profileName": "Tiago Tomás",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "POR"
+        },
+        {
+          "name": "Dženan Pejčinović",
+          "profileName": "Pejčinović",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Jamie Leweling",
+          "profileName": "Leweling",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        },
+        {
+          "name": "Deniz Undav",
+          "profileName": "Undav",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GER"
+        }
+      ]
+    },
+    {
+      "club": "Inter",
+      "slug": "inter",
+      "country": "ITA",
+      "color": "#3673d9",
+      "rating": 88,
+      "budgetGbp": 60000000,
+      "providerNames": [
+        "internazionale",
+        "inter mailand"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50138--inter/",
+      "players": [
+        {
+          "name": "Josep Martínez",
+          "profileName": "Martínez",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Raffaele Di Gennaro",
+          "profileName": "Di Gennaro",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Ivan Provedel",
+          "profileName": "Provedel",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA"
+        },
+        {
+          "name": "John Stones",
+          "profileName": "Stones",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Manuel Akanji",
+          "profileName": "Akanji",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "SUI"
+        },
+        {
+          "name": "Benjamin Pavard",
+          "profileName": "Pavard",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Carlos Augusto",
+          "profileName": "Carlos Augusto",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Yann Bisseck",
+          "profileName": "Bisseck",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Federico Dimarco",
+          "profileName": "Dimarco",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Mattia Marello",
+          "profileName": "Marello",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Alessandro Bastoni",
+          "profileName": "Bastoni",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Djed Spence",
+          "profileName": "Spence",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Piotr Zieliński",
+          "profileName": "Zieliński",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "POL"
+        },
+        {
+          "name": "Petar Sučić",
+          "profileName": "Sučić",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "CRO"
+        },
+        {
+          "name": "Andy Diouf",
+          "profileName": "Diouf",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "profileName": "Hakan Çalhanoğlu",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "TUR"
+        },
+        {
+          "name": "Curtis Jones",
+          "profileName": "Jones",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Henrikh Mkhitaryan",
+          "profileName": "Mkhitaryan",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ARM"
+        },
+        {
+          "name": "Nicolò Barella",
+          "profileName": "Barella",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Marcus Thuram",
+          "profileName": "M. Thuram",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "profileName": "L. Martínez",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Luis Henrique",
+          "profileName": "Luis Henrique",
+          "role": "MID",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Ange-Yoan Bonny",
+          "profileName": "Bonny",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "CIV"
+        }
+      ]
+    },
+    {
+      "club": "Napoli",
+      "slug": "napoli",
+      "country": "ITA",
+      "color": "#56b1e0",
+      "rating": 86,
+      "budgetGbp": 55000000,
+      "providerNames": [
+        "napoli"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/",
+      "players": [
+        {
+          "name": "Alex Meret",
+          "profileName": "Meret",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Nikita Contini",
+          "profileName": "Contini",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Vanja Milinković-Savić",
+          "profileName": "V. Milinković-Savić",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "SRB"
+        },
+        {
+          "name": "Benoît Badiashile",
+          "profileName": "Badiashile",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Amir Rrahmani",
+          "profileName": "Am. Rrahmani",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "KOS"
+        },
+        {
+          "name": "Rafa Marín",
+          "profileName": "Rafa Marín",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Mathías Olivera",
+          "profileName": "Olivera",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "URU"
+        },
+        {
+          "name": "Giovanni Di Lorenzo",
+          "profileName": "Di Lorenzo",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Sam Beukema",
+          "profileName": "Beukema",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "NED"
+        },
+        {
+          "name": "Leonardo Spinazzola",
+          "profileName": "Spinazzola",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Billy Gilmour",
+          "profileName": "Gilmour",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SCO"
+        },
+        {
+          "name": "Scott McTominay",
+          "profileName": "McTominay",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SCO"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "profileName": "De Bruyne",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Stanislav Lobotka",
+          "profileName": "Lobotka",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "SVK"
+        },
+        {
+          "name": "Frank Anguissa",
+          "profileName": "Anguissa",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "CMR"
+        },
+        {
+          "name": "David Neres",
+          "profileName": "Neres",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Rasmus Højlund",
+          "profileName": "Højlund",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "DEN"
+        },
+        {
+          "name": "Lorenzo Lucca",
+          "profileName": "Lucca",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Matteo Politano",
+          "profileName": "Politano",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Giovane",
+          "profileName": "Giovane",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Antonio Vergara",
+          "profileName": "Vergara",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Alisson Santos",
+          "profileName": "Alisson Santos",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Noa Lang",
+          "profileName": "Lang",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "NED"
+        }
+      ]
+    },
+    {
+      "club": "Roma",
+      "slug": "roma",
+      "country": "ITA",
+      "color": "#a02c42",
+      "rating": 84,
+      "budgetGbp": 45000000,
+      "providerNames": [
+        "roma"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/50137--roma/",
+      "players": [
+        {
+          "name": "Devis Vasquez",
+          "profileName": "Vasquez",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "COL"
+        },
+        {
+          "name": "Pierluigi Gollini",
+          "profileName": "Gollini",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Devyne Rensch",
+          "profileName": "Rensch",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "NED"
+        },
+        {
+          "name": "Konstantinos Koulierakis",
+          "profileName": "Koulierakis",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GRE"
+        },
+        {
+          "name": "Evan N'Dicka",
+          "profileName": "N'Dicka",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "CIV"
+        },
+        {
+          "name": "Nahuel Molina",
+          "profileName": "Molina",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Mario Hermoso",
+          "profileName": "Hermoso",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Gianluca Mancini",
+          "profileName": "Mancini",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Leonardo Balerdi",
+          "profileName": "Balerdi",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Wesley França",
+          "profileName": "Wesley França",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA",
+          "uefaId": "250212323",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250212323--wesley-franca/",
+          "birthDate": "2003-09-06"
+        },
+        {
+          "name": "Emanuele Lulli",
+          "profileName": "Lulli",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Daniele Ghilardi",
+          "profileName": "Ghilardi",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Bryan Cristante",
+          "profileName": "Cristante",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Lorenzo Pellegrini",
+          "profileName": "Pellegrini",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Marten de Roon",
+          "profileName": "De Roon",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "NED"
+        },
+        {
+          "name": "Manu Koné",
+          "profileName": "Koné",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Niccolò Pisilli",
+          "profileName": "Pisilli",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Santiago Castro",
+          "profileName": "Castro",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Donyell Malen",
+          "profileName": "Malen",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "NED"
+        },
+        {
+          "name": "Matías Soulé",
+          "profileName": "Soulé",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Paulo Dybala",
+          "profileName": "Dybala",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Antonio Arena",
+          "profileName": "Arena",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Rodrigo Mora",
+          "profileName": "Rodrigo Mora",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "POR"
+        }
+      ]
+    },
+    {
+      "club": "Como",
+      "slug": "como",
+      "country": "ITA",
+      "color": "#3679d5",
+      "rating": 79,
+      "budgetGbp": 40000000,
+      "providerNames": [
+        "como"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/79946--como/",
+      "players": [
+        {
+          "name": "Jean Butez",
+          "profileName": "Butez",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Robert Sánchez",
+          "profileName": "Sánchez",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Marc-Oliver Kempf",
+          "profileName": "Kempf",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "GER"
+        },
+        {
+          "name": "Àlex Valle",
+          "profileName": "Valle",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Jacobo Ramón",
+          "profileName": "Ramón",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Alberto Dossena",
+          "profileName": "Dossena",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Kaiki Bruno",
+          "profileName": "Kaiki Bruno",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA",
+          "uefaId": "250218352",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250218352--kaiki-bruno/",
+          "birthDate": "2003-03-08"
+        },
+        {
+          "name": "Yan Couto",
+          "profileName": "Yan Couto",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Ivan Smolčić",
+          "profileName": "Smolčić",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "CRO"
+        },
+        {
+          "name": "Trevoh Chalobah",
+          "profileName": "Chalobah",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ENG"
+        },
+        {
+          "name": "Máximo Perrone",
+          "profileName": "Perrone",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Luis Milla",
+          "profileName": "Milla",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Lucas Da Cunha",
+          "profileName": "Da Cunha",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Maxence Caqueret",
+          "profileName": "Maxence Caqueret",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Nicolás Paz",
+          "profileName": "Paz",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ARG"
+        },
+        {
+          "name": "Martin Baturina",
+          "profileName": "Baturina",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "CRO"
+        },
+        {
+          "name": "Samuele Ricci",
+          "profileName": "Ricci",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA"
+        },
+        {
+          "name": "Mattia Liberali",
+          "profileName": "Liberali",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ITA",
+          "uefaId": "250182962",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250182962--mattia-liberali/",
+          "birthDate": "2007-04-06"
+        },
+        {
+          "name": "Tasos Douvikas",
+          "profileName": "Douvikas",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GRE",
+          "uefaId": "250116683",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250116683--tasos-douvikas/",
+          "birthDate": "1999-08-02"
+        },
+        {
+          "name": "Assane Diao",
+          "profileName": "Diao",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "SEN"
+        },
+        {
+          "name": "Moise Kean",
+          "profileName": "Kean",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ITA"
+        }
+      ]
+    },
+    {
+      "club": "Paris Saint-Germain",
+      "slug": "paris",
+      "country": "FRA",
+      "color": "#234c9f",
+      "rating": 91,
+      "budgetGbp": 100000000,
+      "providerNames": [
+        "paris"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/52747--paris/",
+      "players": [
+        {
+          "name": "Alessandro Longoni",
+          "profileName": "Longoni",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "ITA",
+          "uefaId": "250193777",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250193777--alessandro-longoni/",
+          "birthDate": "2008-01-31"
+        },
+        {
+          "name": "Lucas Chevalier",
+          "profileName": "Chevalier",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Matvei Safonov",
+          "profileName": "Safonov",
+          "role": "GK",
+          "sourceRole": "GK",
+          "nationality": "RUS",
+          "uefaId": "250090101",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250090101--matvei-safonov/",
+          "birthDate": "1999-02-25"
+        },
+        {
+          "name": "Achraf Hakimi",
+          "profileName": "Hakimi",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "MAR"
+        },
+        {
+          "name": "Lucas Beraldo",
+          "profileName": "Lucas Beraldo",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Marquinhos",
+          "profileName": "Marquinhos",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "BRA"
+        },
+        {
+          "name": "Illia Zabarnyi",
+          "profileName": "Zabarnyi",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "UKR",
+          "uefaId": "250119185",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250119185--illia-zabarnyi/",
+          "birthDate": "2002-09-01"
+        },
+        {
+          "name": "Lucas Digne",
+          "profileName": "Digne",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Lucas Hernández",
+          "profileName": "L. Hernández",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Nuno Mendes",
+          "profileName": "Nuno Mendes",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "POR"
+        },
+        {
+          "name": "Willian Pacho",
+          "profileName": "Pacho",
+          "role": "DEF",
+          "sourceRole": "DEF",
+          "nationality": "ECU"
+        },
+        {
+          "name": "Fabián Ruiz",
+          "profileName": "Fabián Ruiz",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Maghnes Akliouche",
+          "profileName": "Akliouche",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Vitinha",
+          "profileName": "Vitinha",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "POR"
+        },
+        {
+          "name": "Senny Mayulu",
+          "profileName": "Mayulu",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Dro Fernández",
+          "profileName": "Dro Fernández",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Warren Zaïre-Emery",
+          "profileName": "Zaïre-Emery",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "FRA"
+        },
+        {
+          "name": "João Neves",
+          "profileName": "João Neves",
+          "role": "MID",
+          "sourceRole": "MID",
+          "nationality": "POR"
+        },
+        {
+          "name": "Khvicha Kvaratskhelia",
+          "profileName": "Kvaratskhelia",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "GEO"
+        },
+        {
+          "name": "Ferran Torres",
+          "profileName": "Ferran Torres",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "ESP"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "profileName": "Dembélé",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Désiré Doué",
+          "profileName": "Doué",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        },
+        {
+          "name": "Mika Godts",
+          "profileName": "Godts",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "BEL"
+        },
+        {
+          "name": "Quentin Ndjantou",
+          "profileName": "Ndjantou",
+          "role": "FWD",
+          "sourceRole": "FWD",
+          "nationality": "FRA"
+        }
+      ]
+    },
+    {
+      "club": "Lens",
+      "slug": "lens",
+      "country": "FRA",
+      "color": "#e8bb36",
+      "rating": 79,
+      "budgetGbp": 30000000,
+      "providerNames": [
+        "lens"
+      ],
+      "source": "https://www.uefa.com/uefachampionsleague/clubs/52277--lens/",
+      "players": [
+        {
+          "name": "Saud Abdulhamid",
+          "profileName": "Abdulhamid",
+          "role": "DEF",
+          "uefaId": "250181167",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250181167--saud-abdulhamid/",
+          "birthDate": "1999-07-18"
+        },
+        {
+          "name": "Ruben Aguilar",
+          "profileName": "Aguilar",
+          "role": "DEF",
+          "uefaId": "250061132",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250061132--ruben-aguilar/",
+          "birthDate": "1993-04-26"
+        },
+        {
+          "name": "Kyllian Antonio",
+          "profileName": "Antonio",
+          "role": "DEF",
+          "uefaId": "250189812",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250189812--kyllian-antonio/",
+          "birthDate": "2008-01-04"
+        },
+        {
+          "name": "Samson Baidoo",
+          "profileName": "Baidoo",
+          "role": "DEF",
+          "uefaId": "250139010",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250139010--samson-baidoo/",
+          "birthDate": "2004-03-31"
+        },
+        {
+          "name": "Andrija Bulatović",
+          "profileName": "Bulatović",
+          "role": "MID",
+          "uefaId": "250173262",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250173262--andrija-bulatovic/",
+          "birthDate": "2006-12-27"
+        },
+        {
+          "name": "Čelik",
+          "profileName": "Čelik",
+          "role": "DEF"
+        },
+        {
+          "name": "Mickaël Cuisance",
+          "profileName": "Cuisance",
+          "role": "MID",
+          "uefaId": "250091018",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250091018--mickael-cuisance/",
+          "birthDate": "1999-08-16"
+        },
+        {
+          "name": "Odsonne Édouard",
+          "profileName": "Édouard",
+          "role": "FWD",
+          "uefaId": "250076641",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250076641--odsonne-edouard/",
+          "birthDate": "1998-01-16"
+        },
+        {
+          "name": "Ismaëlo Ganiou",
+          "profileName": "Ganiou",
+          "role": "DEF",
+          "uefaId": "250189553",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250189553--ismaelo-ganiou/",
+          "birthDate": "2005-03-14"
+        },
+        {
+          "name": "Gorgelin",
+          "profileName": "Gorgelin",
+          "role": "GK"
+        },
+        {
+          "name": "Jonathan Gradit",
+          "profileName": "Gradit",
+          "role": "DEF",
+          "uefaId": "250007575",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250007575--jonathan-gradit/",
+          "birthDate": "1992-11-24"
+        },
+        {
+          "name": "Régis Gurtner",
+          "profileName": "Gurtner",
+          "role": "GK",
+          "uefaId": "101529",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/101529--regis-gurtner/",
+          "birthDate": "1986-12-08"
+        },
+        {
+          "name": "Amadou Haidara",
+          "profileName": "Haidara",
+          "role": "MID",
+          "uefaId": "250102866",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250102866--amadou-haidara/",
+          "birthDate": "1998-01-31"
+        },
+        {
+          "name": "Thorgan Hazard",
+          "profileName": "Hazard",
+          "role": "MID",
+          "uefaId": "250012551",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250012551--thorgan-hazard/",
+          "birthDate": "1993-03-29"
+        },
+        {
+          "name": "Franjo Ivanović",
+          "profileName": "Ivanović",
+          "role": "FWD",
+          "uefaId": "250169350",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250169350--franjo-ivanovic/",
+          "birthDate": "2003-10-01"
+        },
+        {
+          "name": "Junior Kadile",
+          "profileName": "Kadile",
+          "role": "FWD",
+          "uefaId": "250118957",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250118957--junior-kadile/",
+          "birthDate": "2002-12-16"
+        },
+        {
+          "name": "Robin Risser",
+          "profileName": "Risser",
+          "role": "GK",
+          "uefaId": "250181514",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250181514--robin-risser/",
+          "birthDate": "2004-12-02"
+        },
+        {
+          "name": "Souleymane Sagnan",
+          "profileName": "Sagnan",
+          "role": "DEF",
+          "uefaId": "250189550",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250189550--souleymane-sagnan/",
+          "birthDate": "2005-05-06"
+        },
+        {
+          "name": "Abdallah Sima",
+          "profileName": "Sima",
+          "role": "FWD",
+          "uefaId": "250147342",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250147342--abdallah-sima/",
+          "birthDate": "2001-06-17"
+        },
+        {
+          "name": "Michał Skóraś",
+          "profileName": "Skóraś",
+          "role": "FWD",
+          "uefaId": "250105686",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250105686--michal-skoras/",
+          "birthDate": "2000-02-15"
+        },
+        {
+          "name": "Florian Sotoca",
+          "profileName": "Sotoca",
+          "role": "FWD",
+          "uefaId": "250186121",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250186121--florian-sotoca/",
+          "birthDate": "1990-10-25"
+        },
+        {
+          "name": "Florian Thauvin",
+          "profileName": "Thauvin",
+          "role": "FWD",
+          "uefaId": "250050319",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250050319--florian-thauvin/",
+          "birthDate": "1993-01-26"
+        },
+        {
+          "name": "Yacine Titraoui",
+          "profileName": "Titraoui",
+          "role": "MID",
+          "uefaId": "250209953",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250209953--yacine-titraoui/",
+          "birthDate": "2003-07-26"
+        },
+        {
+          "name": "Jean-Clair Todibo",
+          "profileName": "Todibo",
+          "role": "DEF",
+          "uefaId": "250128268",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250128268--jean-clair-todibo/",
+          "birthDate": "1999-12-30"
+        },
+        {
+          "name": "Matthieu Udol",
+          "profileName": "Udol",
+          "role": "DEF",
+          "uefaId": "250221057",
+          "identitySource": "https://www.uefa.com/uefachampionsleague/clubs/players/250221057--matthieu-udol/",
+          "birthDate": "1996-03-20"
+        }
+      ]
+    }
+  ]
+}

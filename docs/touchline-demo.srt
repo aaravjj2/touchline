@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:11,626
+Touchline brings club management and playable football together in one browser sandbox. This is the actual public build, using original stadium artwork and a credited free character rig.
+
+2
+00:00:11,626 --> 00:00:24,426
+Choose management, drafting, player career or training. No account or paid AI service is needed. This walkthrough uses a deliberately prepared demo career, separate from personal saves.
+
+3
+00:00:24,426 --> 00:00:36,680
+Harbour Athletic is an original club. The Office puts its next fixture and preparation action first. This league and cup are a fictional sandbox; real squad data remains unverified.
+
+4
+00:00:36,680 --> 00:00:48,695
+Squad planning shows natural position cover rather than treating every attacker as interchangeable. Review the available players and the gaps before deciding whether to recruit or retain your squad.
+
+5
+00:00:48,695 --> 00:01:02,297
+Match preparation offers three choices together: play yourself, manage live, or simulate. Practise the controls without changing a career. Formation and readiness stay visible beside the next action.
+
+6
+00:01:02,297 --> 00:01:16,307
+This is live keyboard input in the football simulation. Move with the direction keys, pass with J and shoot with L. Requests and actual actions are distinguished; a button press does not guarantee success.
+
+7
+00:01:16,307 --> 00:01:28,309
+Now we leave an unfinished fixture and reload the page. The saved match can be resumed. Presentation changes do not replace its recorded inputs or silently advance the career.
+
+8
+00:01:28,309 --> 00:01:40,314
+We resume that fixture and explicitly simulate the remainder. The result comes from the game engine. This transition is fast simulation, not ninety minutes of recorded live play.
+
+9
+00:01:40,314 --> 00:01:52,737
+The recap reports the recorded result, competition progress and material club changes. It does not invent a tactical explanation. We can return to the Office and continue the same career.
+
+10
+00:01:52,737 --> 00:02:05,465
+Settings provides save export, import and recovery. Here we export this disposable demo career. Progress is local to the device, and no private player save is included in the repository.
+
+11
+00:02:05,465 --> 00:02:18,475
+The training ground repeats the same short scenario using original practice players. A pass is reported as played only after it happens. You can retry without changing the club's season.
+
+12
+00:02:18,475 --> 00:02:31,366
+Draft and Europe reveals a club and era, then keeps eligible picks and the starting eleven together. These are authored game ratings and generated figures, not verified valuations or authentic player photographs.
+
+13
+00:02:31,366 --> 00:02:46,374
+The public edition passes two hundred seventy one unit tests and ninety nine browser journeys. These are automated checks, not human enjoyment or physical phone certification. Live AI and controller support remain disabled or unsupported.

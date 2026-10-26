@@ -1,0 +1,64 @@
+[
+  {
+    "id": "super-barcelona-250194007",
+    "field": "positions",
+    "value": [
+      "LW"
+    ],
+    "effective": "2025-06-03",
+    "source": "https://www.uefa.com/under17/news/029a-1dedaf7617c0-1ad2367240dd-1000--2025-u17-euro-team-of-the-tournament/",
+    "note": "UEFA technical observers explicitly select Bisiwu at left winger. No striker or right-wing eligibility inferred."
+  },
+  {
+    "id": "super-lens-250091018",
+    "field": "positions",
+    "value": [
+      "CM",
+      "AM",
+      "RW"
+    ],
+    "effective": "2026-06-26",
+    "source": "https://www.rclens.fr/fr/rclens-michael-cuisance-arrivee-mercato-20262027",
+    "note": "Official signing biography describes relayeur (central midfield), right wing and playmaker roles before arrival. Double-pivot participation alone is not used to add DM."
+  },
+  {
+    "id": "super-lens-250091018",
+    "field": "birthDate",
+    "value": "1999-08-16",
+    "effective": "1999-08-16",
+    "source": "https://www.rclens.fr/fr/michael-cuisance",
+    "note": "Official personal details give 16 August 1999. Stable birth date only; UEFA identity mapping remains a separate claim."
+  },
+  {
+    "id": "super-lens-250091018",
+    "field": "ownership",
+    "value": "super-lens",
+    "effective": "2026-06-26",
+    "source": "https://www.rclens.fr/fr/rclens-michael-cuisance-arrivee-mercato-20262027",
+    "note": "Official 26 June signing from Hertha; published expiry is year 2030 only. No exact day, wage or registration completion inferred."
+  },
+  {
+    "id": "super-villarreal-250224969",
+    "field": "birthDate",
+    "value": "2004-11-30",
+    "effective": "2004-11-30",
+    "source": "https://villarrealcf.es/es/el-villarreal-cf-renueva-a-nizar-el-jmili/",
+    "note": "Official 12 May renewal biography names Nizar El Jmili Ben Hamou and gives 30 November 2004. No provider ID claim inferred."
+  },
+  {
+    "id": "super-villarreal-250224969",
+    "field": "ownership",
+    "value": "super-villarreal",
+    "effective": "2026-05-12",
+    "source": "https://villarrealcf.es/es/el-villarreal-cf-renueva-a-nizar-el-jmili/",
+    "note": "Pre-cutoff renewal states June 2027. Do not backdate the separate October 2030 extension or assume a winger side."
+  },
+  {
+    "id": "super-inter-mattiamarello",
+    "field": "ownership",
+    "value": "super-inter",
+    "effective": "2026-06-16",
+    "source": "https://www.inter.it/en/news/inter-complete-the-permanent-signing-of-mattia-marello",
+    "note": "Inter explicitly exercised the option to make the Udinese transfer permanent on 16 June. Broad defender label does not establish a precise natural position."
+  }
+]

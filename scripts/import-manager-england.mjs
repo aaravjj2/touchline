@@ -1,0 +1,13 @@
+import {writeFile,mkdir,readFile} from 'node:fs/promises';
+import {validateManagerDataset} from '../dist/manager-datasets.js';
+import {applyManagerCuration} from './manager-import.mjs';
+const source='https://fantasy.premierleague.com/api/bootstrap-static/';
+const response=await fetch(source);if(!response.ok)throw Error('Official source returned '+response.status);
+const raw=await response.json(),clamp=(n,a,b)=>Math.max(a,Math.min(b,n));
+if(raw.teams?.length!==20||!Array.isArray(raw.elements))throw Error('Unexpected official source format.');
+if(new Date(raw.events?.[0]?.deadline_time).getUTCFullYear()!==2026)throw Error('Source no longer describes the selected 2026–27 season.');
+const role={1:'GK',2:'DEF',3:'MID',4:'FWD'};
+const data={version:1,id:'eng-2026',league:'England',season:'2026–27',checked:new Date().toISOString(),expectedClubCount:20,source,coverage:'Official Fantasy Premier League player pool; not a claim of complete registered academy squads.',ratingProvenance:'Touchline authored cost-based starting profile, not EA ratings or official performance predictions.',clubs:raw.teams.map(t=>({id:'eng:'+t.id,name:t.name,source,players:raw.elements.filter(p=>p.team===t.id&&!p.removed).map(p=>{const position=role[p.element_type],rating=Math.round(clamp(64+(p.now_cost-40)*.4,60,96));return {id:p.opta_code||'fpl:'+p.code,name:p.first_name+' '+p.second_name,birthDate:p.birth_date||null,role:position,source,ratingSource:'Touchline authored cost-based profile',rating,attack:position==='FWD'?rating:position==='MID'?rating-5:rating-20,defense:['GK','DEF'].includes(position)?rating:position==='MID'?rating-8:rating-24,control:position==='MID'?rating:rating-7,stamina:80};})}))};
+const curated=applyManagerCuration(data,JSON.parse(await readFile('data/manager/england-2026-overrides.json','utf8')),JSON.parse(await readFile('data/manager/england-2026-registration-audit.json','utf8')));
+const validation=validateManagerDataset(curated);await mkdir('data/manager',{recursive:true});await writeFile('data/manager/england-2026-candidate.json',JSON.stringify(curated,null,2)+'\n');await writeFile('data/manager/england-2026-validation.json',JSON.stringify(validation,null,2)+'\n');
+console.log(JSON.stringify({ready:validation.ready,clubs:validation.clubs,players:validation.players,errors:validation.errors}));

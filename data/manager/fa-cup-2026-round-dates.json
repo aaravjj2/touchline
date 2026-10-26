@@ -1,0 +1,23 @@
+{
+  "season": "2026–27",
+  "checked": "2026-10-21",
+  "source": "https://www.thefa.com/competitions//thefacup//round-dates",
+  "status": "dates-only-not-playable",
+  "note": "Published round dates are planning anchors. Entrants, entry rounds, tie rules and playable squads still require verification. This file does not unlock the cup.",
+  "rounds": [
+    {"name":"Extra preliminary", "date":"2026-08-08"},
+    {"name":"Preliminary", "date":"2026-08-22"},
+    {"name":"First qualifying", "date":"2026-09-05"},
+    {"name":"Second qualifying", "date":"2026-09-19"},
+    {"name":"Third qualifying", "date":"2026-10-03"},
+    {"name":"Fourth qualifying", "date":"2026-10-17"},
+    {"name":"First proper", "date":"2026-11-07"},
+    {"name":"Second proper", "date":"2026-12-05"},
+    {"name":"Third proper", "date":"2027-01-09"},
+    {"name":"Fourth proper", "date":"2027-02-13"},
+    {"name":"Fifth proper", "date":"2027-03-06"},
+    {"name":"Quarter-final", "date":"2027-04-03"},
+    {"name":"Semi-final", "date":"2027-04-24"},
+    {"name":"Final", "date":"2027-05-22"}
+  ]
+}

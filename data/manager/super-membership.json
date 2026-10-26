@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "id": "super-2026",
+  "checked": "2026-10-21",
+  "qualificationSeason": "2025–26",
+  "playingSeason": "2026–27",
+  "sources": {
+    "ENG": "https://www.premierleague.com/en/news/4668605/everything-thats-been-decided-in-202526-premier-league",
+    "ESP": "https://as.com/resultados/futbol/primera/2025_2026/clasificacion/",
+    "GER": "https://www.bundesliga.com/en/bundesliga/table/2025-2026",
+    "ITA": "https://www.legaseriea.it/serie-a/news/numeri-e-statistiche-della-serie-a-enilive-2025-2026",
+    "FRA": "https://www.uefa.com/uefachampionsleague/news/02a9-2182ea52f5a1-aaf47bf86374-1000--lens-in-the-2026-27-champions-league-what-are-their-fixtu/"
+  },
+  "quotas": {
+    "ENG": 6,
+    "ESP": 4,
+    "GER": 4,
+    "ITA": 4,
+    "FRA": 2
+  },
+  "clubs": [
+    {
+      "club": "Arsenal",
+      "country": "ENG",
+      "domesticRank": 1,
+      "budgetGbp": 90000000,
+      "objectiveRank": 6,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Manchester City",
+      "country": "ENG",
+      "domesticRank": 2,
+      "budgetGbp": 100000000,
+      "objectiveRank": 6,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Manchester United",
+      "country": "ENG",
+      "domesticRank": 3,
+      "budgetGbp": 75000000,
+      "objectiveRank": 12,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Aston Villa",
+      "country": "ENG",
+      "domesticRank": 4,
+      "budgetGbp": 50000000,
+      "objectiveRank": 12,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Liverpool",
+      "country": "ENG",
+      "domesticRank": 5,
+      "budgetGbp": 90000000,
+      "objectiveRank": 12,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Bournemouth",
+      "country": "ENG",
+      "domesticRank": 6,
+      "budgetGbp": 35000000,
+      "objectiveRank": 12,
+      "priority": "Build depth for a stronger weekly schedule"
+    },
+    {
+      "club": "Barcelona",
+      "country": "ESP",
+      "domesticRank": 1,
+      "budgetGbp": 90000000,
+      "objectiveRank": 6,
+      "priority": "Recruit versatile midfield and defensive cover"
+    },
+    {
+      "club": "Real Madrid",
+      "country": "ESP",
+      "domesticRank": 2,
+      "budgetGbp": 100000000,
+      "objectiveRank": 6,
+      "priority": "Recruit versatile midfield and defensive cover"
+    },
+    {
+      "club": "Villarreal",
+      "country": "ESP",
+      "domesticRank": 3,
+      "budgetGbp": 35000000,
+      "objectiveRank": 12,
+      "priority": "Recruit versatile midfield and defensive cover"
+    },
+    {
+      "club": "Atlético Madrid",
+      "country": "ESP",
+      "domesticRank": 4,
+      "budgetGbp": 60000000,
+      "objectiveRank": 12,
+      "priority": "Recruit versatile midfield and defensive cover"
+    },
+    {
+      "club": "Bayern Munich",
+      "country": "GER",
+      "domesticRank": 1,
+      "budgetGbp": 90000000,
+      "objectiveRank": 6,
+      "priority": "Improve ball retention and rotation"
+    },
+    {
+      "club": "Borussia Dortmund",
+      "country": "GER",
+      "domesticRank": 2,
+      "budgetGbp": 50000000,
+      "objectiveRank": 6,
+      "priority": "Improve ball retention and rotation"
+    },
+    {
+      "club": "RB Leipzig",
+      "country": "GER",
+      "domesticRank": 3,
+      "budgetGbp": 45000000,
+      "objectiveRank": 12,
+      "priority": "Improve ball retention and rotation"
+    },
+    {
+      "club": "Stuttgart",
+      "country": "GER",
+      "domesticRank": 4,
+      "budgetGbp": 35000000,
+      "objectiveRank": 12,
+      "priority": "Improve ball retention and rotation"
+    },
+    {
+      "club": "Inter",
+      "country": "ITA",
+      "domesticRank": 1,
+      "budgetGbp": 60000000,
+      "objectiveRank": 6,
+      "priority": "Add pace and squad depth"
+    },
+    {
+      "club": "Napoli",
+      "country": "ITA",
+      "domesticRank": 2,
+      "budgetGbp": 55000000,
+      "objectiveRank": 6,
+      "priority": "Add pace and squad depth"
+    },
+    {
+      "club": "Roma",
+      "country": "ITA",
+      "domesticRank": 3,
+      "budgetGbp": 45000000,
+      "objectiveRank": 12,
+      "priority": "Add pace and squad depth"
+    },
+    {
+      "club": "Como",
+      "country": "ITA",
+      "domesticRank": 4,
+      "budgetGbp": 40000000,
+      "objectiveRank": 12,
+      "priority": "Add pace and squad depth"
+    },
+    {
+      "club": "Paris Saint-Germain",
+      "country": "FRA",
+      "domesticRank": 1,
+      "budgetGbp": 100000000,
+      "objectiveRank": 6,
+      "priority": "Protect key players and strengthen the bench"
+    },
+    {
+      "club": "Lens",
+      "country": "FRA",
+      "domesticRank": 2,
+      "budgetGbp": 30000000,
+      "objectiveRank": 12,
+      "priority": "Protect key players and strengthen the bench"
+    }
+  ]
+}

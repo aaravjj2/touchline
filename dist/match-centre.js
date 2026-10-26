@@ -1,0 +1,24 @@
+import {WORLD_PACKS} from './super-catalog.js';
+import {positionTeam,selectSquad} from './europe-clubs.js';
+import {fixtureDefinition} from './fixture-engine.js';
+import {playFixture} from './fixture-player.js';
+import {escapeHtml as esc,clubBadge} from './ui-kit.js';
+let host={},busy=false;
+const playablePacks=WORLD_PACKS.filter(p=>{try{positionTeam({name:p.club,roster:p.players});return true;}catch{return false;}});
+const realTeam=id=>{const pack=playablePacks.find(p=>p.id===id)||playablePacks[0],squad=selectSquad(pack);return positionTeam({id:pack.id,name:pack.club,color:pack.color,era:pack.era,...squad,roster:pack.players});};
+export function renderMatchCentre(){
+ const {career,fixture,pending}=host.career(),state=host.state(),home=realTeam(state.home),away=realTeam(state.away||WORLD_PACKS[1].id),options=value=>playablePacks.map(p=>`<option value="${esc(p.id)}" ${p.id===value?'selected':''}>${esc(p.club)} · ${esc(p.era)}</option>`).join('');
+ return `<section class="hero"><div><span class="eyebrow">THE TOUCHLINE</span><h1>Match <em>Centre.</em></h1><p>Your career fixture and real club exhibitions.</p></div></section>
+ <section class="card mgr-card"><header><span class="eyebrow">YOUR CAREER</span><h2>${career?esc(career.name):'Choose your club'}</h2></header>${career&&fixture?`<div class="centre-fixture">${clubBadge(career.name,career.setup?.color)}<div><strong>${esc(career.name)} ${fixture.homeGame?'vs':'at'} ${esc(fixture.opponent?.name||'Opponent')}</strong><p>${esc(fixture.competitionName||'League')} · ${esc(fixture.date||'Next fixture')}</p></div></div><button class="btn primary" data-action="eu-career-manage" ${pending&&!['career','manager-connected'].includes(pending.context)?'disabled':''}>${pending?'Resume career fixture':'Manage career fixture'}</button>`:`<p>${career?'Review your season and appointment in the club office.':'Start a manager career to see your next opponent here.'}</p>`}<button class="btn secondary" data-action="nav" data-value="dynasty">Open club office</button>${pending&&!['career','manager-connected'].includes(pending.context)?'<p>A Draft fixture is pending. Finish it in Draft & Europe first.</p>':''}</section>
+ <section class="card mgr-card"><header><span class="eyebrow">REAL CLUB EXHIBITION</span><h2>${state.pending?'Your saved exhibition':`${esc(home.name)} vs ${esc(away.name)}`}</h2></header><p>Standalone fixture · manage the home team. Only clubs with complete position-ready squads are offered. Career standings stay separate.</p><div class="centre-clubs"><label>Home club<select data-centre="home" ${state.pending?'disabled':''}>${options(home.id)}</select></label><label>Away club<select data-centre="away" ${state.pending?'disabled':''}>${options(away.id)}</select></label></div><button class="btn primary" data-action="centre-play" ${busy||(!state.pending&&home.id===away.id)?'disabled':''}>${state.pending?'Resume exhibition':'Play exhibition'}</button>${home.id===away.id&&!state.pending?'<p>Choose two different clubs.</p>':''}${state.last?`<p class="centre-last">Last exhibition: ${esc(state.last.home)} <b>${state.last.score.join(' – ')}</b> ${esc(state.last.away)}</p>`:''}</section>
+ <section class="card mgr-card"><span class="eyebrow">PRACTICE YOUR CONTROLS</span><h2>Training ground</h2><p>Repeatable passing, shooting and defending exercises with keyboard or touch.</p><button class="btn secondary" data-action="training-ground">Open training ground</button></section><details class="card mgr-card"><summary>Original practice matches & saved replays</summary><p>Your original practice XI and archived matches remain available.</p><button class="btn secondary" data-action="practice-original">Open original practice match</button></details>`;
+}
+export function installMatchCentre(callbacks){host=callbacks;
+ document.addEventListener('change',e=>{const key=e.target.dataset.centre;if(!['home','away'].includes(key))return;const state=host.state();if(state.pending)return;host.save({...state,[key]:e.target.value});host.render();});
+ document.addEventListener('click',async e=>{if(e.target.closest('[data-action]')?.dataset.action!=='centre-play'||busy)return;busy=true;try{
+  let state=host.state(),pending=state.pending;
+  if(!pending){const home=realTeam(state.home),away=realTeam(state.away||WORLD_PACKS[1].id);if(home.id===away.id)throw Error('Choose two different clubs.');pending={definition:fixtureDefinition(home,away,Date.now()%1000000),resume:null};state={...state,pending};host.save(state);}
+  const result=await playFixture({definition:pending.definition,resume:pending.resume,stakes:'Club exhibition',onCheckpoint:resume=>{state={...state,pending:{...pending,resume}};host.save(state);}});
+  if(result)host.save({...state,pending:null,last:{home:pending.definition.home.name,away:pending.definition.away.name,score:result.score}});
+ }catch(error){host.toast(error.message);}finally{busy=false;host.render();}});
+}

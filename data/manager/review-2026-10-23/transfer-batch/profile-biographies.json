@@ -1,0 +1,96 @@
+{
+  "checked": "2026-10-23",
+  "scope": "Fifteen manually reviewed official profile birth dates, supplementing the FIFA batch.",
+  "facts": [
+    {
+      "id": "super-real-madrid-raulasencio",
+      "birthDate": "2003-02-13",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/raul-asencio-del-rosario",
+      "sourceSha256": "16f73216309ba303a3a16968dd1d57111ea4cd1f4517e0cfc99eb0de0d86fc23"
+    },
+    {
+      "id": "super-real-madrid-edermilitao",
+      "birthDate": "1998-01-18",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/eder-gabriel-militao",
+      "sourceSha256": "28da0ab59ba89517d0000b96f9368b3d726ad8bc25cd17935a7129553fd660e1"
+    },
+    {
+      "id": "super-real-madrid-deanhuijsen",
+      "birthDate": "2005-04-14",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/dean-huijsen",
+      "sourceSha256": "7bcfdb214a71e730567c7c2a612a7bc5210c06a33300aee6b0d0ce5a44e2106d"
+    },
+    {
+      "id": "super-real-madrid-trentalexanderarnold",
+      "birthDate": "1998-10-07",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/trent-alexander-arnold",
+      "sourceSha256": "cd89d2987b12d4f380b6e02f3b2cc8f1c2de0427f61288b1a7b58c7cf0f44fa0"
+    },
+    {
+      "id": "super-real-madrid-alvarocarreras",
+      "birthDate": "2003-03-23",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/alvaro-fernandez-carreras",
+      "sourceSha256": "94114eaa395c4fc24a44edfeae69ee3cc91d27222ddd384ffe86adfa132cb8e8"
+    },
+    {
+      "id": "super-real-madrid-carlosespi",
+      "birthDate": "2005-07-24",
+      "source": "https://www.realmadrid.com/en-US/football/first-team/players/carlos-espi",
+      "sourceSha256": "26073a786364e264c3f3f984f74cf6279f6cfc0a95471fedd05d20d894363dc4"
+    },
+    {
+      "id": "super-barcelona-wojciechszczesny",
+      "birthDate": "1990-04-18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/3543/wojciech-szczesny",
+      "sourceSha256": "91adad6028f1f41985037bddeb83a8f44ea1ed28e8df5c29503142d12b57fb6b"
+    },
+    {
+      "id": "super-barcelona-alejandrobalde",
+      "birthDate": "2003-10-18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/68906/alejandro-balde",
+      "sourceSha256": "0f8ad2ea2fc74683e9cdd8576d55f8c161ad92fdaea78d3db9cdabf731cdc1b7"
+    },
+    {
+      "id": "super-barcelona-xaviespart",
+      "birthDate": "2007-05-21",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/141001/xavi-espart",
+      "sourceSha256": "f20248de97da34a449ddee89ade826abf8dd05c240892cbd17a1b2aa5c156acf"
+    },
+    {
+      "id": "super-barcelona-andreaschristensen",
+      "birthDate": "1996-04-10",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/4495/andreas-christensen",
+      "sourceSha256": "a78ed39d24d3919e49ef93817c3856fa31c4caf17c3aa03ae5d355149d7bccfd"
+    },
+    {
+      "id": "super-barcelona-gerardmartin",
+      "birthDate": "2002-02-26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/111861/gerard-martin",
+      "sourceSha256": "cbaa76f0fea68f15e816742f48bd469e7a82eb1fbd9cf9525c37f3a495836dc8"
+    },
+    {
+      "id": "super-barcelona-ferminlopez",
+      "birthDate": "2003-05-11",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/118929/fermin-lopez",
+      "sourceSha256": "a80bf1a0fee98a4cfb878ccca054b661d4a135dd79fef824656eb423c1339d2e"
+    },
+    {
+      "id": "super-barcelona-marcbernal",
+      "birthDate": "2007-05-26",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/141411/marc-bernal",
+      "sourceSha256": "f173135c5373eb1b48ff2a3690c3fffc339613eb2763796dcd0fd974bda48a7e"
+    },
+    {
+      "id": "super-barcelona-gabrieljesus",
+      "birthDate": "1997-04-03",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/19680/gabriel-fernando-de-jesus",
+      "sourceSha256": "1b414aafe326969e5fd4a5eace292a22d208b4cf2e9681cbd02f4d0c58f5f915"
+    },
+    {
+      "id": "super-barcelona-karimadeyemi",
+      "birthDate": "2002-01-18",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/players/52163/karim-adeyemi",
+      "sourceSha256": "f4799dc001d87ed101bdebee3c4d719406701b8bd7dd1734d120a0c4c151ea88"
+    }
+  ]
+}

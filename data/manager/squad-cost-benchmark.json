@@ -1,0 +1,119 @@
+{
+  "checked": "2026-10-21",
+  "snapshot": "2026-09-09",
+  "source": "https://football-observatory.com/IMG/sites/b5wp/2026/wp552/en/",
+  "dataUrl": "https://football-observatory.com/IMG/sites/b5wp/2026/wp552/en/data/data.js",
+  "metric": "Fees to sign current first-team players, including add-ons regardless of actual payment; not market value, annual operating cost or club enterprise value.",
+  "membership": "Only the 20 clubs in the 2026–27 Premier League snapshot; the CIES ENG filter also contains lower-division clubs, which are excluded.",
+  "fx": {
+    "date": "2026-10-20",
+    "gbpPerEur": 0.84028,
+    "source": "https://api.frankfurter.dev/v1/2026-10-20?base=EUR&symbols=GBP"
+  },
+  "meanEurMillion": 670.1899999999999,
+  "medianEurMillion": 515.85,
+  "meanGbpMillion": 563.1472532,
+  "medianGbpMillion": 433.45843800000006,
+  "clubs": [
+    {
+      "club": "Liverpool FC",
+      "sourceClubId": 31,
+      "transferCostEurMillion": 1225.7
+    },
+    {
+      "club": "Manchester City",
+      "sourceClubId": 281,
+      "transferCostEurMillion": 1208.9
+    },
+    {
+      "club": "Tottenham Hotspur",
+      "sourceClubId": 148,
+      "transferCostEurMillion": 1177.8
+    },
+    {
+      "club": "Chelsea FC",
+      "sourceClubId": 631,
+      "transferCostEurMillion": 1165.8
+    },
+    {
+      "club": "Manchester United",
+      "sourceClubId": 985,
+      "transferCostEurMillion": 1156.9
+    },
+    {
+      "club": "Arsenal FC",
+      "sourceClubId": 11,
+      "transferCostEurMillion": 1088.7
+    },
+    {
+      "club": "Newcastle United",
+      "sourceClubId": 762,
+      "transferCostEurMillion": 865.3
+    },
+    {
+      "club": "Aston Villa",
+      "sourceClubId": 405,
+      "transferCostEurMillion": 636.6
+    },
+    {
+      "club": "Brighton & Hove",
+      "sourceClubId": 1237,
+      "transferCostEurMillion": 562.1
+    },
+    {
+      "club": "Brentford FC",
+      "sourceClubId": 1148,
+      "transferCostEurMillion": 533.4
+    },
+    {
+      "club": "AFC Bournemouth",
+      "sourceClubId": 989,
+      "transferCostEurMillion": 498.3
+    },
+    {
+      "club": "Nottingham Forest",
+      "sourceClubId": 703,
+      "transferCostEurMillion": 483.2
+    },
+    {
+      "club": "Crystal Palace",
+      "sourceClubId": 873,
+      "transferCostEurMillion": 442.9
+    },
+    {
+      "club": "Ipswich Town",
+      "sourceClubId": 677,
+      "transferCostEurMillion": 427.8
+    },
+    {
+      "club": "Fulham FC",
+      "sourceClubId": 931,
+      "transferCostEurMillion": 404.6
+    },
+    {
+      "club": "Everton FC",
+      "sourceClubId": 29,
+      "transferCostEurMillion": 367.2
+    },
+    {
+      "club": "Leeds United",
+      "sourceClubId": 399,
+      "transferCostEurMillion": 355.8
+    },
+    {
+      "club": "Sunderland AFC",
+      "sourceClubId": 289,
+      "transferCostEurMillion": 316.9
+    },
+    {
+      "club": "Hull City AFC",
+      "sourceClubId": 3008,
+      "transferCostEurMillion": 243.9
+    },
+    {
+      "club": "Coventry City",
+      "sourceClubId": 990,
+      "transferCostEurMillion": 242
+    }
+  ]
+}

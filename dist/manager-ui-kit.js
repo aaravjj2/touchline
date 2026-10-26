@@ -1,0 +1,13 @@
+import {escapeHtml as esc,portraitArtwork} from './ui-kit.js';
+import {portraitFor} from './portraits.js';
+import {legend} from './legends.js';
+export const action=(name,a,value='',style='secondary',extra='')=>`<button class="btn ${style}" data-action="${a}" data-value="${esc(value)}" ${extra}>${esc(name)}</button>`;
+export const viewButton=(name,a,value='',style='secondary',extra='')=>action(name,'eu-view-'+a,value,style,extra);
+export const commandButton=(name,a,id='',value='',style='secondary')=>action(name,'eu-mg-'+a,id,style,`data-choice="${esc(value)}"`);
+export const managerCard=(kicker,title,body,classes='')=>`<section class="card mgr-card ${classes}"><header><span class="eyebrow">${esc(kicker)}</span><h2 tabindex="-1" data-view-focus>${esc(title)}</h2></header>${body}</section>`;
+export const managerColor=c=>{const value=c.setup?.color||c.competition.teams.find(t=>t.id==='user')?.color||legend(c.xi[0]).color;return /^#[0-9a-f]{6}$/i.test(value)?value:'#b6f36a';};
+export const select=(name,items,current)=>`<select name="${name}">${items.map(([id,label])=>`<option value="${esc(id)}" ${String(id)===String(current)?'selected':''}>${esc(label)}</option>`).join('')}</select>`;
+export const managerForm=(type,body,id='',c=null,name='Save changes')=>`<form data-manager-form="${type}" data-id="${esc(id)}" data-money-unit="500000">${body}<button class="btn primary" type="submit">${name}</button></form>`;
+export const managerFace=p=>{const photo=portraitFor(p);return `<div class="mgr-face">${photo?`<img src="./assets/portraits/${esc(photo.file)}" alt="" loading="lazy">`:portraitArtwork(p)}</div>`;};
+export const managerTabs=(items,current,actionName)=>`<nav class="mgr-subnav" ${actionName==='season-tab'?'role="tablist"':''} aria-label="${esc(actionName.split('-')[0])} views">${items.map(([id,name])=>viewButton(name,actionName,id,current===id?'primary':'ghost',actionName==='season-tab'?`role="tab" aria-selected="${current===id}" tabindex="${current===id?0:-1}" aria-controls="manager-season-panel" id="manager-season-tab-${id}"`:`aria-pressed="${current===id}"`)).join('')}</nav>`;
+export const energy=(c,id)=>`<span class="mgr-condition ${c.condition[id].energy<75?'needs-rest':''}">${Math.round(c.condition[id].energy)}% <span class="sr-only">energy</span></span>`;

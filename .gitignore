@@ -1,0 +1,12 @@
+node_modules/
+work/
+.env
+.env.*
+!.env.example
+.vercel/
+.openai/
+.devpost-hackathon-state.json
+playwright-report/
+test-results/
+*.log
+.DS_Store

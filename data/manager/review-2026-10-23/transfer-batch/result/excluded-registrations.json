@@ -1,0 +1,96 @@
+{
+  "scope": "Research records outside playable opening-day clubs; not lost identities, player sales or career migrations.",
+  "records": [
+    {
+      "id": "super-barcelona-dominiklivakovic",
+      "date": "2026-08-27",
+      "source": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player",
+      "note": "Barcelona's 27 August transfer from Fenerbahce is after cutoff. Retain record outside playable clubs; earlier Dinamo/Girona loans require separate dated reconstruction.",
+      "formerCandidateClub": "super-barcelona",
+      "record": {
+        "name": "Dominik Livaković",
+        "profileName": "Livaković",
+        "role": "GK",
+        "sourceRole": "GK",
+        "nationality": "CRO",
+        "rating": 83,
+        "attack": 63,
+        "defense": 83,
+        "control": 77,
+        "stamina": 82,
+        "ratingSource": "Touchline club baseline",
+        "id": "super-barcelona-dominiklivakovic",
+        "personId": "tm-205927",
+        "providerId": "205927",
+        "birthDate": "1995-01-09",
+        "club": "Barcelona",
+        "era": "2026–27",
+        "color": "#a51e46",
+        "source": "https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/",
+        "checked": "2026-10-21",
+        "cost": 15,
+        "number": 3,
+        "positions": [
+          "GK"
+        ],
+        "owner": null,
+        "registeredClub": "super-barcelona",
+        "evidence": {
+          "birthDate": {
+            "status": "verified",
+            "source": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13",
+            "effective": "1995-01-09",
+            "checked": "2026-10-23",
+            "note": "FIFA squad-list page 13, shirt 1: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+          }
+        }
+      }
+    },
+    {
+      "id": "world-sandbox-eng-p208706",
+      "date": "2026-08-08",
+      "source": "https://www.premierleague.com/en/news/4687385/the-briefing-rices-message-to-guimaraes-mourinho-latest-bellingham-watches-arsenal",
+      "note": "The league's 10 August report dates the move to the weekend and embeds Arsenal's 8 August announcement. The league's 8 August signing analysis corroborates it. Newcastle is outside the selected twenty; preserve an external research record, not an Arsenal opening registration.",
+      "formerCandidateClub": "english-eng-1",
+      "record": {
+        "id": "world-sandbox-eng-p208706",
+        "name": "Bruno Guimarães Rodriguez Moura",
+        "birthDate": "1997-11-16",
+        "role": "MID",
+        "source": "https://fantasy.premierleague.com/api/bootstrap-static/",
+        "ratingSource": "Touchline club baseline",
+        "rating": 82,
+        "attack": 77,
+        "defense": 67,
+        "control": 82,
+        "stamina": 82,
+        "owner": null,
+        "registeredClub": "english-eng-1",
+        "registrationStatus": "active",
+        "registrationSource": "https://www.premierleague.com/en/news/4706139/see-all-the-202627-premier-league-squad-lists",
+        "personId": "tm-520624",
+        "club": "Arsenal",
+        "era": "2026–27",
+        "color": "#db1735",
+        "cost": 12,
+        "number": 27,
+        "sourcePlayerId": "sandbox-eng-p208706",
+        "sourceRole": "MID",
+        "roleSource": "Touchline broad role from dated published natural position",
+        "providerId": "520624",
+        "positions": [
+          "CM"
+        ],
+        "evidence": {
+          "birthDate": {
+            "status": "verified",
+            "source": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=7",
+            "effective": "1997-11-16",
+            "checked": "2026-10-23",
+            "note": "FIFA squad-list page 7, shirt 8: reviewed name and birth date only. July club labels are not cutoff registration evidence. External provider identity remains unverified."
+          }
+        }
+      }
+    }
+  ]
+}

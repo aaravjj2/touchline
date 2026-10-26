@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 230" role="img">
+  <style>@media (prefers-reduced-motion: reduce){animate,animateTransform{display:none}}</style>
+  <rect width="280" height="230" fill="#141c24"/>
+  <rect y="168" width="280" height="62" fill="#1c3a2e"/>
+  <text x="16" y="24" fill="#8ea0b0" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.2">CELEBRATION · NOT A LIKENESS</text>
+  <text x="16" y="55" fill="#f6f3ec" font-family="Impact,sans-serif" font-size="22" textLength="150" lengthAdjust="spacingAndGlyphs">Aaron Wan-Bissaka</text>
+  
+  <g transform="translate(132 40)">
+    <g id="motion-76686" transform="rotate(6 48 90)">
+      
+      <g id="motion-76688" transform="translate(0 -4)">
+        
+        <g transform="translate(34 78)"><g id="motion-76690" transform="rotate(4)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#f4f1ea"/></g></g>
+        <g transform="translate(62 78)"><g id="motion-76692" transform="rotate(-8)"><path d="M0 0 V38" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/><rect x="-7" y="36" width="14" height="6" rx="2" fill="#f4f1ea"/></g></g>
+        <path d="M28 52 h40 l6 30 H22 Z" fill="#861b47"/>
+        <path d="M40 52 h16 l-3 10 H43 Z" fill="#000" opacity=".2"/>
+        <g transform="translate(30 56)"><g id="motion-76694" transform="rotate(14)"><path d="M0 0 V28" stroke="#861b47" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="3.2" fill="#ad7453"/></g></g>
+        <g transform="translate(66 56)"><g id="motion-76696" transform="rotate(-96)"><path d="M0 0 V28" stroke="#861b47" stroke-width="8" stroke-linecap="round"/><circle cx="0" cy="28" r="3.2" fill="#ad7453"/></g></g>
+        <rect x="44" y="40" width="8" height="14" rx="3" fill="#ad7453"/>
+        <circle cx="48" cy="28" r="16" fill="#ad7453"/>
+        <path d="M34 24 Q48 8 62 24 Q48 18 34 24" fill="#51382a"/>
+        <circle cx="42" cy="30" r="1.5" fill="#2a211c"/><circle cx="54" cy="30" r="1.5" fill="#2a211c"/>
+      </g>
+    </g>
+  </g>
+  <text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="1" id="motion-76678">Point</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-76680">Jump</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-76682">Slide</text><text x="16" y="214" fill="#c6e86a" font-family="Arial,sans-serif" font-size="13" opacity="0" id="motion-76684">Point</text>
+<style>@keyframes track-76679{0%{opacity:1}25%{opacity:0}50%{opacity:0}75%{opacity:0}100%{opacity:1}}@keyframes track-76681{0%{opacity:0}25%{opacity:1}50%{opacity:0}75%{opacity:0}100%{opacity:0}}@keyframes track-76683{0%{opacity:0}25%{opacity:0}50%{opacity:1}75%{opacity:0}100%{opacity:0}}@keyframes track-76685{0%{opacity:0}25%{opacity:0}50%{opacity:0}75%{opacity:1}100%{opacity:0}}@keyframes track-76687{0%{transform:rotate(6deg)}25%{transform:rotate(-6deg)}50%{transform:rotate(38deg)}75%{transform:rotate(6deg)}100%{transform:rotate(6deg)}}@keyframes track-76689{0%{transform:translate(0px,-4px)}25%{transform:translate(0px,-18px)}50%{transform:translate(0px,12px)}75%{transform:translate(0px,-4px)}100%{transform:translate(0px,-4px)}}@keyframes track-76691{0%{transform:rotate(4deg)}25%{transform:rotate(-10deg)}50%{transform:rotate(8deg)}75%{transform:rotate(4deg)}100%{transform:rotate(4deg)}}@keyframes track-76693{0%{transform:rotate(-8deg)}25%{transform:rotate(10deg)}50%{transform:rotate(-16deg)}75%{transform:rotate(-8deg)}100%{transform:rotate(-8deg)}}@keyframes track-76695{0%{transform:rotate(14deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(-64deg)}75%{transform:rotate(14deg)}100%{transform:rotate(14deg)}}@keyframes track-76697{0%{transform:rotate(-96deg)}25%{transform:rotate(-74deg)}50%{transform:rotate(18deg)}75%{transform:rotate(-96deg)}100%{transform:rotate(-96deg)}}@media(prefers-reduced-motion:no-preference){#motion-76678{animation:track-76679 4s steps(1,end) infinite both}#motion-76680{animation:track-76681 4s steps(1,end) infinite both}#motion-76682{animation:track-76683 4s steps(1,end) infinite both}#motion-76684{animation:track-76685 4s steps(1,end) infinite both}#motion-76686{animation:track-76687 4s linear infinite both}#motion-76688{animation:track-76689 4s linear infinite both}#motion-76690{animation:track-76691 4s linear infinite both}#motion-76692{animation:track-76693 4s linear infinite both}#motion-76694{animation:track-76695 4s linear infinite both}#motion-76696{animation:track-76697 4s linear infinite both}}</style></svg>
