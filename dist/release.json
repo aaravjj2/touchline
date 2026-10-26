@@ -1,5 +1,5 @@
 {
-  "version": "3.18.0-preview.1",
+  "version": "3.18.0-preview.2",
   "engine": "2.0.0",
   "physicalEngines": [
     "2.0.0",
@@ -144,6 +144,7 @@
     "verified-career-storage-recovery",
     "cinematic-game-launcher",
     "optional-launcher-ambience",
-    "responsive-mode-preview"
+    "responsive-mode-preview",
+    "draft-europe-licensed-player-photos"
   ]
 }

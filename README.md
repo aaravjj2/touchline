@@ -4,7 +4,7 @@ Manage a football club, play its matches and revisit your decisions in a browser
 
 Vanilla JavaScript and Three.js. Keyboard and touch play, club careers, natural-position drafting, recorded replays and local save recovery. No account or paid AI service is required. Live AI is disabled.
 
-[Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.mp4) · [Download playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.1/touchline-3.18-preview.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.srt)
+[Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.mp4) · [Download previous playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.1/touchline-3.18-preview.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.17.0-preview.3/touchline-demo.srt)
 
 ## Try it locally
 
@@ -36,9 +36,11 @@ Use the serial browser command above: tests include complete rendered-match timi
 
 ## Public edition and credits
 
+Build **3.18.0-preview.2** switches Draft & Europe pick cards and formation portraits to licensed real photographs, with bundled credits and an explicit placeholder where no verified photo is available. Other modes keep original 3D portraits. 904 distinct photographs cover 460/566 Draft catalog names; remaining names show a labelled placeholder. See [photo release notes](docs/RELEASE-3.18.2.md).
+
 Build **3.18.0-preview.1** adds human-proportioned animated figures and a consistent original 3D portrait style. All 2,310 catalog entries have local images (2,135 identities), with 48 bundled variants for created players. These are original game characters, not photographs or accurate real-player likenesses. See [the 3.18 release notes](docs/RELEASE-3.18.md).
 
-Build **3.17.0-preview.3** replaces the supplied cinematic photograph with the existing original stadium SVG. Photographic player portraits are omitted; cards use original stylized figures. Simulation rules, economies, gameplay saves and recorded commands retain their existing versions. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+Build **3.17.0-preview.3** replaces the supplied cinematic photograph with the existing original stadium SVG. Photographic player portraits were omitted in that build; the later Draft & Europe update restores individually licensed photos. Simulation rules, economies, gameplay saves and recorded commands retain their existing versions. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
 Original project code is available under the existing [MIT license](LICENSE). Kenney rig/clips are CC0; Three.js is MIT; bundled fonts retain their OFL notices. Real club/player names and source facts are included as an unverified game/research sandbox. This is an independent prototype, not an officially licensed football product or an authoritative contracts database. Authored ratings, budgets and financial estimates are not real valuations or promises.
 

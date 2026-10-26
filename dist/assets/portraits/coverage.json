@@ -1,0 +1,1636 @@
+{
+  "requested": 1443,
+  "photos": 1068,
+  "missing": [
+    {
+      "name": "Víctor Valdés",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Giorgio Chiellini",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Oleksandr Zinchenko",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jorge Costa",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nuno Valente",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carlos Alberto",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Flavio Roma",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Hugo Ibarra",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Edouard Cissé",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Andreas Zikos",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rafinha",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Fran García",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Alexander Meyer",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kjell-Arik Wätjen",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jamie Bynoe-Gittens",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Silvino",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "José Carlos",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Samuel",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Veloso",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Thern",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Vítor Paneira",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Hernâni",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Lima",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Valdo",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Magnusson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jocelyn Angloma",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Franck Sauzée",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Alen Bokšić",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Frank Rijkaard",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Finidi George",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Eze",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "J. Timber",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Konsa",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Merino",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Rice",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "White",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Arnau Ortiz",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Arnau Solà",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Barrios",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Dani Martínez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "David",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Musso",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Vargas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Bisiwu",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Eric García",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Gerard Martín",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Gordon",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jesus",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Xavi Espart",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Assomo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Bischof",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Boey",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Brown",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Cardozo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "H. Ito",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Luis Díaz",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Minjae Kim",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Pavlović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tah",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Chukwuemeka",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Duarte",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Fábio Silva",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kaba",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Karetsas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kauã Prates",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mane",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Meyer",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Svensson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Carlos Augusto",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Di Gennaro",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jones",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "L. Martínez",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Luis Henrique",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "M. Thuram",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Marello",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Provedel",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Stones",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Barcola",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Bradley",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Chambers",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Leoni",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mabaya",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "McConnell",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Muñoz",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Chabot",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Heaven",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Maguire",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Mee",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Thompson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Digne",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Doué",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Dro Fernández",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "L. Hernández",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Ndjantou",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Pacho",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Alberto Costa",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "André Silva",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Bednarek",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Cláudio Ramos",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Fofana",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Froholdt",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Gabriel Veiga",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Giménez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "IB Hwang",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "João Afonso",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "João Costa",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Pepê",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Pietuszewski",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Rosario",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Sainz",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Samu",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Sanusi",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Souza",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Varela",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "William Gomes",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carlos Espí",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Dumfries",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Raúl Asencio",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rüdiger",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Sergio Martínez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Benjamin White",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Gabriel Martinelli Silva",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Fábio Ferreira Vieira",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Ezri Konsa Ngoyo",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Andrés García",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Alysson Edward Franco da Rocha dos Santos",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Johan Manzambi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Joao Gomes",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Luka Lynch",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "James Wright",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Đorđe Petrović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "James Hill",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Veljko Milosavljevic",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Adam Smith",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Julián Araujo Zúñiga",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Julio Soler Barreto",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Alex Scott",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Lewis Cook",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tyler Adams",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "David Brooks",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Álvaro Rodríguez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kim Ji-soo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Fábio Freitas Gouveia Carvalho",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Josh Dasilva",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kaye Furo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Gustavo Nunes Fernandes Gomes",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Benjamin Fredrick",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ellery Balcombe",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jason Steele",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "João Pedro Loureiro da Costa",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mitoma Kaoru",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Diego Gómez Amarilla",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Facundo Buonanotte",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tom Watson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Nehemiah Oriola",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Zadok Yohanna",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Stefanos Tzimas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ibrahim Osman",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Malick Yalcouyé",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "José María Andrés Baixauli",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Younes Ibrahim",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Emiliano Martínez Romero",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Wesley Fofana",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Josh Acheampong",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Marco Palestra",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Estêvão Almeida de Oliveira Gonçalves",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Moisés Caicedo Corozo",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Geovany Quenda",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Pep Chavarría",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mahdi Nicoll-Jazuli",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carl Rushworth",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ben Wilson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Bobby Thomas",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Milan van Ewijk",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kaine Kesler-Hayden",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Miguel Brau",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Aurèle Amenda",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ephron Mason-Clark",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Josh Eccles",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "George Shepherd",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Raphael Borges Rodrigues",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Norman Bassette",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Dan Bentley",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Walter Benítez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Chris Richards",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Oscar Mingueza",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Yéremy Pino Santos",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jefferson Lerma Solís",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Romain Esse",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jesurun Rak-Sakyi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Joél Drakes-Thomas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Christantus Uche",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Zavier Gozo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Honest Ahanor",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tom King",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Michael Keane",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jake O'Brien",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nathan Patterson",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "James Garner",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Carlos Alcaraz Durán",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Harrison Armstrong",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Tyler Dibling",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Merlin Röhl",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Thierno Barry",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Braiden Graham",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Joachim Andersen",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Josh King",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Harrison Reed",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Gonzalo García",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "César Palacios",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Macaulay Zepa",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Hugo Larsson",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Manuel Ángel Morán Ibáñez",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "David Affengruber",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tim Iroegbunam",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Harvey Cartwright",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Thimothée Lo-Tutala",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "John Egan",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Charlie Hughes",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Cody Drameh",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ryan Giles",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Matty Jacob",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Matt Crooks",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Regan Slater",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Eliot Matazo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Abu Kamara",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Óscar Zambrano",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "David Akintola",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Darko Gyabi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Enis Destan",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jens Hjertø-Dahl",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nobel Mendy",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ilyas Ansah",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Brooke Norton-Cuffy",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Christos Mouzakitis",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Issa Diop",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ben Johnson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jack Taylor",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jack Clarke",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "George Hirst",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Anis Mehmeti",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Julio Enciso",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Cameron Humphreys",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Harry Wilson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Lucas Estella Perri",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Tarik Muharemović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jack Harrison",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Daniel James",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Ilia Gruev",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tanaka Ao",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Mateo Joseph Fernández-Regatillo",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jayden Lienou",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Alfie Cresswell",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jean-Mattéo Bahoya",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Wellity Lucky",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Giovanni Leoni",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Endo Wataru",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Stefan Bajčetić Maquieira",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Victor Munoz",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "James McConnell",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jayden Danns",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Claudio Echeverri",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ryan McAidoo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kaden Braithwaite",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Floyd Samba",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Diogo Dalot Teixeira",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Tyler Fredricson",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Bruno Borges Fernandes",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jack Fletcher",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Shea Lacey",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Bendito Mantato",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Chido Obi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nick Pope",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mark Gillespie",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ewen Jaouen",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Lewis Hall",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Alex Murphy",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Lukás Hornícek",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Leo Shahar",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mason Miley",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Miodrag Pivas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Vakhtang Salia",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Michael Mills",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Kyran Thompson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Murillo Costa dos Santos",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Omar Richards",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nicolás Domínguez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ibrahim Sangaré",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Chris Wood",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Antonín Kinský",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Marcos Senesi Barón",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Ben Davies",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jun'ai Byfield",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "James Rowswell",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Callum Olusesi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mateus Fernandes",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Luca Williams-Barnett",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Daniel Ballard",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jenson Seelt",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Leo Fuhr Hjelde",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Djiamgone Jocelin Ta Bi",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Juan Angulo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tymur Tutierov",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Anthony Gordon",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Jesse Bisiwu",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Luiz Júnior",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rubén Gómez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Yakiv Kinareikin",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Pau Navarro",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Santiago Mouriño",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carlos Romero",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Sergi Cardona",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Alberto Moleiro",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carlos Macià",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nizar El Jmili",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Obed Vargas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Pablo Barrios",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nathaniel Brown",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Hiroki Ito",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tom Bischof",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Bastian Assomo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Maycon Cardozo",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Daniel Svensson",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Filippo Mane",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Carney Chukwuemeka",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Enzo Dos Santos",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Mussa Kaba",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Konstantinos Karetsas",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Willi Orbán",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Max Finkgräfe",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ezechiel Banzuzi",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rocco Reitz",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Brajan Gruda",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Tidiam Gomis",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ameen Al-Dakhil",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Luca Jaquez",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ermedin Demirović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Finn Jeltsch",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Dženan Pejčinović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Raffaele Di Gennaro",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ivan Provedel",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mattia Marello",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Curtis Jones",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nikita Contini",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Amir Rrahmani",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rafa Marín",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Sam Beukema",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Matteo Politano",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Giovane",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Antonio Vergara",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Alisson Santos",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Devis Vasquez",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Wesley França",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Emanuele Lulli",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Niccolò Pisilli",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Santiago Castro",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Antonio Arena",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Rodrigo Mora",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Àlex Valle",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Jacobo Ramón",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Yan Couto",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Ivan Smolčić",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Luis Milla",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Lucas Da Cunha",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Mattia Liberali",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Quentin Ndjantou",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Andrija Bulatović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Nidal Celik",
+      "reason": "Identity requires manual disambiguation"
+    },
+    {
+      "name": "Ismaëlo Ganiou",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Régis Gurtner",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Franjo Ivanović",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Junior Kadile",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Souleymane Sagnan",
+      "reason": "No available approved photo"
+    },
+    {
+      "name": "Yacine Titraoui",
+      "reason": "No available approved photo"
+    }
+  ],
+  "uniqueFiles": 904,
+  "draft": {
+    "players": 566,
+    "withPhotos": 460,
+    "missing": [
+      "Víctor Valdés",
+      "Giorgio Chiellini",
+      "Oleksandr Zinchenko",
+      "Jorge Costa",
+      "Nuno Valente",
+      "Carlos Alberto",
+      "Flavio Roma",
+      "Hugo Ibarra",
+      "Edouard Cissé",
+      "Andreas Zikos",
+      "Rafinha",
+      "Fran García",
+      "Alexander Meyer",
+      "Kjell-Arik Wätjen",
+      "Jamie Bynoe-Gittens",
+      "Silvino",
+      "José Carlos",
+      "Samuel",
+      "Veloso",
+      "Thern",
+      "Vítor Paneira",
+      "Hernâni",
+      "Lima",
+      "Valdo",
+      "Magnusson",
+      "Jocelyn Angloma",
+      "Franck Sauzée",
+      "Alen Bokšić",
+      "Frank Rijkaard",
+      "Finidi George",
+      "Eze",
+      "J. Timber",
+      "Konsa",
+      "White",
+      "Arnau Ortiz",
+      "Arnau Solà",
+      "Barrios",
+      "Dani Martínez",
+      "David",
+      "Vargas",
+      "Bisiwu",
+      "Eric García",
+      "Gerard Martín",
+      "Gordon",
+      "Xavi Espart",
+      "Assomo",
+      "Bischof",
+      "Brown",
+      "Cardozo",
+      "H. Ito",
+      "Luis Díaz",
+      "Minjae Kim",
+      "Pavlović",
+      "Tah",
+      "Chukwuemeka",
+      "Duarte",
+      "Fábio Silva",
+      "Kaba",
+      "Karetsas",
+      "Kauã Prates",
+      "Mane",
+      "Meyer",
+      "Svensson",
+      "Carlos Augusto",
+      "Di Gennaro",
+      "Jones",
+      "L. Martínez",
+      "Luis Henrique",
+      "M. Thuram",
+      "Marello",
+      "Provedel",
+      "Bradley",
+      "Chambers",
+      "Leoni",
+      "Mabaya",
+      "McConnell",
+      "Muñoz",
+      "Chabot",
+      "Mee",
+      "Thompson",
+      "Dro Fernández",
+      "L. Hernández",
+      "Ndjantou",
+      "Alberto Costa",
+      "André Silva",
+      "Bednarek",
+      "Cláudio Ramos",
+      "Fofana",
+      "Froholdt",
+      "Gabriel Veiga",
+      "Giménez",
+      "IB Hwang",
+      "João Afonso",
+      "João Costa",
+      "Pepê",
+      "Pietuszewski",
+      "Rosario",
+      "Sainz",
+      "Samu",
+      "Sanusi",
+      "Souza",
+      "Varela",
+      "William Gomes",
+      "Carlos Espí",
+      "Raúl Asencio",
+      "Sergio Martínez"
+    ]
+  },
+  "bundledBytes": 48622696,
+  "currentCardAliases": {
+    "current-club1-11": "Mikel Merino Zazón",
+    "current-club1-16": "Declan Rice",
+    "current-club3-18": "Juan Musso",
+    "current-club4-13": "Gabriel Jesus",
+    "current-club5-2": "Sacha Boey",
+    "current-club13-20": "John Stones",
+    "current-club18-2": "Bradley Barcola",
+    "current-club20-9": "Ayden Heaven",
+    "current-club20-11": "Harry Maguire",
+    "current-club22-3": "Lucas Digne",
+    "current-club22-4": "Désiré Doué",
+    "current-club22-19": "Willian Pacho",
+    "current-club26-11": "Denzel Dumfries",
+    "current-club26-20": "Antonio Rüdiger"
+  }
+}
