@@ -1,0 +1,72 @@
+{
+  "version": "3.18.0-preview.1",
+  "unit": {
+    "passed": 274,
+    "failed": 0
+  },
+  "browser": {
+    "passed": 101,
+    "failed": 0,
+    "skipped": 0
+  },
+  "reference": {
+    "host": "Windows / Intel Core Ultra 9 275HX",
+    "renderer": "ANGLE Intel Graphics Direct3D11 (explicit --use-angle=d3d11 for the two timing suites)",
+    "headless": true,
+    "incident": {
+      "environment": "Windows reference host; Playwright headless Chromium; 1440 × 844; standard quality; complete match at 4× after assets load. Physical device/GPU certification remains open.",
+      "half": {
+        "direct": "false",
+        "simulationMs": "0.20",
+        "frameWorkMs": "2.20",
+        "frameP95": "16.70",
+        "frameSamples": "1768",
+        "slowFrames": "0",
+        "measurementSeconds": "29.4"
+      },
+      "full": {
+        "direct": "false",
+        "simulationMs": "0.10",
+        "frameWorkMs": "2.30",
+        "frameP95": "16.70",
+        "frameSamples": "3570",
+        "slowFrames": "0",
+        "measurementSeconds": "59.9"
+      }
+    },
+    "match": {
+      "environment": "Playwright headless Chromium, desktop viewport, 4x playback; not physical-phone certification",
+      "half": {
+        "direct": "false",
+        "simulationMs": "0.00",
+        "frameWorkMs": "2.80",
+        "frameP95": "16.70",
+        "frameSamples": "1762",
+        "slowFrames": "1",
+        "measurementSeconds": "29.4"
+      },
+      "full": {
+        "direct": "false",
+        "simulationMs": "0.00",
+        "frameWorkMs": "2.10",
+        "frameP95": "16.70",
+        "frameSamples": "3565",
+        "slowFrames": "1",
+        "measurementSeconds": "60.0"
+      }
+    }
+  },
+  "softwareRenderer": {
+    "renderer": "SwiftShader Vulkan CPU",
+    "currentP95": 50.1,
+    "unchangedPreviousReleaseP95": 50.1,
+    "passesTarget": false
+  },
+  "portraitCoverage": {
+    "entries": 2310,
+    "identities": 2135,
+    "createdVariants": 48,
+    "missing": 0
+  },
+  "scope": "Local automated reference run, not physical-phone/Safari certification. Default cloud/software timing is not represented as passing."
+}

@@ -1,6 +1,6 @@
 # Touchline demonstration
 
-The walkthrough shows the public `3.17.0-preview.3` app: original rendered opening and launcher, a seeded Harbour Athletic career, position cover, three match choices, actual keyboard play, a pending-match reload, explicit fast simulation to full-time, result recap, save export, repeatable practice and position-aware drafting.
+The existing walkthrough records public `3.17.0-preview.3`: original rendered opening and launcher, a seeded Harbour Athletic career, position cover, three match choices, actual keyboard play, a pending-match reload, explicit fast simulation to full-time, result recap, save export, repeatable practice and position-aware drafting. The current `3.18.0-preview.1` browser build has newer human figures and original 3D cards; the older video does not depict these visual updates.
 
 [Play directly in the browser](https://touchline-beta-ten.vercel.app/). See [deployment verification](DEPLOYMENT.md) for the exact deployed commit and smoke-check scope.
 

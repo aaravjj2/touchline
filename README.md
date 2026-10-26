@@ -36,6 +36,8 @@ Use the serial browser command above: tests include complete rendered-match timi
 
 ## Public edition and credits
 
+Build **3.18.0-preview.1** adds human-proportioned animated figures and a consistent original 3D portrait style. All 2,310 catalog entries have local images (2,135 identities), with 48 bundled variants for created players. These are original game characters, not photographs or accurate real-player likenesses. See [the 3.18 release notes](docs/RELEASE-3.18.md).
+
 Build **3.17.0-preview.3** replaces the supplied cinematic photograph with the existing original stadium SVG. Photographic player portraits are omitted; cards use original stylized figures. Simulation rules, economies, gameplay saves and recorded commands retain their existing versions. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
 Original project code is available under the existing [MIT license](LICENSE). Kenney rig/clips are CC0; Three.js is MIT; bundled fonts retain their OFL notices. Real club/player names and source facts are included as an unverified game/research sandbox. This is an independent prototype, not an officially licensed football product or an authoritative contracts database. Authored ratings, budgets and financial estimates are not real valuations or promises.
@@ -44,4 +46,4 @@ Original project code is available under the existing [MIT license](LICENSE). Ke
 
 See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. No live AI, online multiplayer, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
 
-The public edition passed **271 unit tests and 99 browser journeys**; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.
+The current public edition passed **274 unit tests and 101 browser journeys** on the documented reference run; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.

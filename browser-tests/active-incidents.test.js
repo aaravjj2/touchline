@@ -1,11 +1,12 @@
 import {dismissOpeningIntro} from './helpers/opening.mjs';
+import {referenceRendererOptions} from './helpers/reference-renderer.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {spawn} from 'node:child_process';
 import {mkdir,writeFile} from 'node:fs/promises';
 import {chromium} from '@playwright/test';
 let server,browser;const base='http://127.0.0.1:4227';
-test.before(async()=>{await mkdir('work/release312',{recursive:true});server=spawn(process.execPath,['server.mjs'],{env:{...process.env,PORT:'4227',COACH_ENABLED:'false'},windowsHide:true,stdio:'pipe'});await new Promise((resolve,reject)=>{server.stdout.once('data',resolve);server.once('error',reject);server.once('exit',code=>reject(Error('Incident QA server exited '+code)));});browser=await chromium.launch({headless:true});});
+test.before(async()=>{await mkdir('work/release312',{recursive:true});server=spawn(process.execPath,['server.mjs'],{env:{...process.env,PORT:'4227',COACH_ENABLED:'false'},windowsHide:true,stdio:'pipe'});await new Promise((resolve,reject)=>{server.stdout.once('data',resolve);server.once('error',reject);server.once('exit',code=>reject(Error('Incident QA server exited '+code)));});browser=await chromium.launch({headless:true,...referenceRendererOptions()});});
 test.after(async()=>{await browser?.close();server?.kill();});
 const save=page=>page.evaluate(async()=>{await (await import('/mode-storage.js')).flushModeStorage();return (await import('/large-save.js')).readMode('touchline.europe.qa.v1');});
 async function open(t,seed,width=390){const context=await browser.newContext({viewport:{width,height:844}}),page=await context.newPage(),errors=[];page.setDefaultTimeout(20000);page.on('pageerror',e=>errors.push(e.message));t.after(async()=>{try{assert.deepEqual(errors,[]);}finally{await context.close();}});await page.goto(base+'/?qa=1');await dismissOpeningIntro(page);await page.getByRole('button',{name:'Explore Super League',exact:true}).click();await page.getByRole('button',{name:'Test league + cup preview',exact:true}).click();await page.evaluate(async seed=>{const {createSuperCareerPreview}=await import('/super-career.js'),{SUPER_PACKS}=await import('/super-catalog.js'),{resetManagerView}=await import('/manager-experience.js'),eu=JSON.parse(localStorage.getItem('touchline.europe.qa.v1'));eu.career=createSuperCareerPreview({marketVersion:2,clubId:SUPER_PACKS[0].id,seed});resetManagerView(eu.career);localStorage.setItem('touchline.europe.qa.v1',JSON.stringify(eu));},seed);await page.reload();return page;}

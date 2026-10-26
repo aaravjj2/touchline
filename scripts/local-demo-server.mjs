@@ -3,7 +3,7 @@ import {readFile,realpath} from 'node:fs/promises';
 import {resolve,relative,isAbsolute,extname} from 'node:path';
 import {fileURLToPath,pathToFileURL} from 'node:url';
 
-const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.webmanifest':'application/manifest+json','.woff2':'font/woff2','.png':'image/png','.jpg':'image/jpeg','.fbx':'application/octet-stream','.txt':'text/plain; charset=utf-8'};
+const types={'.webp':'image/webp','.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.webmanifest':'application/manifest+json','.woff2':'font/woff2','.png':'image/png','.jpg':'image/jpeg','.fbx':'application/octet-stream','.txt':'text/plain; charset=utf-8'};
 const inside=(root,path)=>{const rel=relative(root,path);return rel!==''&&!rel.startsWith('..')&&!isAbsolute(rel);};
 export function createLocalDemoServer(root){
  return http.createServer(async(req,res)=>{

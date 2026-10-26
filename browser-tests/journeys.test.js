@@ -1,4 +1,5 @@
 import {dismissOpeningIntro} from './helpers/opening.mjs';
+import {referenceRendererOptions} from './helpers/reference-renderer.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {spawn} from 'node:child_process';
@@ -11,7 +12,7 @@ let server,browser;
 test.before(async()=>{
  server=spawn(process.execPath,['server.mjs'],{env:{...process.env,PORT:String(port),COACH_ENABLED:'false'},stdio:'pipe'});
  await new Promise((resolve,reject)=>{server.stdout.once('data',resolve);server.once('error',reject);server.once('exit',code=>reject(Error('Server exited '+code)));});
- browser=await chromium.launch({headless:true});
+ browser=await chromium.launch({headless:true,...referenceRendererOptions()});
 });
 test.after(async()=>{await browser?.close();server?.kill();});
 async function open(t,viewport={width:1440,height:1000}){

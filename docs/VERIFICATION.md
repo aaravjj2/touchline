@@ -1,5 +1,9 @@
 # Verification scope
 
+Current **3.18.0-preview.1** passed **274 unit tests and 101 browser journeys** on the documented Windows reference run. The two timing suites explicitly use Intel Direct3D11: incident p95 16.70 ms; ordinary complete match p95 16.70 ms. Other journeys retain their default driver. SwiftShader CPU p95 was 50.1 ms for both old and new builds and fails the target; cloud/software timing is not certified by the hardware result. See [3.18 reproduction and limits](RELEASE-3.18.md), [summary](verification/3.18-summary.json) and [full browser output](verification/browser-3.18-reference.txt).
+
+## Earlier 3.17 baseline
+
 The prior private development build passed 271 unit tests and 99 Chromium browser journeys. This public edition changes presentation asset references, omits photographs and fixes source/portable static-server path resolution; it does not change simulation rules or save formats.
 
 Public edition **3.17.0-preview.3** passed all **271 unit tests** and **99 serial Chromium browser journeys**, with zero failures or skipped journeys, on 26 October 2026. Unit execution took 38.6 seconds and the browser suite took 648.7 seconds. These results are from the public edition itself.

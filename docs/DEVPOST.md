@@ -26,7 +26,7 @@ Another lesson was to verify the actual rendered artifact. A loaded canvas or su
 
 ## What works and what remains
 
-Public build **3.17.0-preview.3** passed **271 unit tests and 99 browser journeys**. Coverage includes direct input, pending-match reload, legacy replays, offline recovery, renderer cleanup and two integrated seasons, each with 380 league and 19 cup fixtures. These are automated checks, not evidence of human enjoyment or physical-device compatibility.
+Public build **3.18.0-preview.1** passed **274 unit tests and 101 browser journeys** on the documented Windows reference run. Coverage includes direct input, pending-match reload, legacy replays, offline recovery, renderer cleanup and two integrated seasons, each with 380 league and 19 cup fixtures. These are automated checks, not evidence of human enjoyment or physical-device compatibility.
 
 Real-club data remains an unverified sandbox with authored financial terms. The verified opening-day career stays locked. Economy balance, independent art/game-feel feedback and physical phone/Safari/assistive-technology testing remain open; controller play is unsupported. Next priorities are first-session human testing, tuning squad decisions and resolving the data gate before expanding the world.
 

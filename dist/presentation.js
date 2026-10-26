@@ -18,7 +18,7 @@ export function setPresentationPreference(k,v){
 export function identityHash(value='touchline'){let n=2166136261;for(const c of String(value))n=Math.imul(n^c.charCodeAt(0),16777619);return n>>>0;}
 export function playerAppearance(player={}){
  const hash=identityHash(player.personId||player.id||player.name||'player');
- return {hash,skin:['#c68b65','#e2b38d','#77503b','#ad7453','#d6a17c','#654431'][hash%6],hair:['#211b19','#51382a','#9d7148','#15171c'][hash%4],height:.97+(hash%7)*.01,build:.94+(hash%5)*.025};
+ return {hash,skin:['#c68b65','#e2b38d','#77503b','#ad7453','#d6a17c','#654431'][hash%6],hair:['#211b19','#51382a','#9d7148','#15171c'][hash%4],height:.97+(hash%7)*.01,build:.94+(hash%5)*.025,faceWidth:.92+((hash>>>4)%9)*.02,faceLength:.94+((hash>>>8)%7)*.02,faceDepth:.94+((hash>>>12)%7)*.02,hairStyle:(hash>>>16)%4};
 }
 export function clubPresentation(team={}){
  const pack=team.id==='user'?PACKS.find(p=>team.name===p.club||team.name?.startsWith(p.club+' ')):null,hash=identityHash(team.id==='user'?team.name:team.id||team.name),prefs=presentationPreferences(),meta=team.presentation||{},color=meta.color||pack?.color||team.color;

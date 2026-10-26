@@ -1,5 +1,7 @@
 # Licenses and provenance
 
+The 3.18 human anatomy mesh and baked studio portraits are original Touchline artwork. The retained skeleton and idle/run clips use the Kenney CC0 material credited below. Portraits are fictional visual identities, not scans or accurate likenesses of named people. Reproduction source: `scripts/build-player-portraits.mjs`; generated coverage: `dist/assets/player-portraits/coverage.json`.
+
 - **Touchline original source and procedural artwork:** existing project MIT license, copyright 2026 Touchline contributors. This initial public import is not a claim that all earlier work was written on the commit date.
 - **Kenney Animated Characters Protagonists 1.1:** character skeleton and idle/run clips, CC0. Source: https://kenney.nl/assets/animated-characters-protagonists . Notice: `dist/assets/athlete/License.txt`. Touchline's silhouettes, kits and football action choreography extend that base.
 - **Three.js and FBX/Skeleton utilities:** MIT; notice `dist/vendor/THREE-LICENSE.txt`. Source: https://threejs.org/ . Retain its notice in derivatives.
