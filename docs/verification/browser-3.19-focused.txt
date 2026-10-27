@@ -1,0 +1,23 @@
+✔ cinematic previews fit desktop, tablet and phones without writing gameplay saves (11701.286ms)
+✔ keyboard launcher navigation opens a working draft, reveals players and resumes it exactly (1545.9638ms)
+✔ saved club identity resumes the real office while menu previews and settings preserve its career (3008.6793ms)
+✔ ambience requires an explicit click and closes when leaving; reduced motion and fullscreen failure remain usable (1808.0238ms)
+✔ match, practice and recorded-match destinations open real existing tools (3154.1883ms)
+✔ normal-motion intro replay finishes once and stays visible without touching saved games (7629.3433ms)
+✔ verified offline build reloads careers, fonts and playable training without a network (9448.7219ms)
+✔ updates wait, reject multiple tabs, preserve backups, and survive corrupt downloads (12342.5597ms)
+✔ a pending physical fixture blocks build switching and retains the exact saved definition (6321.1025ms)
+✔ repeated upgrades bound storage, other tabs block deletion, and quota failure retains the working build (17746.0788ms)
+✔ guided practice retries, advances through three skills and remembers progress after reload (6943.0653ms)
+✔ leaving practice earns no completion and a failed progress write remains usable (3123.9632ms)
+✔ keyboard can complete all three repeatable exercises without changing career/exhibition saves (4647.5511ms)
+✔ touch can complete each exercise with pitch, selected player and action buttons visible at 390x568 (4382.6399ms)
+✔ keyboard and pointer holds do not cancel each other, pause clears both, and feedback distinguishes actual actions (2289.4886ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 106629.8202

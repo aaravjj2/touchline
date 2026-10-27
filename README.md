@@ -36,6 +36,8 @@ Use the serial browser command above: tests include complete rendered-match timi
 
 ## Public edition and credits
 
+Build **3.19.0-preview.1** adds a guided three-skill practice journey with remembered device progress and direct retry/next actions. Practice remains separate from careers and recorded matches. See [practice release notes](docs/RELEASE-3.19.md). The linked 3.18 video and download remain versioned snapshots.
+
 Build **3.18.0-preview.2** switches Draft & Europe pick cards and formation portraits to licensed real photographs, with bundled credits and an explicit placeholder where no verified photo is available. Other modes keep original 3D portraits. 904 distinct photographs cover 460/566 Draft catalog names; remaining names show a labelled placeholder. See [photo release notes](docs/RELEASE-3.18.2.md).
 
 Build **3.18.0-preview.1** adds human-proportioned animated figures and a consistent original 3D portrait style. All 2,310 catalog entries have local images (2,135 identities), with 48 bundled variants for created players. These are original game characters, not photographs or accurate real-player likenesses. See [the 3.18 release notes](docs/RELEASE-3.18.md).
@@ -48,4 +50,4 @@ Original project code is available under the existing [MIT license](LICENSE). Ke
 
 See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. No live AI, online multiplayer, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
 
-The current public edition passed **274 unit tests and 101 browser journeys** on the documented reference run; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.
+The current public edition passed **278 unit tests and 15 focused browser journeys**. The earlier full browser and performance runs remain tied to their original releases; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.

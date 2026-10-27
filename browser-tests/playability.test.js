@@ -11,6 +11,50 @@ test.before(async()=>{server=spawn(process.execPath,['server.mjs'],{env:{...proc
 test.after(async()=>{await browser?.close();server?.kill();});
 async function open(t,mobile=false,short=false,seeded=false){const context=await browser.newContext({viewport:mobile?{width:390,height:short?568:844}:{width:1440,height:1000},hasTouch:mobile,isMobile:mobile}),page=await context.newPage(),errors=[];page.setDefaultTimeout(12000);page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400&&r.url().startsWith(base))errors.push(r.url());});t.after(async()=>{try{if(await page.locator('.live-fixture').count()){await page.screenshot({path:'work/play38/last-'+(mobile?'phone':'desktop')+'.png'});await writeFile('work/play38/last-'+(mobile?'phone':'desktop')+'.txt',await page.locator('.live-fixture').innerText());}assert.deepEqual(errors,[]);}finally{await context.close();}});if(seeded){const career=createSandboxCareer({clubId:'english-eng-1',seed:3801}),definition=fixtureDefinition(career.competition.teams[0],career.competition.teams[1],3801);await context.addInitScript(({career,definition,state})=>{localStorage.setItem('touchline.europe.qa.v1',JSON.stringify({version:1,phase:'home',history:[],career}));localStorage.setItem('touchline.qa.v2',JSON.stringify({page:'managerial',exhibition:{pending:{definition,resume:{state}}}}));localStorage.setItem('touchline.players.qa.v1',JSON.stringify({version:1,profiles:[]}));},{career,definition,state:fixtureState(definition)});}await page.goto(base+'/?qa=1');await dismissOpeningIntro(page);await page.getByRole('button',{name:'Training ground',exact:true}).waitFor();return page;}
 const records=page=>page.evaluate(()=>Object.fromEntries(['touchline.qa.v2','touchline.europe.qa.v1','touchline.players.qa.v1'].map(k=>[k,localStorage.getItem(k)])));
+test('guided practice retries, advances through three skills and remembers progress after reload',{timeout:90000},async t=>{
+ const page=await open(t,true,true,true),before=await records(page);
+ await page.getByRole('button',{name:'Training ground',exact:true}).click();
+ await page.locator('[data-exercise=passing]').click();
+ await page.getByRole('button',{name:'Return to management',exact:true}).waitFor();
+ await page.getByRole('button',{name:'Pass',exact:true}).tap();
+ await page.getByRole('button',{name:'Retry same exercise',exact:true}).waitFor();
+ await page.getByRole('button',{name:'Retry same exercise',exact:true}).tap();
+ await page.locator('[data-exercise=passing][data-exercise-ready=true]').waitFor();
+ await page.getByRole('button',{name:'Pass',exact:true}).tap();
+ await page.getByRole('button',{name:'Next: Create a shot',exact:true}).tap();
+ await page.locator('[data-exercise=shooting][data-exercise-ready=true]').waitFor();
+ await page.getByRole('button',{name:'Shoot',exact:true}).tap();
+ await page.getByRole('button',{name:'Next: Stop the counter',exact:true}).tap();
+ await page.locator('[data-exercise=defending][data-exercise-ready=true]').waitFor();
+ await page.getByRole('button',{name:'Tackle',exact:true}).tap();
+ await page.getByRole('button',{name:'Retry same exercise',exact:true}).waitFor();
+ assert.equal(await page.getByRole('button',{name:/^Next:/}).count(),0);
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await page.getByRole('button',{name:'Back to exercises',exact:true}).tap();
+ await page.getByText('3 / 3 skills completed',{exact:true}).waitFor();
+ await page.screenshot({path:'work/play38/guided-complete-phone.png'});
+ assert.deepEqual(await records(page),before);
+ await page.getByRole('button',{name:'Close training',exact:true}).click();await page.reload();await dismissOpeningIntro(page);
+ await page.getByRole('button',{name:'Training ground',exact:true}).click();
+ await page.getByText('3 / 3 skills completed',{exact:true}).waitFor();
+ const progress=await page.evaluate(()=>JSON.parse(localStorage.getItem('touchline.practice.qa.v1')));
+ assert.deepEqual(progress.skills.passing,{attempts:2,completed:2});
+ assert.equal(await page.evaluate(()=>localStorage.getItem('touchline.practice.v1')),null);
+ assert.deepEqual(await records(page),before);
+});
+test('leaving practice earns no completion and a failed progress write remains usable',{timeout:60000},async t=>{
+ const page=await open(t),before=await records(page);
+ await page.getByRole('button',{name:'Training ground',exact:true}).click();
+ await train(page,'passing');await page.getByRole('button',{name:'Back to exercises',exact:true}).click();
+ await page.getByText('0 / 3 skills completed',{exact:true}).waitFor();
+ assert.equal(await page.evaluate(()=>localStorage.getItem('touchline.practice.qa.v1')),null);
+ await page.evaluate(()=>{const original=Storage.prototype.setItem;Storage.prototype.setItem=function(key,value){if(key.startsWith('touchline.practice'))throw new DOMException('Full device','QuotaExceededError');return original.call(this,key,value);};});
+ await train(page,'passing');await page.keyboard.press('KeyJ');await page.getByRole('button',{name:'Retry same exercise',exact:true}).waitFor();
+ await page.getByRole('button',{name:'Back to exercises',exact:true}).click();
+ await page.getByText('1 / 3 skills completed',{exact:true}).waitFor();
+ assert.match(await page.locator('.training-note').innerText(),/could not be saved/);
+ assert.deepEqual(await records(page),before);
+});
 async function train(page,id){await page.locator('[data-exercise='+id+']').click();await page.getByRole('button',{name:'Return to management',exact:true}).waitFor();}
 
 test('keyboard can complete all three repeatable exercises without changing career/exhibition saves',{timeout:60000},async t=>{

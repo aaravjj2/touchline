@@ -10,5 +10,6 @@ Entrant: Aarav Jain, working solo. Event window October 16–November 20, 2026. 
 | [da36885](https://github.com/aaravjj2/touchline/commit/da36885), October 26 | Human-proportioned original mesh and baked original 3D card portraits. Existing CC0 skeleton/idle/run clips remain credited. |
 | [e461931](https://github.com/aaravjj2/touchline/commit/e461931), [22c8604](https://github.com/aaravjj2/touchline/commit/22c8604), [a4a6e66](https://github.com/aaravjj2/touchline/commit/a4a6e66), October 26 | Licensed real Draft & Europe photos, provenance/coverage audit, name/ID aliases, mobile fallback and focused regression verification. Simulation and saves retain their versions. |
 | Current packet, October 26 | Fresh actual-app video, synthetic narration/captions, clean screenshots, integrity-checked local package, current evidence and submission copy. This is preparation, not a Devpost entry. |
+| 3.19 practice update, October 26 | Guided skill progression, device-only practice records, direct retry/next, failed-storage handling and regression checks. The prepared 3.18 media/package remain explicit older snapshots. |
 
 Codex assisted implementation, testing and documentation under human product direction. The game has no live AI inference. Third-party code and assets retain their separate licenses; see THIRD_PARTY_NOTICES.md and the photo-credit ledger.

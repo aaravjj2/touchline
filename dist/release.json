@@ -1,5 +1,5 @@
 {
-  "version": "3.18.0-preview.2",
+  "version": "3.19.0-preview.1",
   "engine": "2.0.0",
   "physicalEngines": [
     "2.0.0",
@@ -145,6 +145,7 @@
     "cinematic-game-launcher",
     "optional-launcher-ambience",
     "responsive-mode-preview",
-    "draft-europe-licensed-player-photos"
+    "draft-europe-licensed-player-photos",
+    "guided-practice-progression"
   ]
 }

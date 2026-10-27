@@ -13,7 +13,7 @@ import {decisionSnapshot,recordIdentity,recordMatches} from './match-record.js';
 import {saveRecord,getRecord} from './replay-store.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let active=null;
-export async function playFixture({definition,team=0,decisive=false,resume=null,onCheckpoint=()=>{},replay=null,stakes='',aggregateBase=null,startControl=false,exercise=null}){
+export async function playFixture({definition,team=0,decisive=false,resume=null,onCheckpoint=()=>{},replay=null,stakes='',aggregateBase=null,startControl=false,exercise=null,exerciseNext=null,onExerciseComplete=()=>{},onExerciseAction=()=>{}}){
  if(active)throw Error('Close the current match first.');
  let record=null;if(replay?.replayId)try{record=await getRecord(replay.replayId);}catch{}
  const def=definition||replay.definition,s=resume?.state||fixtureState(def);if(record&&!recordMatches(record,def,replay.commands||[]))record=null;let world=new LiveWorld(s),running=false,speed=1,fast=false,last=null,acc=0,raf,lastPaint=-100,closed=false,ended=false,dismissed='',nextCommand=s.actions.length,checkpoints=record?.checkpoints||resume?.checkpoints||[],storageNote='',ai=null,aiBusy=false,aiStatus='Rules-based advice',aiRequest=null,decisionTicks=resume?.decisionTicks||[],coachIntent='create';
@@ -59,7 +59,7 @@ export async function playFixture({definition,team=0,decisive=false,resume=null,
   };
   dialog.addEventListener('cancel',e=>{e.preventDefault();close();});
   dialog.onclick=e=>{const b=e.target.closest('[data-live]');if(!b||b.disabled)return;const a=b.dataset.live,v=b.dataset.value;
-   try{if(a==='close')close();else if(a==='play'){running=!running;if(!running)directControls?.release();fast=false;last=null;dialog.querySelector('#fixture-overlay').classList.add('hidden');dialog.querySelector('#fixture-break').classList.add('hidden');dialog.querySelectorAll('[data-live="play"]').forEach(el=>el.textContent=running?'Pause':'Resume');checkpoint(true);}
+   try{if(exercise&&exerciseDone&&(a==='exercise-retry'||a==='exercise-next')){onExerciseAction(a==='exercise-retry'?'retry':'next');close();}else if(a==='close')close();else if(a==='play'){running=!running;if(!running)directControls?.release();fast=false;last=null;dialog.querySelector('#fixture-overlay').classList.add('hidden');dialog.querySelector('#fixture-break').classList.add('hidden');dialog.querySelectorAll('[data-live="play"]').forEach(el=>el.textContent=running?'Pause':'Resume');checkpoint(true);}
     else if(a==='speed'){speed=speed===1?2:speed===2?4:1;b.textContent=speed+'×';}
     else if(a==='finish'){directControls?.disable();fast=true;running=true;dialog.querySelector('#fixture-overlay').classList.add('hidden');b.textContent='Finishing…';b.disabled=true;}
     else if(a==='compare'){const parent={id:s.replayId,definition:def,commands:replay?.commands||s.actions,checkpoints,result:fixtureResult(def,s),decisionTicks};compareDecision(parent,{team,tick:decisionTicks.at(-1)??9600});}
@@ -81,7 +81,7 @@ export async function playFixture({definition,team=0,decisive=false,resume=null,
     while(steps-->0&&world.ticks<14400){
      while(replay?.commands[nextCommand]?.tick===world.ticks){world.writeState(s);applyCommand(s,replay.commands[nextCommand++]);world=new LiveWorld(s);}
      world.fixed();directControls?.observe();
-     if(exercise&&!exerciseDone&&(exerciseWon||world.ticks>=exercise.endTick)){exerciseDone=true;running=false;acc=0;directControls?.release();dialog.dataset.exerciseDone='true';dialog.querySelectorAll('[data-live=play],[data-direct-pause],[data-direct=toggle],.direct-touch button,[data-direct-start]').forEach(b=>b.disabled=true);break;}
+     if(exercise&&!exerciseDone&&(exerciseWon||world.ticks>=exercise.endTick)){exerciseDone=true;running=false;acc=0;directControls?.release();dialog.dataset.exerciseDone='true';dialog.querySelectorAll('[data-live=play],[data-direct-pause],[data-direct=toggle],.direct-touch button,[data-direct-start]').forEach(b=>b.disabled=true);onExerciseComplete({id:exercise.id,won:exerciseWon});const actions=document.createElement('div');actions.className='training-result-actions';actions.innerHTML=`<button class="btn secondary small" data-live="exercise-retry">Retry same exercise</button>${exerciseWon&&exerciseNext?`<button class="btn primary small" data-live="exercise-next">Next: ${esc(exerciseNext)}</button>`:''}`;dialog.querySelector('.training-hud').append(actions);break;}
      if(world.ticks%600===0&&!replay){world.writeState(s);checkpoints.push({tick:world.ticks,state:JSON.parse(JSON.stringify(s))});}
      if(world.ticks===7200&&!fast&&!replay){dialog.querySelector('#fixture-break').classList.remove('hidden');running=false;directControls?.release();acc=0;dialog.querySelectorAll('[data-live="play"]').forEach(b=>b.textContent='Start second half');dialog.querySelector('#fixture-storage').textContent='Half-time. Adjust your plan, then start the second half.';break;}
     }
