@@ -15,6 +15,29 @@ test.after(async()=>{await browser?.close();server?.kill();});
 const make=options=>createSuperCareerPreview({clubId:SUPER_PACKS.find(p=>p.club==='Arsenal').id,seed:3501,...options});
 async function open(t,c,width=390){const context=await browser.newContext({viewport:{width,height:900}}),page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));await context.addInitScript(c=>{if(!localStorage.getItem('touchline.europe.qa.v1')){localStorage.setItem('touchline.qa.v2',JSON.stringify({page:'dynasty'}));localStorage.setItem('touchline.europe.qa.v1',JSON.stringify({version:1,phase:'home',history:[],career:c}));}},c);t.after(async()=>{await context.close();assert.deepEqual(errors,[]);});await page.goto(base+'/?qa=1');await dismissOpeningIntro(page);return page;}
 const read=page=>page.evaluate(async()=>{await(await import('/mode-storage.js')).flushModeStorage();return(await import('/large-save.js')).readMode('touchline.europe.qa.v1');});
+test('opponent preparation opens real approach, rotation and bench decisions without changing the career',async t=>{
+ for(const width of [1440,390]){
+  const page=await open(t,make(),width),before=(await read(page)).career;
+  await page.getByRole('button',{name:'Prepare next match',exact:true}).click();
+  const panel=page.getByRole('region',{name:'Opponent preparation',exact:true});await panel.waitFor();
+  await panel.screenshot({path:root+'/opponent-brief-'+width+'.png'});
+  assert.match(await panel.innerText(),/not a prediction/);
+  for(const name of ['Play yourself','Manage live','Simulate next matchday'])assert.equal(await page.getByRole('button',{name,exact:true}).isVisible(),true);
+  await panel.getByRole('button',{name:'Review match approach',exact:true}).focus();await page.keyboard.press('Enter');
+  await page.getByRole('heading',{name:'Give the team a plan',exact:true}).waitFor();
+  assert.equal(await page.evaluate(()=>document.activeElement.textContent),'Give the team a plan');
+  await panel.getByRole('button',{name:'Compare fresh options',exact:true}).click();
+  await page.getByRole('heading',{name:'Review the changes',exact:true}).waitFor();
+  assert.deepEqual((await read(page)).career,before);
+  await page.getByRole('button',{name:'Keep current team',exact:true}).click();
+  await panel.getByRole('button',{name:'Review matchday bench',exact:true}).click();
+  await page.getByRole('heading',{name:'Your cover for matchday',exact:true}).waitFor();
+  assert.equal(await page.evaluate(()=>document.activeElement.textContent),'Your cover for matchday');
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+  assert.deepEqual((await read(page)).career,before);
+  await page.screenshot({path:root+'/opponent-preparation-'+width+'.png',fullPage:true});
+ }
+});
 
 test('position planner fits desktop and phone, explains absences and opens the intended recruitment search without editing the career',async t=>{
  for(const width of [1440,390]){const c=make(),keepers=c.xi.concat(c.bench).filter(id=>worldPlayer(c,id)&&(id===c.xi[0]||canPlayPosition(sandboxProfile(id),'RB')));for(const id of keepers)c.world.availability.injuries[id]={until:'2026-09-01'};const page=await open(t,c,width),before=(await read(page)).career;await page.getByRole('button',{name:'Squad',exact:true}).click();await page.getByRole('button',{name:'Squad planner',exact:true}).focus();await page.keyboard.press('Enter');await page.getByRole('region',{name:'Squad planner',exact:true}).waitFor();await page.locator('[data-plan-position=GK] summary').click();assert.match(await page.locator('[data-plan-position=GK]').innerText(),/estimated return/);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);await page.screenshot({path:`${root}/planner-${width}.png`,fullPage:true});assert.deepEqual((await read(page)).career,before);

@@ -1,0 +1,23 @@
+✔ verified offline build reloads careers, fonts and playable training without a network (11302.7754ms)
+✔ updates wait, reject multiple tabs, preserve backups, and survive corrupt downloads (12526.9077ms)
+✔ a pending physical fixture blocks build switching and retains the exact saved definition (6279.2053ms)
+✔ repeated upgrades bound storage, other tabs block deletion, and quota failure retains the working build (18169.5146ms)
+✔ guided practice retries, advances through three skills and remembers progress after reload (6989.824ms)
+✔ leaving practice earns no completion and a failed progress write remains usable (3239.8561ms)
+✔ keyboard can complete all three repeatable exercises without changing career/exhibition saves (4422.0845ms)
+✔ touch can complete each exercise with pitch, selected player and action buttons visible at 390x568 (4152.7838ms)
+✔ keyboard and pointer holds do not cancel each other, pause clears both, and feedback distinguishes actual actions (2316.0168ms)
+✔ opponent preparation opens real approach, rotation and bench decisions without changing the career (5499.9552ms)
+✔ position planner fits desktop and phone, explains absences and opens the intended recruitment search without editing the career (3757.6006ms)
+✔ incoming sale preview reconciles with a confirmed transaction and persists exactly on reload (5654.5623ms)
+✔ founder pre-season offers a no-release route and preparation exposes all three match choices (4523.8072ms)
+✔ existing market 2 stays monthly while new market 3 stays weekly through browsing and reload (6727.4311ms)
+✔ a suggested founder target starts the real negotiation without signing or releasing anyone (2906.8448ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 106818.4871

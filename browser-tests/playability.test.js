@@ -16,8 +16,10 @@ test('guided practice retries, advances through three skills and remembers progr
  await page.getByRole('button',{name:'Training ground',exact:true}).click();
  await page.locator('[data-exercise=passing]').click();
  await page.getByRole('button',{name:'Return to management',exact:true}).waitFor();
+ await page.locator('.direct-possession[data-possession=ready]').waitFor();
  await page.getByRole('button',{name:'Pass',exact:true}).tap();
  await page.getByRole('button',{name:'Retry same exercise',exact:true}).waitFor();
+ await page.locator('.direct-possession[data-possession=complete]').waitFor();
  await page.getByRole('button',{name:'Retry same exercise',exact:true}).tap();
  await page.locator('[data-exercise=passing][data-exercise-ready=true]').waitFor();
  await page.getByRole('button',{name:'Pass',exact:true}).tap();

@@ -51,7 +51,9 @@ export function installManagerExperience({career,pending,render,save,toast,navig
     let report=s.report;if(!report||report.matches!==c.history.length||report.season!==c.season){const before=managerSnapshot(c);before.matches--;report=managerAftermath(c,before);if(report){report.facts=report.facts.filter(f=>f.title!=='Board confidence');report.previousRank=report.rank;}}
     if(report)setManagerView(c,{report,aftermath:true});
    }
+   const preparationLink=!!el.closest('.mgr-prep-brief');
    refresh(!['compare','all-priorities'].includes(a));
+   if(preparationLink&&a==='squad-tab'){const target=document.querySelector('.mgr-content>.mgr-card [data-view-focus]');if(target){target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});}}
    if(a==='cover')document.querySelector('.mgr-comparison')?.scrollIntoView({block:'nearest'});
    if(a==='contracts'&&id)document.getElementById('contract-'+id)?.scrollIntoView({block:'center'});
   }catch(error){toast(error.message);}
