@@ -1,0 +1,62 @@
+{
+  "review": {
+    "reviewed": true,
+    "build": "3.18.0-preview.2",
+    "videoSha256": "9a497499a6547a4f1b78fb7f2192f833bfe7a5608707353e9ff3f09e72d93dfe",
+    "durationSeconds": 168.44,
+    "decodedChapterSamples": 13,
+    "fullDecodeErrors": 0,
+    "syntheticNarration": "Microsoft Zira Desktop, no cloning/music",
+    "galleryCaptures": 5,
+    "preparedQACareer": true,
+    "fastSimulationLabelled": true,
+    "source": "Actual browser capture; capture-only caption panel; no outcome manipulation"
+  },
+  "files": [
+    {
+      "file": "touchline-demo.mp4",
+      "bytes": 8361758,
+      "sha256": "9a497499a6547a4f1b78fb7f2192f833bfe7a5608707353e9ff3f09e72d93dfe"
+    },
+    {
+      "file": "touchline-demo.srt",
+      "bytes": 2976,
+      "sha256": "b8f7154f0d99a94578e04015e40dad2733d4982bddf8291911870bd6297581ab"
+    },
+    {
+      "file": "touchline-demo-transcript.md",
+      "bytes": 3336,
+      "sha256": "92d3484c8d80210cded68f1f8abd7ea21d47f7afa0f799f339a92c535ce66b75"
+    },
+    {
+      "file": "thumbnail.png",
+      "bytes": 531081,
+      "sha256": "742ce7812fe3a0fc7b58d3abc2a419d28ab713660d84f57ea3e681a6f18c923b"
+    },
+    {
+      "file": "gallery/opening.png",
+      "bytes": 531081,
+      "sha256": "742ce7812fe3a0fc7b58d3abc2a419d28ab713660d84f57ea3e681a6f18c923b"
+    },
+    {
+      "file": "gallery/office.png",
+      "bytes": 433321,
+      "sha256": "1bb09fea64b97045a40b9e8e88fbf5d3ea2cebaf73f0de13d69c7542190284ee"
+    },
+    {
+      "file": "gallery/prepare.png",
+      "bytes": 481641,
+      "sha256": "c03bf3c94a4de0e90f8068bc0984838fabef22031956efd84278a914eb4161e1"
+    },
+    {
+      "file": "gallery/training.png",
+      "bytes": 330958,
+      "sha256": "94d91d88895f1718263f256ac5f5a76f0a1d569d9fc3ff451de755d08da48548"
+    },
+    {
+      "file": "gallery/draft.png",
+      "bytes": 371420,
+      "sha256": "11f021c09fefb2787213c7e64aabb3bb99651c1524c52793a444402840dd3cb7"
+    }
+  ]
+}

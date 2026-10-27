@@ -1,0 +1,23 @@
+{
+  "version": "3.18.0-preview.2",
+  "unit": {
+    "passed": 276,
+    "failed": 0
+  },
+  "focusedBrowser": {
+    "passed": 15,
+    "failed": 0
+  },
+  "photoDecode": {
+    "images": 904,
+    "failed": 0
+  },
+  "offline": {
+    "id": "77ad6801992319e4f1f9",
+    "files": 5391
+  },
+  "fullBrowserAndPerformanceRerun": false,
+  "placeholderTextContainedAt390": true,
+  "scope": "Photo presentation update; full current browser suite and rendered-match timing not rerun. Earlier reference results are separate.",
+  "runtimeCommit": "a4a6e66"
+}

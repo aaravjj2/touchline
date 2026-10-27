@@ -4,7 +4,7 @@ Actual app capture with a deliberately prepared QA career and generic Windows sy
 
 ## 00:00:00 — Your club. Your call.
 
-Touchline brings club management and playable football together in one browser sandbox. This is the actual public build, using original stadium artwork and a credited free character rig.
+Touchline connects club management and playable football in one browser sandbox. This is the current build, with human-proportioned animated players and an original cinematic opening.
 
 ## 00:00:11 — A playable local prototype
 
@@ -48,8 +48,8 @@ The training ground repeats the same short scenario using original practice play
 
 ## 00:02:18 — Draft in natural positions
 
-Draft and Europe reveals a club and era, then keeps eligible picks and the starting eleven together. These are authored game ratings and generated figures, not verified valuations or authentic player photographs.
+Draft and Europe keeps natural-position picks and the starting eleven together. Real player photos are used where licensed sources are available. Missing photos are labelled. Ratings and the career data remain an authored sandbox.
 
-## 00:02:31 — Evidence and honest limits
+## 00:02:32 — Evidence and honest limits
 
-The public edition passes two hundred seventy one unit tests and ninety nine browser journeys. These are automated checks, not human enjoyment or physical phone certification. Live AI and controller support remain disabled or unsupported.
+The current build passes two hundred seventy six unit tests and fifteen focused browser journeys. All nine hundred four photos decode. These are automated checks, not human playtesting or physical phone certification. Live AI is disabled.

@@ -1,0 +1,19 @@
+✔ Draft studio keeps reveal, search, natural-position choices and pitch together without losing the run (2298.8352ms)
+✔ 390px Draft studio exposes the XI and keyboard controls, hides IQ ratings and loads artwork (1602.2714ms)
+✔ Europe campaign navigation is read-only, keyboard accessible and keeps completed results exact (2833.3995ms)
+✔ every completed draft formation fits at desktop and 390px without overlapping player cards (1127.5806ms)
+✔ custom draft setup reaches the coach stage and preserves its formation in the current European field (2595.8334ms)
+✔ daily and weekly entry points keep their seeded challenge rules and a revealed draw survives reload (1777.9063ms)
+✔ campaign direct entry resumes recorded inputs and returns an exact read-only match recap and replay (7172.8725ms)
+✔ campaign legacy pending fixtures keep their saved controls and never offer direct-play migration (2644.4262ms)
+✔ manager shows original 3D cards and draft shows licensed photos at desktop and 390px without changing player records (3893.9185ms)
+✔ missing individual portrait falls back to a bundled image and cards create no WebGL contexts (141.1163ms)
+✔ failed real photo becomes a labelled placeholder without a generated replacement (153.32ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 27069.0085
