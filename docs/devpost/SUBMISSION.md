@@ -61,7 +61,7 @@ Home; live/direct match; full-time result; draft reveal/XI; European campaign/ta
 
 ## Submission Readiness Notes
 
-Nothing in this packet has been sent to Devpost. The account is registered for both named events. The connected project list identifies the existing Next Byte entry as Footwise (project 1518665); it was not changed. Touchline was not among the 24 returned projects, which is not an exhaustive proof of all prior entries.
+The Touchline Analytics project, story, tags, links, cover and seven captioned screenshots are saved in an AQX Devpost draft. No final submission was made; see [draft status](DRAFT-STATUS.md). The account is registered for both named events. The connected project list identifies the existing Next Byte entry as Footwise (project 1518665); it was not changed. Touchline was not among the 24 returned projects, which is not an exhaustive proof of all prior entries.
 
 Event data was read from connected Devpost tools on October 30, 2026. Next Byte's configured cutoff is October 31 at 5:00 p.m. Eastern; AQX's prose says October 31 at 11:59 p.m. Pacific, while its configured timestamp is November 1 at 07:00 UTC. Treat the earlier prose time as the practical AQX deadline.
 

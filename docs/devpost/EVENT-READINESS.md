@@ -1,6 +1,6 @@
 # Event readiness — October 30, 2026
 
-This is a local preparation packet. No Touchline project was created, updated or entered on Devpost during this work. Official event data below was read through the connected Devpost tools, not inferred from similar events.
+Touchline Analytics is saved on Devpost as an AQX draft, including its story and media. No final event submission was performed. See [draft status](DRAFT-STATUS.md). Official event data below was read through the connected Devpost tools, not inferred from similar events.
 
 ## Next Byte Hacks V5
 

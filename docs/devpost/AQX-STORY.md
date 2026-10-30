@@ -59,7 +59,7 @@ Future work includes contextual features, out-of-fold calibration, sensitivity t
 
 Touchline predates the current public repository. The chance-creation pipeline, held-out model and dashboard are a new contribution built on that disclosed game foundation. I am not claiming the entire application was created for AQX.
 
-AQX states “No pre-made projects” and excludes earlier Data Bowl projects. The new feature does not establish eligibility: the organizer must resolve the existing-foundation boundary, and the entrant must confirm prior-event history. This is a local draft, not an entry confirmation.
+AQX states “No pre-made projects” and excludes earlier Data Bowl projects. The new feature does not establish eligibility: the organizer must resolve the existing-foundation boundary, and the entrant must confirm prior-event history. This draft does not establish eligibility or confirm an event entry.
 
 ## Try it
 
