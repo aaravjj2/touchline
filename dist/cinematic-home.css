@@ -92,3 +92,5 @@ body.motion-off .cinema-art{will-change:auto;transform:none}
 
 /* Shared online rooms live alongside the solo modes. */
 .cinema-multiplayer{color:var(--home-lime)!important;text-decoration:none;border-top:1px solid #c4f56866!important;margin-top:8px}.cinema-multiplayer .cinema-mode-arrow{opacity:1}@media(max-width:600px){.cinema-multiplayer{grid-column:1/-1;margin-top:0;min-height:54px}.cinema-multiplayer .cinema-mode-arrow{display:block}}
+
+.cinema-analytics{text-decoration:none;color:var(--home-lime)!important}.cinema-analytics .cinema-mode-arrow{opacity:1}.cinema-footer-actions{flex-wrap:wrap;gap:12px 20px}@media(max-width:600px){.cinema-analytics{grid-column:1/-1;min-height:54px}.cinema-analytics .cinema-mode-arrow{display:block}}

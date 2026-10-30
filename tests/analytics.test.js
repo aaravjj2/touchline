@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {readFilters,modelProbability,selectShots,selectedSummary,asCsv} from '../dist/analytics-core.js';
+const json=async f=>JSON.parse(await readFile('dist/analytics-data/'+f+'.json','utf8'));
+test('analytics URL inputs are bounded and shared filters round-trip',()=>{assert.deepEqual(readFilters('?competition=no&team=<script>&route=no&tab=no'),{competition:'england',team:'all',route:'all',tab:'overview'});const s={competition:'world-cup',team:'123',route:'cross',tab:'model'};assert.deepEqual(readFilters('?'+new URLSearchParams(s)),s);});
+test('Python and JavaScript model predictions agree within 1e-9 on 1000 held-out shots',async()=>{const model=await json('model'),rows=await json('parity');assert.equal(rows.length,1000);for(const r of rows)assert.ok(Math.abs(modelProbability(r,model)-r.xg)<1e-9);assert.throws(()=>modelProbability({body:'left'},model),/feature/);});
+test('filtered shot counts and xG agree with published summaries and include zero-shot exposure',async()=>{const d=await json('england');for(const team of ['all',String(d.teams[0].id)])for(const route of ['all','cross','through','other','none']){const f={team,route},rs=selectShots(d,f),s=selectedSummary(d,f);assert.equal(rs.length,s.shots);assert.equal(rs.reduce((n,r)=>n+r.goal,0),s.goals);assert.ok(Math.abs(rs.reduce((n,r)=>n+r.xg,0)-s.xg)<1e-9);assert.equal(s.teamMatches,d.matches.filter(m=>team==='all'||m.teams.includes(Number(team))).length*(team==='all'?2:1));}});
+test('CSV exports escape cells and retain observed goal and model estimate separately',()=>{const text=asCsv([{id:'=bad',goal:0,xg:.2}]);assert.ok(text.startsWith('\ufeff'));assert.ok(text.includes("\"'=bad\""));assert.ok(text.includes('"goal","route","xg"'));});

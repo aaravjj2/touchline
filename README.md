@@ -6,6 +6,10 @@ Vanilla JavaScript and Three.js. Keyboard and touch play, club careers, natural-
 
 [Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-demo.mp4) · [Download playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-3.18.2-preview.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-demo.srt)
 
+## Real match analytics
+
+[Open Analytics](https://touchline-beta-ten.vercel.app/analytics.html): explore historical Wyscout chance creation, shot maps and a frozen shot-conversion model evaluated independently on England and World Cup data. Observed events, model estimates and game simulation remain distinct. See [method and reproduction](docs/ANALYTICS.md).
+
 ## Try it locally
 
 Install **Node.js 24 or later**, clone this repository, then run:
@@ -54,6 +58,6 @@ Original project code is available under the existing [MIT license](LICENSE). Ke
 
 ## Demonstration and limits
 
-See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. The published static edition has no multiplayer room backend. No live AI, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
+See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. The Vercel edition opens the shared Sites multiplayer room service. No live AI, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
 
 The current public edition passed **281 unit tests and 15 focused browser journeys**. The earlier full browser and performance runs remain tied to their original releases; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.

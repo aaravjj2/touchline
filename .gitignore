@@ -8,6 +8,8 @@ work/
 .devpost-hackathon-state.json
 playwright-report/
 test-results/
+__pycache__/
+*.pyc
 *.log
 .DS_Store
 
