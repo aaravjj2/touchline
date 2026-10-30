@@ -101,7 +101,7 @@ The Vercel edition serves `dist/`. Its Multiplayer link opens the same shared Si
 
 ## Project history and licenses
 
-Touchline is an existing project, with a disclosed foundation predating this public repository. ChatGPT and Codex assisted development, debugging, testing and documentation under human direction. See [contribution history](CONTRIBUTIONS.md); the [AQX Devpost project](https://devpost.com/software/touchline-analytics) remains a **draft, not an event submission**.
+Touchline is an existing project, with a disclosed foundation predating this public repository. ChatGPT and Codex assisted development, debugging, testing and documentation under human direction. See [contribution history](CONTRIBUTIONS.md); the [shared Devpost project](https://devpost.com/software/touchline-analytics) has separate [event-status notes](docs/devpost/DRAFT-STATUS.md).
 
 Application source is [MIT licensed](LICENSE). Analytics data retains CC BY 4.0 attribution; photographs, Three.js, fonts and animation assets retain their own notices. The cover above uses actual game rendering and typeset text, with no generative image model. This is an independent football prototype, not an officially licensed product or an authoritative contracts/valuation database. [Full asset and data credits](THIRD_PARTY_NOTICES.md).
 

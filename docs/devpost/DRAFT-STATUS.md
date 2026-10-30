@@ -1,16 +1,13 @@
-# Touchline Analytics — Devpost draft
+# Shared Touchline project — event status
 
-Created October 30, 2026, using the connected Devpost account.
+Verified October 30, 2026 through Devpost and the event editor.
 
-- Project: [Touchline Analytics](https://devpost.com/software/touchline-analytics)
-- AQX editor: [Continue editing the draft](https://devpost.com/submit-to/31793-aqx-sports-analytics-data-bowl-4-0/manage/submissions/1273521-touchline-analytics/project_details/edit)
-- Project ID: `1519081`
-- Draft event record ID: `1273521`
-- Event: AQX Sports Analytics Data Bowl 4.0
-- Verified project state: `draft`; publication timestamp: null; event submission timestamp: null.
+- Project: [Touchline — Play, Manage & Analyze](https://devpost.com/software/touchline-analytics), ID 1519081.
+- Next Byte editor: [Review the saved draft](https://devpost.com/submit-to/31627-next-byte-hacks-v5/manage/submissions/1273664-touchline-play-manage-analyze/project_details/edit), event record 1273664. Status: **Draft**, three of four steps complete, no submission timestamp.
+- AQX: Devpost already reported an existing submission dated October 30 at 2:12 p.m. Eastern before the Next Byte preparation work began. This work did not submit or resubmit it.
 
-The title, tagline, analytical story, 23 technology tags, application/source links, actual-game cover and seven captioned screenshots are saved. The editor shows three of four steps complete and remains Draft. The final terms checkbox was not accepted and the Submit project button was not clicked. The separate Footwise entry is unchanged. No final submit operation was performed.
+The owner explicitly chose to edit the shared project for both events after being told that project edits propagate to every linked event. The broadened title, pitch, game/multiplayer introduction and links now cover the complete app; the analytical results and practical-insight sections were retained unchanged. The saved shared story is [NEXT-BYTE-STORY.md](NEXT-BYTE-STORY.md); [AQX-STORY.md](AQX-STORY.md) retains the analytics-focused source version.
 
-Existing-project eligibility remains unresolved. The story discloses that Touchline predates the public repository and distinguishes the new analytical feature from the reused game. This record does not assert organizer approval.
+The shared gallery has ten captioned screenshots: seven existing analytical/integration images plus direct play, Draft & Europe and the shared Draft Duel result. The actual-game cover, 23 tags and existing video URL https://youtu.be/CTZCpBMQs6U remain. The 2:40 full-game video is available locally for Next Byte; changing its hosted video link was not part of this edit.
 
-The optional video field is blank because the prepared MP4 has not been uploaded to a supported YouTube/Vimeo URL. The local video is ready in the media packet. Screenshot uploads were completed after the owner enabled Chrome extension file access.
+The Next Byte final terms checkbox was left unchecked and Submit project was not clicked. Footwise was not changed. Existing-project eligibility restrictions remain disclosed; these edits do not establish organizer approval.

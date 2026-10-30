@@ -1,6 +1,6 @@
 # Event readiness — October 30, 2026
 
-Touchline Analytics is saved on Devpost as an AQX draft, including its story and media. No final event submission was performed. See [draft status](DRAFT-STATUS.md). Official event data below was read through the connected Devpost tools, not inferred from similar events.
+The shared Touchline project is submitted to AQX, while its Next Byte record remains a draft. This preparation work did not perform a final event submission. See [draft status](DRAFT-STATUS.md). Official event data below was read through the connected Devpost tools, not inferred from similar events.
 
 ## Next Byte Hacks V5
 
