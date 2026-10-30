@@ -30,7 +30,11 @@ node --test --test-concurrency=1 browser-tests/*.test.js
 pnpm start
 ```
 
-The development server uses port 4173. `dist/` contains the actual unminified application source; it is intentionally committed. `api/` contains the optional guarded inference adapter, disabled by default. `tests/` and `browser-tests/` contain simulation, compatibility, save-recovery and UI regressions. `data/manager` contains dated research candidates, not verified runtime truth. `reports/` contains generated regression worlds, not personal player saves. `assets/` contains original source artwork/prototypes; the live game serves `dist/`.
+The development server uses port 4173. `dist/` contains the actual unminified application source; it is intentionally committed. `api/` contains the Draft Duel room server and the optional guarded inference adapter, disabled by default. `tests/` and `browser-tests/` contain simulation, compatibility, save-recovery and UI regressions. `data/manager` contains dated research candidates, not verified runtime truth. `reports/` contains generated regression worlds, not personal player saves. `assets/` contains original source artwork/prototypes; the live game serves `dist/`.
+
+**Draft Duel** adds two-player private rooms, server-owned picks, hidden approaches, shared statistical results, reconnects and mutual rematches. Multiplayer on the Vercel Home screen opens the shared Sites room service. For independent local/LAN play, run `pnpm start` and open `/multiplayer.html`. See [multiplayer setup and boundaries](docs/MULTIPLAYER.md).
+
+The **[public Touchline Site](https://touchline-draft-duel.aaravj117958.chatgpt.site)** hosts the complete game, including Multiplayer on Home, with D1 rooms and live event updates. Its deployable source mirror is in `hosting/sites/`. Both public editions use the same room service.
 
 Use the serial browser command above: tests include complete rendered-match timing and must not compete with parallel GPU workloads. CI verifies the same source; a green local check is not a physical-device or enjoyment certification.
 
@@ -50,6 +54,6 @@ Original project code is available under the existing [MIT license](LICENSE). Ke
 
 ## Demonstration and limits
 
-See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. No live AI, online multiplayer, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
+See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. The published static edition has no multiplayer room backend. No live AI, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
 
 The current public edition passed **281 unit tests and 15 focused browser journeys**. The earlier full browser and performance runs remain tied to their original releases; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.

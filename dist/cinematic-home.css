@@ -89,3 +89,6 @@ body.motion-off .cinema-art{will-change:auto;transform:none}
  .cinema-home .cinema-mode.is-selected{outline:2px solid Highlight;outline-offset:-2px}
  :is(.cinema-home,.cinema-desk) :is(button,a):focus-visible{outline:3px solid Highlight;outline-offset:4px}
 }
+
+/* Shared online rooms live alongside the solo modes. */
+.cinema-multiplayer{color:var(--home-lime)!important;text-decoration:none;border-top:1px solid #c4f56866!important;margin-top:8px}.cinema-multiplayer .cinema-mode-arrow{opacity:1}@media(max-width:600px){.cinema-multiplayer{grid-column:1/-1;margin-top:0;min-height:54px}.cinema-multiplayer .cinema-mode-arrow{display:block}}

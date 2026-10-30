@@ -1,0 +1,84 @@
+.opening-backdrop{position:absolute;inset:0;overflow:hidden;z-index:-1;pointer-events:none}.opening-backdrop .opening-art,.opening-backdrop .opening-shade{z-index:auto}
+.opening-intro{position:fixed;inset:0;width:100%;height:100%;max-width:none;max-height:none;margin:0;padding:0;border:0;background:#080d0c;color:#f4f5ed;overflow:auto;overflow-x:hidden;font-family:'DM Sans',sans-serif;isolation:isolate}
+.opening-intro::backdrop{background:#080d0c}.opening-intro[open]{display:flex;flex-direction:column;justify-content:space-between;min-height:100dvh;border-radius:0}
+.opening-art,.opening-shade{position:absolute;inset:0;z-index:-1;pointer-events:none}.opening-art{background:url('./assets/studio-pitch.svg') center/cover;opacity:0;transform:scale(1.06);transition:opacity 1.2s,transform 7s}.opening-shade{background:linear-gradient(180deg,#080d0cb8,transparent 42%,#080d0ce8),linear-gradient(90deg,#080d0cb5,#080d0c28)}
+.opening-intro[data-stage=title] .opening-art{opacity:.75;transform:scale(1)}.opening-header,.opening-footer{padding:32px 48px;display:flex;gap:24px;align-items:center;justify-content:space-between;font-size:10px;letter-spacing:2px}.opening-header button,.opening-enter{min-height:48px;border:1px solid #ffffff40;background:#10181399;color:inherit;padding:12px 20px;font:inherit;cursor:pointer}.opening-header button{font-size:12px;letter-spacing:0}.opening-intro button:focus-visible{outline:3px solid #c3fb72;outline-offset:5px}
+.opening-centre{text-align:center;padding:32px 24px}.opening-eyebrow{font-size:11px;letter-spacing:4px;color:#c1c9bd}.opening-centre h1{position:relative;display:inline-block;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-style:italic;font-size:clamp(64px,13vw,190px);line-height:.9;letter-spacing:-.035em;margin:28px 0;animation:opening-logo 1s both}.opening-centre h1 span{color:#c3fb72}.opening-centre h1 i{position:absolute;left:-5%;top:48%;width:110%;height:5px;background:#c3fb72;transform:rotate(-9deg) scaleX(0);animation:opening-slice .65s .45s both}.opening-motto{font-size:12px;letter-spacing:6px;margin:8px 0 36px}.opening-enter{display:block;margin:0 auto;background:#c3fb72;color:#102010;border:0;font-size:14px;font-weight:700;min-width:224px}.opening-enter[hidden],.opening-loading[hidden]{display:none}.opening-enter span{margin-left:32px}
+.opening-footer{align-items:flex-end;flex-wrap:wrap;letter-spacing:1px;color:#acb6a8}.opening-loading{width:min(300px,100%)}.opening-loading label{display:block;margin-bottom:12px}.opening-loading progress{display:block;width:100%;height:4px;accent-color:#c3fb72}.opening-status{font-size:12px;letter-spacing:0;line-height:1.6}.opening-footer>span{font-size:9px}
+@keyframes opening-logo{from{opacity:0;transform:translateY(18px) skewX(-4deg)}to{opacity:1;transform:none}}@keyframes opening-slice{50%{transform:rotate(-9deg) scaleX(1)}to{transform:rotate(-9deg) scaleX(0)}}
+@media(max-width:600px){.opening-header,.opening-footer{padding:24px;gap:20px}.opening-header>span{max-width:150px;font-size:9px;line-height:1.8}.opening-eyebrow{font-size:9px;letter-spacing:2px}.opening-motto{letter-spacing:3px;font-size:10px}.opening-footer{display:block}.opening-status{margin:16px 0}.opening-centre{padding:24px 12px}}
+@media(prefers-reduced-motion:reduce){.opening-intro *{animation:none!important;transition:none!important;transform:none!important}.opening-centre h1 i{display:none}}
+body.motion-off .opening-intro *{animation:none!important;transition:none!important;transform:none!important}body.motion-off .opening-centre h1 i{display:none}
+
+.opening-actions{display:flex;align-items:center;gap:10px}.opening-actions button[hidden]{display:none}.opening-stage{position:absolute;right:0;top:0;width:58%;height:100%;pointer-events:none;opacity:1;z-index:0}.opening-stage canvas{display:block;width:100%;height:100%;outline:none}.opening-intro[data-layout=stage] .opening-stage{opacity:1}.opening-intro.has-3d[data-stage=title] .opening-art{opacity:.24;filter:blur(2px)}.opening-intro[data-layout=stage] .opening-centre{width:64%;text-align:left;padding-left:clamp(48px,7vw,130px);padding-right:0}.opening-intro[data-layout=stage] .opening-centre h1{font-size:clamp(64px,9vw,142px)}.opening-intro[data-layout=stage] .opening-enter{margin-left:0}.opening-intro[data-layout=stage] .opening-eyebrow{letter-spacing:2px}.opening-intro[data-layout=stage] .opening-motto{letter-spacing:4px}
+@media(max-width:900px){.opening-intro[data-layout=stage] .opening-header>span{display:none}.opening-actions{margin-left:auto}.opening-intro[data-layout=stage] .opening-stage{top:68px;width:100%;height:56svh}.opening-intro[data-layout=stage] .opening-centre{width:100%;margin-top:auto;padding:22px 24px 12px;background:linear-gradient(transparent,#080d0cdd)}.opening-intro[data-layout=stage] .opening-centre h1{font-size:clamp(64px,11vw,94px);margin:12px 0 16px}.opening-intro[data-layout=stage] .opening-motto{margin:0 0 22px}.opening-intro[data-layout=stage] .opening-eyebrow{font-size:9px;letter-spacing:1.5px}.opening-intro[data-layout=stage] .opening-footer{padding-top:12px}.opening-intro[data-layout=stage] .opening-footer .opening-status{margin-top:0}.opening-intro[data-layout=stage] .opening-stage canvas{mask-image:none}.opening-header{gap:12px}.opening-actions button{font-size:11px;padding:12px 14px}}
+@media(max-height:650px) and (max-width:900px){.opening-intro[data-layout=stage] .opening-stage{height:43svh}.opening-intro[data-layout=stage] .opening-eyebrow{display:none}.opening-intro[data-layout=stage] .opening-centre{padding-top:0}.opening-intro[data-layout=stage] .opening-centre h1{font-size:64px}.opening-intro[data-layout=stage] .opening-motto{margin-bottom:12px}}
+
+.opening-veil{position:absolute;inset:0;background:#080d0c;z-index:1;pointer-events:none;transition:opacity .65s}.opening-intro[data-stage=title] .opening-veil{opacity:0}.opening-header,.opening-centre,.opening-footer{position:relative;z-index:2}
+
+/* A separately framed, original stadium stage; the supplied photograph remains
+   the unsupported-renderer fallback instead of competing with the 3D actor. */
+.opening-intro.has-3d{background:radial-gradient(ellipse at 82% 25%,#1c3140 0,#0e1b22 36%,#080e12 72%)}
+.opening-intro.has-3d:before{content:'';position:absolute;top:0;left:0;width:21%;height:3px;background:#c3fb72;z-index:3}
+.opening-intro.has-3d[data-stage=title] .opening-art{opacity:0;filter:none}
+.opening-intro[data-layout=stage] .opening-stage{width:62%}
+.opening-intro[data-layout=stage] .opening-centre{width:48%;padding-left:clamp(48px,6vw,104px)}
+.opening-intro[data-layout=stage] .opening-centre h1{font-size:clamp(110px,13.2vw,190px);line-height:.79;margin:28px 0 30px}
+.opening-intro[data-layout=stage] .opening-centre h1 span{display:block}
+.opening-intro[data-layout=stage] .opening-eyebrow{color:#c3fb72;font-size:10px;letter-spacing:2px;line-height:1.8}
+.opening-intro.has-3d .opening-motto{color:#cad3cd}
+.opening-enter{transition:background-color .18s,border-color .18s}
+.opening-enter:hover{background:#d7ff9f}.opening-header button:hover{border-color:#c3fb72;background:#1c2d28}
+.opening-beat{position:absolute;right:48px;bottom:100px;display:flex;flex-direction:column;gap:8px;color:#d4e0d9;font-size:9px;letter-spacing:2px;text-align:right;pointer-events:none}
+.opening-beat span{color:#9aaea4;font-size:8px}.opening-beat strong{font-weight:500}
+.opening-stage:after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#080e12,transparent 19%),linear-gradient(0deg,#080e12,transparent 20%)}
+.opening-beat{z-index:1}
+.opening-intro[data-layout=stage] .opening-enter[hidden],.opening-intro[data-layout=stage] [data-opening-motion][hidden]{display:block!important;visibility:hidden}
+.opening-intro[data-layout=stage] .opening-loading{position:absolute;left:48px;bottom:78px}
+.opening-intro[data-layout=stage] .opening-header{box-sizing:border-box;min-height:112px;flex-shrink:0}
+.opening-intro[data-layout=stage] .opening-footer{box-sizing:border-box;min-height:110px;flex-shrink:0}
+.opening-intro:not(.has-3d) .opening-beat{display:none}
+@media(max-width:900px){
+ .opening-intro[data-layout=stage] .opening-stage{top:72px;width:100%;height:55svh}
+ .opening-intro[data-layout=stage] .opening-centre{width:100%;padding:22px 24px 12px;background:linear-gradient(transparent,#080e12 30%)}
+ .opening-intro[data-layout=stage] .opening-centre h1{font-size:clamp(64px,14vw,110px);line-height:.9;margin:12px 0 18px}
+ .opening-intro[data-layout=stage] .opening-centre h1 span{display:inline}
+ .opening-intro[data-layout=stage] .opening-eyebrow{font-size:9px;letter-spacing:1px}
+ .opening-beat{right:24px;bottom:16px;gap:5px;font-size:8px;letter-spacing:1px}
+ .opening-beat span{font-size:7px}
+ .opening-stage:after{background:linear-gradient(0deg,#080e12,transparent 24%)}
+ .opening-intro[data-layout=stage] .opening-header{min-height:96px}
+ .opening-intro[data-layout=stage] .opening-footer{min-height:132px}
+ .opening-intro[data-layout=stage] .opening-loading{left:24px;bottom:110px;width:calc(100% - 48px)}
+}
+@media(max-height:650px) and (max-width:900px){
+ .opening-intro[data-layout=stage] .opening-stage{height:42svh}
+ .opening-intro[data-layout=stage] .opening-centre{padding-top:0}
+ .opening-intro[data-layout=stage] .opening-centre h1{font-size:64px;margin:8px 0 14px}
+ .opening-beat{bottom:5px}
+}
+/* Short landscape screens get a split composition rather than a compressed
+   portrait stage hidden behind the entry panel. */
+@media(min-width:600px) and (max-width:900px) and (max-height:500px){
+ .opening-intro[data-layout=stage] .opening-stage{inset:0 0 0 auto;width:54%;height:100%}
+ .opening-intro[data-layout=stage] .opening-header{min-height:80px;padding:16px 24px}
+ .opening-intro[data-layout=stage] .opening-centre{width:48%;margin:0;padding:0 0 12px 24px;background:none}
+ .opening-intro[data-layout=stage] .opening-footer{min-height:64px;padding:12px 24px}
+ .opening-intro[data-layout=stage] .opening-footer>span{display:none}
+ .opening-intro[data-layout=stage] .opening-status{margin:0;font-size:10px}
+ .opening-intro[data-layout=stage] .opening-motto{letter-spacing:2px;margin-bottom:16px}
+ .opening-intro[data-layout=stage] .opening-loading{left:24px;bottom:44px;width:220px}
+ .opening-intro[data-layout=stage] .opening-enter{min-width:200px}
+ .opening-stage:after{background:linear-gradient(90deg,#080e12,transparent 25%),linear-gradient(0deg,#080e12,transparent 22%)}
+ .opening-beat{right:24px;bottom:24px}
+}
+/* Respect the user's high-contrast palette rather than retaining studio inks
+   against a system-replaced background. Keep entry controls unmistakable. */
+@media(forced-colors:active){
+ .opening-intro,.opening-intro[data-layout=stage] .opening-centre{background:Canvas;color:CanvasText}
+ .opening-intro .opening-shade,.opening-intro .opening-veil,.opening-stage:after{display:none}
+ .opening-intro[data-layout=stage] :is(h1,h1 span,p,label,.opening-header>span,.opening-footer>span,.opening-beat){color:CanvasText;text-shadow:none}
+ .opening-intro .opening-beat{background:Canvas}
+ .opening-intro button{background:ButtonFace;color:ButtonText;border:1px solid ButtonText;box-shadow:none}
+ .opening-intro button:focus-visible{outline:3px solid Highlight;outline-offset:4px}
+}

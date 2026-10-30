@@ -1,0 +1,1 @@
+if(location.hostname.endsWith('.vercel.app')){location.replace('https://touchline-draft-duel.aaravj117958.chatgpt.site/duel'+location.search);}else{import('./multiplayer.js').catch(()=>{document.querySelector('#connection').textContent='Multiplayer could not load. Please reload and try again.';});}

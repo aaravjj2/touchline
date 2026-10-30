@@ -1,0 +1,29 @@
+import {modeStorage} from './mode-storage.js';
+import {createPractice} from './practice-core.js';
+import {upcomingFixtures,standings} from './competition.js';
+import {advanceInWorker} from './season-client.js';
+import {fixtureDefinition} from './fixture-engine.js';
+import {playFixture} from './fixture-player.js';
+const key=new URLSearchParams(location.search).has('qa')?'touchline.practice.qa.v2':'touchline.practice.v2';
+let practice=null,host={},busy=false,seasonController=null;try{practice=JSON.parse(localStorage.getItem(key)||'null');}catch{}
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const btn=(text,action,style='primary')=>`<button class="btn ${style}" data-practice="${action}">${text}</button>`;
+const writePractice=modeStorage(key,()=>host.toast('Device storage is full. Keep this match open; the previous save is preserved.'));
+function save(options={}){return writePractice(practice,options);}
+export function renderPractice(){
+ const c=practice?.competition,next=c&&upcomingFixtures(c).find(m=>m.home===c.user||m.away===c.user),names=id=>c?.teams.find(t=>t.id===id)?.name;
+ return `<section class="hero"><div><div class="season-label"><span></span>MANAGERIAL MODE · PRACTICE LEAGUE</div><h1>SIX FIXTURES.<br><em>FIND YOUR FOOTBALL.</em></h1><p>Four original clubs. Home and away. Manage a physical fixture or finish the remaining league with fast statistical simulation.</p></div></section>${busy?'<div class="card mode-card"><h2>Matchday in progress…</h2><p id="practice-progress" role="status">Your last completed round remains saved.</p><button class="btn secondary" data-practice="cancel">Stop after this round</button></div>':!c?`<section class="card mode-card"><h2>Your rehearsal season.</h2><p>Bring your Squad Builder XI, manage matches or simulate them, and inspect the table and recorded replay.</p>${btn('Start practice season','start')}</section>`:`<div class="competition-layout"><section class="card"><div class="card-heading"><h2>Practice standings</h2><span class="badge lime">${c.round} / 6 ROUNDS</span></div><table class="league-table"><thead><tr><th>#</th><th>CLUB</th><th>P</th><th>GD</th><th>PTS</th></tr></thead><tbody>${standings(c).map((t,i)=>`<tr class="${t.id===c.user?'mine':''}"><td>${i+1}</td><td>${esc(t.name)}</td><td>${t.p}</td><td>${t.gf-t.ga}</td><td>${t.pts}</td></tr>`).join('')}</tbody></table><div class="mode-card"><h3>Your season</h3>${c.results.filter(m=>m.home===c.user||m.away===c.user).map(m=>`<div class="fixture"><span>${esc(names(m.home))}</span><b>${m.score.join(' : ')}</b><span>${esc(names(m.away))}</span></div>`).join('')||'<p>No fixtures played yet.</p>'}</div></section><aside><section class="card mode-card"><span class="eyebrow highlight">${c.champion?'SEASON COMPLETE':'ROUND '+(c.round+1)}</span><h2>${c.champion?esc(names(c.champion))+' win the league.':esc(names(next?.home))+' vs '+esc(names(next?.away))}</h2><p>${c.champion?'Your final table is saved. Start another rehearsal whenever you are ready.':next?.home===c.user?'Home fixture · your ground':'Away fixture · prepare for a different ground'}</p>${next?btn(practice.pending?'Resume practice fixture':'Manage practice fixture','manage')+btn('Simulate remaining practice league','simulate','secondary'):btn('Start another practice season','restart')}${c.results.some(m=>(m.home===c.user||m.away===c.user)&&m.engineVersion!=='fast-season-1')?btn('Replay last practice match','replay','secondary'):''}</section></aside></div>`}<p class="match-annotation">Separate from manager and player careers. Earlier six-match practice records remain in your original save; this repaired league uses a separate save and an actual home-and-away schedule.</p>`;
+}
+export function installPractice(callbacks){host=callbacks;document.addEventListener('click',async e=>{const b=e.target.closest('[data-practice]');if(!b)return;if(b.dataset.practice==='cancel'){seasonController?.abort();return;}if(busy)return;try{
+ const action=b.dataset.practice;
+ if(action==='start'||action==='restart'){if(action==='restart'&&!confirm('Start another practice season? Your completed table will be replaced.'))return;const context=host.context();practice=createPractice(context.club,context.lineup,context.formation,Date.now()%100000000);save();host.render();return;}
+ const c=practice.competition,next=upcomingFixtures(c).find(m=>m.home===c.user||m.away===c.user);
+ if(action==='replay'){const last=c.results.findLast(m=>(m.home===c.user||m.away===c.user)&&m.engineVersion!=='fast-season-1');if(last)await playFixture({replay:last,team:last.home===c.user?0:1,stakes:'Practice league · recorded fixture'});return;}
+ if(!next)return;
+ let result=null;if(action==='manage'){
+  const def=practice.pending?.definition||fixtureDefinition(c.teams.find(t=>t.id===next.home),c.teams.find(t=>t.id===next.away),next.seed);
+  result=await playFixture({definition:def,resume:practice.pending,team:next.home===c.user?0:1,stakes:'Practice league · round '+(c.round+1),onCheckpoint(p){practice.pending=p;return save({background:p.background});}});if(!result)return;
+ }else if(action==='simulate'){if(practice.pending){host.toast('Resume your pending practice fixture to keep its decisions.');return;}}else return;
+ busy=true;seasonController=new AbortController();host.render();const overrides=result?{[next.home+'|'+next.away+'|'+next.seed]:result}:{};
+ const updated=await advanceInWorker(c,overrides,action==='simulate'?'season':'matchday',{signal:seasonController.signal,onProgress:p=>{const el=document.querySelector('#practice-progress');if(el)el.textContent=`Round ${p.round} / ${p.total}`;}});practice.competition=updated.competition;practice.pending=null;save();host.toast('Practice table updated. Your result is recorded once.');
+ }catch(error){host.toast(error.message);}finally{busy=false;seasonController=null;host.render();}});}

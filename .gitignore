@@ -10,3 +10,6 @@ playwright-report/
 test-results/
 *.log
 .DS_Store
+
+# Separate live Sites source checkout; deployable mirror is in hosting/sites.
+/sites/

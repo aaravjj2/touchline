@@ -1,5 +1,15 @@
 # Public browser deployment
 
+## Full app and shared multiplayer update
+
+The Git-connected Vercel production project remains `touchline`, with `main` as its production branch and `dist` as its static root. The current source includes a prominent Multiplayer entry on Home. On `*.vercel.app`, `/multiplayer.html` preserves its invite query and opens the public Sites room service at `https://touchline-draft-duel.aaravj117958.chatgpt.site/duel`. Local Node/LAN play keeps its own backend. Vercel itself remains static-only; the two public frontends share the existing Sites D1 service.
+
+The full game is also published at the Sites root URL. Its deployable source is mirrored in `hosting/sites/` from Site source commit `37cdaa0d480973c9f43ac70a270432da5107699a`. Its 5,401 offline assets passed anonymous live hash verification. Immutable binary HTML snapshots let offline preparation verify canonical HTML while ordinary online responses retain the host's per-request HTML additions.
+
+Existing installed offline builds stay pinned until the player checks for and applies the prepared update in Settings. Saves retain their original formats. Different origins keep separate device saves; use archive export/import to move them.
+
+The older deployment record below is retained as historical verification.
+
 Play at **https://touchline-beta-ten.vercel.app/**. Build **3.17.0-preview.3** was deployed to production on 26 October 2026 from commit `46d5ccf992b2fc6f974bb38d540ae85c42c6d15f`.
 
 The existing Vercel `touchline` project is connected to `aaravjj2/touchline`, with production branch `main`. Settings use Framework **Other**, Root Directory **dist**, Output Directory **.**, empty build/install overrides, and no files outside the root. The already-built static browser app is served directly; the optional repository-root API adapter is outside this deployment. No live AI service is enabled.
