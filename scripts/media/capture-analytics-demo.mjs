@@ -2,7 +2,7 @@ import {chromium} from '@playwright/test';
 import {mkdir,writeFile,readFile} from 'node:fs/promises';
 import {spawn} from 'node:child_process';
 import {resolve,relative} from 'node:path';
-import {dismissOpeningIntro} from '../browser-tests/helpers/opening.mjs';
+import {dismissOpeningIntro} from '../../browser-tests/helpers/opening.mjs';
 const out=resolve('work/analytics-media'),base=process.env.ANALYTICS_DEMO_URL||'http://127.0.0.1:4173',ff=resolve('work/media-tools/node_modules/ffmpeg-static/ffmpeg.exe');await mkdir(out+'/raw',{recursive:true});await mkdir('work/devpost-media/screenshots',{recursive:true});
 const browser=await chromium.launch(),c=await browser.newContext({viewport:{width:1600,height:900},recordVideo:{dir:out+'/raw',size:{width:1600,height:900}}}),p=await c.newPage(),errors=[],timeline=[];p.setDefaultTimeout(20000);p.on('pageerror',e=>errors.push(e.message));let start;
 async function hold(title,caption,seconds=7){timeline.push({start:(Date.now()-start)/1000,title,caption});await p.waitForTimeout(seconds*1000);}

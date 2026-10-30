@@ -1,26 +1,62 @@
 # Touchline
 
-Manage a football club, play its matches and revisit your decisions in a browser sandbox.
+**Manage the club. Play the match. Understand the chances.**
 
-Vanilla JavaScript and Three.js. Keyboard and touch play, club careers, natural-position drafting, recorded replays and local save recovery. No account or paid AI service is required. Live AI is disabled.
+A browser football sandbox with club and player careers, direct match control, private two-player drafting, recorded replays and real-match analytics. No account or installation is needed to play the public game.
 
-[Play in your browser](https://touchline-beta-ten.vercel.app/) · [Video walkthrough](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-demo.mp4) · [Download playable preview](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-3.18.2-preview.zip) · [Captions](https://github.com/aaravjj2/touchline/releases/download/v3.18.0-preview.2/touchline-demo.srt)
+[**Play Touchline**](https://touchline-draft-duel.aaravj117958.chatgpt.site/) · [**Open Analytics**](https://touchline-draft-duel.aaravj117958.chatgpt.site/analytics.html) · [**Challenge a friend**](https://touchline-draft-duel.aaravj117958.chatgpt.site/duel) · [Vercel edition](https://touchline-beta-ten.vercel.app/) · [Documentation](docs/README.md)
 
-## Real match analytics
+![Touchline — actual game rendering with typeset text](assets/marketing/touchline-cover.png)
 
-[Open Analytics](https://touchline-beta-ten.vercel.app/analytics.html): explore historical Wyscout chance creation, shot maps and a frozen shot-conversion model evaluated independently on England and World Cup data. Observed events, model estimates and game simulation remain distinct. See [method and reproduction](docs/ANALYTICS.md).
+## What you can do
 
-## Try it locally
+| Experience | Features |
+| --- | --- |
+| **Club management** | Prepare for opponents, select an XI, adjust tactics, explore transfers and finances, and progress through a season. |
+| **Draft & Europe** | Reveal clubs and eras, choose natural-position players, build a squad and enter a European campaign. |
+| **Direct play** | Move, pass, shoot, tackle and switch players with keyboard or touch controls; return to management or explicitly simulate to full-time. |
+| **Player career & practice** | Develop a created player or repeat passing, shooting and defending exercises with device-saved progress. |
+| **Recorded decisions** | Replay match commands and compare alternative simulated timelines. |
+| **Draft Duel** | Invite a friend, alternate unique picks, choose hidden approaches, share one result, reconnect and request a mutual rematch. |
+| **Real match analytics** | Filter historical shots, inspect source-linked maps, compare chance-creation routes and review independent shot-model evaluation. |
 
-Install **Node.js 24 or later**, clone this repository, then run:
+Solo progress stays on your device, with export and recovery tools in Settings. Offline preparation supports solo play and the bundled analysis. Shared multiplayer requires an internet connection.
+
+## Real football data, independently evaluated
+
+Analytics uses attributed **CC BY 4.0 Wyscout match events**, separately from the game simulation. A small logistic model uses shot distance, angle and body part. Development uses 32,010 shots from four leagues; England and the World Cup are held out from training and tuning.
+
+| Evaluation data | Shots | Constant log loss | Distance-only log loss | Full-model log loss |
+| --- | ---: | ---: | ---: | ---: |
+| England 2017–18 | 8,451 | 0.3427 | 0.2987 | **0.2910** |
+| World Cup 2018 | 1,377 | 0.3054 | 0.2627 | **0.2558** |
+
+Lower log loss is better. The dashboard also shows Brier scores, calibration, sample sizes, uncertainty intervals from 2,000 whole-match bootstrap resamples and inconclusive findings. These are historical observational comparisons, not causal tactical effects or match-winner forecasts.
+
+[Method and reproduction](docs/ANALYTICS.md) · [Verification and limitations](docs/ANALYTICS-VERIFICATION.md) · [Original dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000)
+
+<details>
+<summary>See the shot map and model report</summary>
+
+![Chance creation and shot map](docs/screenshots/analytics-chances.png)
+
+![Independent shot-quality evaluation](docs/screenshots/analytics-model.png)
+
+</details>
+
+## Run locally
+
+Install **Node.js 24 or later**, then:
 
 ```sh
-node scripts/local-demo-server.mjs
+git clone https://github.com/aaravjj2/touchline.git
+cd touchline
+node server.mjs
 ```
 
-Open **http://127.0.0.1:4280/?qa=1** in a fresh browser profile. This static demo route needs no package installation. Saves stay on your device; QA saves are separate from ordinary play. Choose **Learn to play** for repeatable exercises, or **Explore Super League → Test league + cup preview** for a career. The verified opening-day option intentionally remains locked.
+Open **http://127.0.0.1:4173/**. Basic play, analytics and local Draft Duel use the committed source without a build step. For phone/LAN configuration and room persistence, see [multiplayer setup](docs/MULTIPLAYER.md). Local rooms are independent of the public Sites room service.
 
-Move with WASD/arrows; J passes, L shoots, Q switches, Shift sprints and C tackles. Touch controls appear on touch layouts. Preparation offers **Play yourself**, **Manage live** and **Simulate**. Settings contains presentation options and archive export/import/recovery.
+**Controls:** WASD/arrows move · J pass · L shoot · Q switch · Shift sprint · C tackle. Touch layouts expose on-screen controls.
 
 ## Develop and verify
 
@@ -28,36 +64,45 @@ Move with WASD/arrows; J passes, L shoots, Q switches, Shift sprints and C tackl
 npm install -g pnpm@11.25.0
 pnpm install --frozen-lockfile
 pnpm exec playwright install chromium
-pnpm build
+pnpm check
 pnpm test
-node --test --test-concurrency=1 browser-tests/*.test.js
-pnpm start
+pnpm test:e2e
 ```
 
-The development server uses port 4173. `dist/` contains the actual unminified application source; it is intentionally committed. `api/` contains the Draft Duel room server and the optional guarded inference adapter, disabled by default. `tests/` and `browser-tests/` contain simulation, compatibility, save-recovery and UI regressions. `data/manager` contains dated research candidates, not verified runtime truth. `reports/` contains generated regression worlds, not personal player saves. `assets/` contains original source artwork/prototypes; the live game serves `dist/`.
+Run `pnpm build` after changing served assets to refresh the verified offline manifest. Browser tests run serially because they share local ports and some exercise rendered-match timing.
 
-**Draft Duel** adds two-player private rooms, server-owned picks, hidden approaches, shared statistical results, reconnects and mutual rematches. Multiplayer on the Vercel Home screen opens the shared Sites room service. For independent local/LAN play, run `pnpm start` and open `/multiplayer.html`. See [multiplayer setup and boundaries](docs/MULTIPLAYER.md).
+To reproduce the analysis in a dedicated **Python 3.12** environment:
 
-The **[public Touchline Site](https://touchline-draft-duel.aaravj117958.chatgpt.site)** hosts the complete game, including Multiplayer on Home, with D1 rooms and live event updates. Its deployable source mirror is in `hosting/sites/`. Both public editions use the same room service.
+```sh
+python -m pip install -r scripts/analytics/requirements.txt
+python scripts/analytics/build.py
+python scripts/analytics/test_pipeline.py
+```
 
-Use the serial browser command above: tests include complete rendered-match timing and must not compete with parallel GPU workloads. CI verifies the same source; a green local check is not a physical-device or enjoyment certification.
+Raw downloads are cached under ignored `work/`; source versions and SHA-256 checksums are pinned. No Python service, paid AI account or live inference is required by the published app.
 
-## Public edition and credits
+Latest verification: **290 unit tests, 9 Python pipeline/audit tests, 21 focused browser regressions and 23 Sites checks** passed. A separate run reproduced all 453 analysis files byte-for-byte on the reference environment. These checks do not constitute a human usability study or physical-device certification. [Exact scope](docs/ANALYTICS-VERIFICATION.md).
 
-Build **3.20.0-preview.1** adds contextual possession guidance during direct play and actionable opponent preparation, with links to approach, rotation and bench decisions. See [release notes](docs/RELEASE-3.20.md).
+## Repository map
 
-Build **3.19.0-preview.1** adds a guided three-skill practice journey with remembered device progress and direct retry/next actions. Practice remains separate from careers and recorded matches. See [practice release notes](docs/RELEASE-3.19.md). The linked 3.18 video and download remain versioned snapshots.
+| Path | Purpose |
+| --- | --- |
+| [`dist/`](dist/) | **Actual browser source and served assets**, including analytics. Intentionally committed; do not treat it as disposable build output. |
+| [`api/`](api/) | Local Draft Duel service and optional inference adapter, disabled by default. |
+| [`scripts/analytics/`](scripts/analytics/) | Reproducible data extraction, model training, source lock and audit tests. |
+| [`scripts/media/`](scripts/media/) | Actual-app capture, non-generative cover/video assembly and draft-packet tooling. |
+| [`tests/`](tests/) / [`browser-tests/`](browser-tests/) | Unit and browser regressions. |
+| [`docs/`](docs/README.md) | Feature guides, release notes, verification and Devpost drafts. |
+| [`hosting/sites/`](hosting/README.md) | Deployable mirror of the native Sites app, including Workers/D1 multiplayer. |
+| [`data/`](data/README.md) / [`reports/`](reports/README.md) | Dated research and historical regression evidence, distinct from current runtime facts. |
+| [`assets/`](assets/) | Source artwork and marketing assets; runtime assets live under `dist/`. |
 
-Build **3.18.0-preview.2** switches Draft & Europe pick cards and formation portraits to licensed real photographs, with bundled credits and an explicit placeholder where no verified photo is available. Other modes keep original 3D portraits. 904 distinct photographs cover 460/566 Draft catalog names; remaining names show a labelled placeholder. See [photo release notes](docs/RELEASE-3.18.2.md).
+The Vercel edition serves `dist/`. Its Multiplayer link opens the same shared Sites room service as the full Sites edition. [Deployment guide](docs/DEPLOYMENT.md) · [Script guide](scripts/README.md).
 
-Build **3.18.0-preview.1** adds human-proportioned animated figures and a consistent original 3D portrait style. All 2,310 catalog entries have local images (2,135 identities), with 48 bundled variants for created players. These are original game characters, not photographs or accurate real-player likenesses. See [the 3.18 release notes](docs/RELEASE-3.18.md).
+## Project history and licenses
 
-Build **3.17.0-preview.3** replaces the supplied cinematic photograph with the existing original stadium SVG. Photographic player portraits were omitted in that build; the later Draft & Europe update restores individually licensed photos. Simulation rules, economies, gameplay saves and recorded commands retain their existing versions. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+Touchline is an existing project, with a disclosed foundation predating this public repository. ChatGPT and Codex assisted development, debugging, testing and documentation under human direction. See [contribution history](CONTRIBUTIONS.md); the [AQX Devpost project](https://devpost.com/software/touchline-analytics) remains a **draft, not an event submission**.
 
-Original project code is available under the existing [MIT license](LICENSE). Kenney rig/clips are CC0; Three.js is MIT; bundled fonts retain their OFL notices. Real club/player names and source facts are included as an unverified game/research sandbox. This is an independent prototype, not an officially licensed football product or an authoritative contracts database. Authored ratings, budgets and financial estimates are not real valuations or promises.
+Application source is [MIT licensed](LICENSE). Analytics data retains CC BY 4.0 attribution; photographs, Three.js, fonts and animation assets retain their own notices. The cover above uses actual game rendering and typeset text, with no generative image model. This is an independent football prototype, not an officially licensed product or an authoritative contracts/valuation database. [Full asset and data credits](THIRD_PARTY_NOTICES.md).
 
-## Demonstration and limits
-
-See [the demonstration guide](docs/DEMO.md) for the video, captions and exact recorded flow. Footage uses a deliberately seeded disposable QA career and browser automation; it is not a human playtest. The Vercel edition opens the shared Sites multiplayer room service. No live AI, cloud accounts or controller support is claimed. Founder economics, verified real-world squad data, independent art/game-feel assessment and physical-phone/Safari/screen-reader checks remain unfinished.
-
-The current public edition passed **281 unit tests and 15 focused browser journeys**. The earlier full browser and performance runs remain tied to their original releases; see [verification scope and reference setup](docs/VERIFICATION.md). Future November work is not represented as completed event work.
+[Release history](docs/releases/README.md) · [Earlier versioned demos](docs/DEMO.md) · [Contributing](CONTRIBUTING.md)

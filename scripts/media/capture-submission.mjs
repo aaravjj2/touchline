@@ -1,7 +1,7 @@
 import {chromium} from '@playwright/test';
 import {spawn} from 'node:child_process';
 import {mkdir,writeFile,readFile} from 'node:fs/promises';
-import {dismissOpeningIntro} from '../browser-tests/helpers/opening.mjs';
+import {dismissOpeningIntro} from '../../browser-tests/helpers/opening.mjs';
 const out='work/devpost-media',base='http://127.0.0.1:4350';
 await mkdir(out+'/screenshots',{recursive:true});await mkdir(out+'/raw',{recursive:true});
 const server=spawn(process.execPath,['server.mjs'],{env:{...process.env,PORT:'4350',COACH_ENABLED:'false',MULTIPLAYER_STORE:out+'/rooms.json'},windowsHide:true,stdio:'pipe'});

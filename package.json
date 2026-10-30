@@ -8,7 +8,7 @@
     "start": "node server.mjs",
     "check": "node scripts/check.mjs",
     "build": "node scripts/build-offline.mjs && node scripts/check.mjs",
-    "test:e2e": "node --test browser-tests/*.test.js",
+    "test:e2e": "node --test --test-concurrency=1 browser-tests/*.test.js",
     "models": "node scripts/models.mjs",
     "career:benchmark": "node scripts/career-ovr.mjs",
     "career:audit-super": "node scripts/audit-super-opening.mjs",

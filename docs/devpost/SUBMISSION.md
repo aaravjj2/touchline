@@ -6,7 +6,7 @@ Manage a club, build an XI, play the match, revisit your decisions—and draft a
 
 ## Project Story
 
-Paste [the full Markdown story](docs/devpost/PROJECT-STORY.md) into About the project. For AQX, use [the analytics-focused draft](docs/devpost/AQX-STORY.md) after resolving its existing-project eligibility requirements.
+Paste [the full Markdown story](PROJECT-STORY.md) into About the project. For AQX, use [the analytics-focused draft](AQX-STORY.md) after resolving its existing-project eligibility requirements.
 
 ## Problem
 
@@ -30,7 +30,7 @@ Vanilla JavaScript/Three.js game; browser persistence; Vinext/Workers/D1 shared 
 
 ## Built With
 
-[23 copy-ready tags](docs/devpost/BUILT-WITH.txt).
+[23 copy-ready tags](BUILT-WITH.txt).
 
 ## Testing Instructions
 

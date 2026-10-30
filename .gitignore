@@ -15,3 +15,6 @@ __pycache__/
 
 # Separate live Sites source checkout; deployable mirror is in hosting/sites.
 /sites/
+
+# Optional dedicated Python environment.
+.venv/
